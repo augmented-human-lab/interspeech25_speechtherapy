@@ -1,0 +1,1177 @@
+﻿Model_Size,Speaker,Voice_Type,Therapist_Error_Group,Therapist_Error_Group_old,Therapist_Error_Description,Therapist_Label_Start,Therapist_Label_End,sub match = 1,ins/del match?,manual,result,All_ASR_Errors
+turbo,SA004,grandfather,prosodic,prosodic,"fast speech rate - reduced articulatory precision on ""ninety"" ",5.33189,5.490525,2,2,,1,"substitution (4.96 - 5.42): ASR=''23'', Original=''NINETYTHREE''"
+turbo,SA004,grandfather,substitution,deletion,phonemic deletion smoke - moke ,74.617823,74.873401,2,2,,1,"substitution (74.36 - 74.8): ASR=''WALK'', Original=''AND''"
+turbo,SA001,grandfather,substitution,substitution,word replacement ancient -> accident,13.168761,14.019658,1,,,1,"substitution (13.08 - 13.5): ASR=''ACCIDENT'', Original=''ANCIENT''"
+turbo,SA001,grandfather,substitution,substitution,word replacement clings -> cleaning,30.88117,31.286472,1,,,1,"substitution (30.34 - 31.12): ASR=''CLEANING'', Original=''CLINGS''"
+turbo,SA001,grandfather,substitution,deletion,phonemic deletion likes -> like,87.955281,88.358213,1,,,1,"substitution (87.8 - 88.16): ASR=''LIKE'', Original=''LIKES''"
+turbo,SA001,rainbow,insertion,insertion,"word addition ""the""",10.930571,11.079893,2,1,,1,"insertion (10.88 - 11.04): ASR=''THE'', Original=''[NOT IN TRANSCRIPT]''"
+turbo,SA001,rainbow,insertion,insertion,"additional word ""rich""",18.429844,18.707156,2,2,1,1,"substitution (17.46 - 18.58): ASR=''ROUNDRITCH'', Original=''ROUND''; substitution (18.58 - 18.9): ASR=''ARK'', Original=''ARCH''"
+turbo,SA001,rainbow,substitution,substitution,phonemic substition look -> took,35.831759,36.426676,1,,,1,"substitution (35.1 - 36.1): ASR=''TOOK'', Original=''LOOK''"
+turbo,SA002,grandfather,substitution,substitution,word substitution coat -> clothes,16.392627,17.059709,1,,,1,"substitution (16.44 - 16.84): ASR=''CLOTHES'', Original=''COAT''"
+turbo,SA002,grandfather,substitution,deletion,syllable deletion swiftly -> swift,25.131915,25.623176,1,,,1,"substitution (24.92 - 25.34): ASR=''SWIFT'', Original=''SWIFTLY''"
+turbo,SA002,grandfather,substitution,substitution,word replacement utmost -> uppermost,42.207137,43.427535,1,,,1,"substitution (42.16 - 43.46): ASR=''UPPERMOST'', Original=''UTMOST''"
+turbo,SA002,grandfather,substitution,substitution,phonemic substitution quivers -> shiver,51.008479,51.970317,1,,,1,"substitution (49.5 - 51.84): ASR=''SHIVER'', Original=''QUIVERS''"
+turbo,SA002,grandfather,deletion,deletion,"word deletion ""our""",63.620977,64.629356,2,2,1,1,"deletion (63.76 - 63.76): ASR='', Original=''OUR''; substitution (64.58 - 65.16): ASR=''ORGANS'', Original=''ORGAN''"
+turbo,SA002,grandfather,substitution,substitution,word replacement winter -> weather,68.6939,69.143792,1,,,1,"substitution (68.5 - 68.9): ASR=''WEATHER'', Original=''WINTER''"
+turbo,SA002,grandfather,substitution,substitution,word replacement ooze -> zone,70.152172,70.886479,1,,,1,"substitution (69.76 - 70.44): ASR=''ZONE'', Original=''OOZE''"
+turbo,SA002,grandfather,substitution,substitution,phonemic substitition have -> had,83.349012,83.814418,1,,,1,"substitution (83.38 - 83.7): ASR=''HAD'', Original=''HAVE''"
+turbo,SA002,rainbow,insertion,insertion,"additional word ""as""",4.751112,5.345797,2,1,,1,"insertion (4.24 - 4.98): ASR=''AS'', Original=''[NOT IN TRANSCRIPT]''"
+turbo,SA002,rainbow,insertion,insertion,"word addition ""different""",15.010725,16.194924,2,1,,1,"insertion (14.62 - 15.72): ASR=''DIFFERENT'', Original=''[NOT IN TRANSCRIPT]''; insertion (15.9 - 16.4): ASR=''MANY'', Original=''[NOT IN TRANSCRIPT]''"
+turbo,SA002,rainbow,repetition,prosodic,"self corrected ""many beautiful colours""",15.977735,15.977735,2,2,1,1,"insertion (15.9 - 16.4): ASR=''MANY'', Original=''[NOT IN TRANSCRIPT]''"
+turbo,SA002,rainbow,substitution,substitution,phonemic substitution these -> this,18.708116,19.111467,1,,,1,"substitution (18.64 - 18.98): ASR=''THIS'', Original=''THESE''; substitution (18.98 - 19.22): ASR=''TAKES'', Original=''TAKE''"
+turbo,SA002,rainbow,substitution,substitution,word replacement pot -> point,35.948816,37.164042,1,,,1,"substitution (35.82 - 36.68): ASR=''POINT'', Original=''POT''"
+turbo,SA002,rainbow,substitution,substitution,word replacement one -> each,38.994638,39.703089,1,,,1,"substitution (38.92 - 39.52): ASR=''EACH'', Original=''ONE''"
+turbo,SA002,rainbow,substitution,deletion,phonemic deletion finds -> find,43.384967,43.736607,1,,,1,"substitution (43.16 - 43.6): ASR=''FIND'', Original=''FINDS''"
+turbo,SA002,rainbow,substitution,deletion,phonemic deletion looks -> look,45.220734,45.887816,1,,,1,"substitution (45.14 - 45.44): ASR=''LOOK'', Original=''LOOKS''"
+turbo,SA003,rainbow,insertion,insertion,"word addition ""a""",38.007585,38.165481,2,1,,1,"insertion (37.98 - 38.2): ASR=''A'', Original=''[NOT IN TRANSCRIPT]''"
+turbo,SA004,grandfather,substitution,insertion,syllable addition ancient -> accident ,8.072746,8.590513,1,,,1,"insertion (7.9 - 8.1): ASR=''AN'', Original=''[NOT IN TRANSCRIPT]''; insertion (8.1 - 8.42): ASR=''ACCIDENT'', Original=''[NOT IN TRANSCRIPT]''"
+turbo,SA004,grandfather,substitution,insertion,phonemic addition coat -> cloak ,13.274644,13.827663,1,,,1,"substitution (13.02 - 13.46): ASR=''CLOAK'', Original=''COAT''"
+turbo,SA004,grandfather,insertion,insertion,"word addition ""unknown"" ",21.990743,22.642908,2,1,,1,"substitution (21.8 - 22.5): ASR=''UNKNOWN'', Original=''THINKS''; substitution (22.5 - 22.9): ASR=''FOR'', Original=''AS''"
+turbo,SA004,grandfather,insertion,insertion,"word addition ""for his"" ",22.77951,23.277447,2,2,1,1,"substitution (22.5 - 22.9): ASR=''FOR'', Original=''AS''; substitution (22.9 - 23.24): ASR=''HIS'', Original=''SWIFTLY''"
+turbo,SA004,grandfather,substitution,substitution,phonemic substition observe -> deserve ,33.015858,33.509389,1,,,1,"substitution (32.8 - 33.24): ASR=''DESERVE'', Original=''OBSERVE''"
+turbo,SA004,grandfather,insertion,insertion,"word addition ""good"" ",34.049188,34.254091,2,1,,1,"substitution (34.04 - 34.16): ASR=''GOOD'', Original=''PRONOUNCED''"
+turbo,SA004,grandfather,substitution,substitution,word replacement utmost -> utter ,38.224366,38.790604,1,,,1,"substitution (36.84 - 38.62): ASR=''UTTER'', Original=''THE''"
+turbo,SA004,grandfather,insertion,insertion,"additional word ""like"" ",42.34887,42.553773,2,1,,1,"substitution (42.24 - 42.56): ASR=''LIKE'', Original=''JUST''"
+turbo,SA004,grandfather,insertion,insertion,"additional word ""of"" ",43.280849,43.576086,2,1,,1,"substitution (43.24 - 43.44): ASR=''OF'', Original=''CRACKED''"
+turbo,SA004,grandfather,substitution,substitution,word replacement trifle -> bit ,45.785956,45.935778,1,,,1,"substitution (45.7 - 45.92): ASR=''BIT'', Original=''TRIFLE''"
+turbo,SA004,grandfather,substitution,substitution,word replacement walk -> break ,68.616142,68.889346,1,,,1,"substitution (68.4 - 68.68): ASR=''BREAK'', Original=''WALK''"
+turbo,SA004,grandfather,deletion,deletion,"phrase deletion ""each day"" ",70.008602,70.76432,2,2,1,1,"deletion (69.9 - 70.357143): ASR='', Original=''EACH''; deletion (70.357143 - 70.7): ASR='', Original=''DAY''"
+turbo,SA004,grandfather,deletion,deletion,"word deletion ""and"" ",74.452579,74.668498,2,2,1,1,"substitution (74.36 - 74.8): ASR=''WALK'', Original=''AND''"
+turbo,SA004,grandfather,substitution,substitution,phonemic replacement answers -> answered ,76.360602,76.759392,1,,,1,"substitution (76.24 - 76.68): ASR=''ANSWERED'', Original=''ANSWERS''"
+turbo,SA004,rainbow,substitution,substitution,word replacement raindrops -> rainbow ,3.219496,3.6954,1,,,1,"substitution (2.72 - 3.42): ASR=''RAINBOW'', Original=''RAINDROPS''"
+turbo,SA004,rainbow,insertion,insertion,"additional word ""the"" ",33.419587,33.553986,2,1,,1,"insertion (33.44 - 33.58): ASR=''THE'', Original=''[NOT IN TRANSCRIPT]''"
+turbo,SA004,rainbow,substitution,substitution,word replacement find -> found ,41.177267,41.573854,1,,,1,"substitution (41.04 - 41.38): ASR=''FOUND'', Original=''FINDS''"
+turbo,SA004,rainbow,substitution,deletion,phonemic deletion looks -> look ,42.668875,42.882591,1,,,1,"substitution (42.6 - 42.78): ASR=''LOOK'', Original=''LOOKS''"
+turbo,SA005,grandfather,substitution,deletion,phonemic deletion clings -> links ,22.970545,23.642129,1,,,1,"substitution (20.92 - 23.36): ASR=''LINKS'', Original=''CLINGS''"
+turbo,SA005,grandfather,substitution,substitution,word replacement each -> a ,38.381625,38.752763,1,,,1,"substitution (38.34 - 38.56): ASR=''A'', Original=''EACH''"
+turbo,SA005,rainbow,substitution,deletion,syllable deletion looking -> look ,43.310511,43.809781,1,,,1,"substitution (43.26 - 43.56): ASR=''LOOK'', Original=''IS''"
+turbo,SA006,grandfather,substitution,substitution,word substitution my -> your ,2.015208,2.449396,1,,,1,"substitution (1.86 - 2.18): ASR=''YOUR'', Original=''MY''"
+turbo,SA006,grandfather,substitution,substitution,word substitution he -> this ,3.864165,4.434952,1,,,1,"substitution (3.92 - 4.24): ASR=''THIS'', Original=''HE''"
+turbo,SA006,grandfather,substitution,substitution,word replacement ooze -> colds ,66.918986,67.436109,1,,,1,"substitution (66.2 - 67.3): ASR=''COLDS'', Original=''OOZE''; substitution (67.3 - 67.5): ASR=''OF'', Original=''OR''"
+turbo,SA006,grandfather,substitution,substitution,phonemic substitution or -> on ,69.167982,69.577777,1,,,1,"substitution (68.42 - 69.36): ASR=''ON'', Original=''OR''; substitution (69.36 - 69.86): ASR=''THE'', Original=''ICE''"
+turbo,SA006,grandfather,insertion,insertion,"word addition ""the"" ",69.509478,69.977816,2,1,,1,"substitution (69.36 - 69.86): ASR=''THE'', Original=''ICE''; substitution (69.86 - 70.42): ASR=''PREVENT'', Original=''PREVENTS''"
+turbo,SA006,rainbow,substitution,deletion,phonemic deletion prism - prince ,5.156789,5.800753,2,2,1,1,"substitution (5.08 - 5.52): ASR=''PRINCE'', Original=''PRISM''"
+turbo,SA006,rainbow,substitution,substitution,phonemic substitution is -> in ,8.859583,9.235229,1,,,1,"substitution (8.24 - 9.08): ASR=''IN'', Original=''IS''"
+turbo,SA006,rainbow,substitution,substitution,phonemic substitution ever -> even ,40.169899,40.59433,1,,,1,"insertion (40.4 - 40.96): ASR=''EVEN'', Original=''[NOT IN TRANSCRIPT]''"
+turbo,SA006,rainbow,repetition,repetition,"repetition of ""even"" ",40.560181,41.043154,2,1,,1,"insertion (40.4 - 40.96): ASR=''EVEN'', Original=''[NOT IN TRANSCRIPT]''"
+turbo,SA001,grandfather,prosodic,prosodic,break between three -> th -- ree,6.316549,6.95887,0,,,0,"substitution (5.7 - 6.42): ASR=''93'', Original=''NINETYTHREE''"
+turbo,SA001,grandfather,prosodic,prosodic,prolonged break,7.053677,7.944868,,,,0,
+turbo,SA001,grandfather,insertion,insertion,"additional word ""year""",7.954349,8.459198,,,,0,
+turbo,SA001,grandfather,insertion,insertion,"additional phrase ""in a""",11.867528,12.680502,,,,0,
+turbo,SA001,grandfather,prosodic,prosodic,prolonged break,13.962773,15.339852,,,,0,
+turbo,SA001,grandfather,substitution,substitution,phonemic substitution black -> blank,15.375405,15.81152,,,,0,
+turbo,SA001,grandfather,substitution,substitution,phonemic substitution yet -> yen,23.424561,23.744536,,,,0,
+turbo,SA001,grandfather,substitution,substitution,phonemic substitution swiftly -> swiftty,25.569581,26.050729,0,,,1,"substitution (25.64 - 25.94): ASR=''50'', Original=''SWIFTLY''"
+turbo,SA001,grandfather,prosodic,prosodic,prolonged break,37.738122,38.688567,,,,0,
+turbo,SA001,grandfather,insertion,insertion,"phrase addition ""a prof""",38.709899,39.565537,,,,0,
+turbo,SA001,grandfather,repetition,repetition,"word repetition ""pronounced""",39.657974,40.36666,,,,0,
+turbo,SA001,grandfather,insertion,insertion,"additional phrase ""of a""",40.859659,41.461687,,,,0,
+turbo,SA001,grandfather,substitution,deletion,phonemic deletion voice -> voy,46.531517,47.003184,0,,,1,"substitution (46.5 - 46.72): ASR=''WIFE'', Original=''VOICE''"
+turbo,SA001,grandfather,substitution,substitution,phonemic substitution cracked -> clacked,48.036586,48.707349,0,,,1,"substitution (47.74 - 48.38): ASR=''CAT'', Original=''CRACKED''"
+turbo,SA001,grandfather,substitution,substitution,word replacement quivers -> beer,50.207678,50.918734,0,,,0,"substitution (49.34 - 50.58): ASR=''WILL'', Original=''QUIVERS''; substitution (50.58 - 51.7): ASR=''TRAVEL'', Original=''A''"
+turbo,SA001,grandfather,substitution,deletion,phonemic deletion trifle -> tifle,51.361959,51.928434,0,,,0,"substitution (50.58 - 51.7): ASR=''TRAVEL'', Original=''A''"
+turbo,SA001,grandfather,prosodic,prosodic,prolonged break,53.578084,54.976495,,,,0,
+turbo,SA001,grandfather,substitution,deletion,phonemic deletion plays -> play,55.644887,56.076261,,,,0,
+turbo,SA001,grandfather,substitution,substitution,word replacement zest -> zip,58.46304,58.71665,0,,,1,"substitution (57.64 - 58.68): ASR=''SLEEP'', Original=''ZEST''"
+turbo,SA001,grandfather,prosodic,prosodic,prolonged break,61.537173,62.859738,,,,0,
+turbo,SA001,grandfather,substitution,substitution,word replacement when -> and,65.054531,65.692111,,,,0,
+turbo,SA001,grandfather,substitution,substitution,word replacement ooze -> zoos,65.957572,66.483754,,,,0,
+turbo,SA001,grandfather,insertion,insertion,"additional phrase ""we of""",75.784369,76.336623,,,,0,
+turbo,SA001,grandfather,insertion,insertion,"phonemic addition ""s""",79.899014,80.290095,,,,0,
+turbo,SA001,grandfather,prosodic,prosodic,prolonged break,80.278244,81.136252,,,,0,
+turbo,SA001,rainbow,repetition,repetition,"word repetition ""prism""",6.069317,6.664234,,,,0,
+turbo,SA001,rainbow,substitution,substitution,phonemic replacement with -> win,19.809293,20.036831,,,,0,
+turbo,SA001,rainbow,prosodic,prosodic,prolonged break,20.66019,22.492345,,,,0,
+turbo,SA001,rainbow,substitution,insertion,phonemic addition high ->higher,22.708032,23.103853,,,,0,
+turbo,SA001,rainbow,substitution,insertion,phonemic addition its -> his,23.558929,23.817279,0,,,0,"substitution (23.74 - 24.2): ASR=''TRUE'', Original=''TWO''"
+turbo,SA001,rainbow,substitution,deletion,syllable deletion apparently -> apparent,25.187248,25.912525,0,,,1,"substitution (24.94 - 25.46): ASR=''APPEARANCE'', Original=''APPARENTLY''"
+turbo,SA001,rainbow,substitution,insertion,phonemic addition it -> this,38.156913,38.408152,,,,0,
+turbo,SA001,rainbow,insertion,insertion,"additional word ""he""",42.202822,42.582052,,,,0,
+turbo,SA001,rainbow,insertion,insertion,"additional word ""his""",43.883285,44.345472,,,,0,
+turbo,SA002,grandfather,substitution,deletion,syllabic deletion dresses -> dress,12.767633,13.119273,0,,,1,"substitution (12.64 - 12.96): ASR=''DRESSED'', Original=''DRESSES''"
+turbo,SA002,grandfather,substitution,substitution,phonemic substitution frock -> flock,16.046159,16.470195,0,,,0,"substitution (16.44 - 16.84): ASR=''CLOTHES'', Original=''COAT''"
+turbo,SA002,grandfather,substitution,insertion,"phonemic addition ""s""",22.629066,23.120327,,,,0,
+turbo,SA002,grandfather,substitution,deletion,phonemic deletion thinks -> think,23.48231,24.190761,,,,0,
+turbo,SA002,grandfather,substitution,repetition,prolonged vowel flowing -> flooowing,28.943071,30.08073,0,,,0,"substitution (27.96 - 29.84): ASR=''FROCK'', Original=''FLOWING''; substitution (29.84 - 30.42): ASR=''BEAR'', Original=''BEARD''"
+turbo,SA002,grandfather,substitution,substitution,phonemic substitution clings -> clangs,30.908118,31.725164,0,,,1,"substitution (30.42 - 31.38): ASR=''CLANG'', Original=''CLINGS''"
+turbo,SA002,grandfather,substitution,deletion,syllable deletion giving -> give,32.769741,33.803977,0,,,1,"substitution (33.02 - 33.44): ASR=''GAVE'', Original=''GIVING''"
+turbo,SA002,grandfather,substitution,deletion,phonemic deletion pronounced -> pronounce,37.211781,38.002971,,,,0,
+turbo,SA002,grandfather,prosodic,prosodic,prolonged break,38.427008,39.518126,,,,0,
+turbo,SA002,grandfather,repetition,repetition,"word repetition ""pronounce""",39.300937,40.474793,,,,0,
+turbo,SA002,grandfather,substitution,insertion,phonemic addition the -> there,41.969263,42.331246,0,,,1,"substitution (41.88 - 42.16): ASR=''THEIR'', Original=''THE''; substitution (42.16 - 43.46): ASR=''UPPERMOST'', Original=''UTMOST''"
+turbo,SA002,grandfather,substitution,deletion,phonemic deletion speaks -> speak,45.366726,45.837303,,,,0,
+turbo,SA002,grandfather,prosodic,prosodic,prolonged break,49.844964,51.086046,2,2,0,0,"substitution (49.5 - 51.84): ASR=''SHIVER'', Original=''QUIVERS''"
+turbo,SA002,grandfather,prosodic,prosodic,prolonged break,52.64257,53.811256,2,2,0,0,"substitution (52.3 - 54.14): ASR=''THIEF'', Original=''TRIFLE''"
+turbo,SA002,grandfather,substitution,substitution,word replacement trifle -> twiff,54.018103,54.788608,0,,,1,"substitution (52.3 - 54.14): ASR=''THIEF'', Original=''TRIFLE''"
+turbo,SA002,grandfather,insertion,insertion,"word addition ""as""",56.913961,57.684467,,,,0,
+turbo,SA002,grandfather,repetition,repetition,"word repetition ""twice""",57.65344,58.129188,,,,0,
+turbo,SA002,grandfather,substitution,substitution,phonemic substitution zest -> vest,61.785209,62.540201,0,,,0,"substitution (61.48 - 62.1): ASR=''REVERSED'', Original=''WITH''"
+turbo,SA002,grandfather,insertion,insertion,"word addition ""up""",62.803931,63.114201,,,,0,
+turbo,SA002,grandfather,insertion,insertion,"word addition ""as""",66.651286,67.096007,,,,0,
+turbo,SA002,grandfather,substitution,substitution,phonemic substitution prevents -> present,72.73776,73.31176,0,,,1,"substitution (72.44 - 73.06): ASR=''PRESENTS'', Original=''PREVENTS''"
+turbo,SA002,grandfather,insertion,insertion,"additional word ""ar""",73.332445,73.989184,,,,0,
+turbo,SA002,grandfather,insertion,insertion,"word addition ""presented""",76.760934,78.301945,,,,0,
+turbo,SA002,grandfather,substitution,deletion,phonemic deletion takes -> take,79.222414,79.434432,,,,0,
+turbo,SA002,grandfather,substitution,substitution,word replacement urge -> argue,84.321194,84.765915,,,,0,
+turbo,SA002,grandfather,substitution,prosodic,self corrected accurately,85.27269,86.296583,,,,0,
+turbo,SA002,grandfather,substitution,deletion,phonemic deletion answers -> answer,91.235056,91.834912,0,,,1,"substitution (90.94 - 91.38): ASR=''ANSWERED'', Original=''ANSWERS''"
+turbo,SA002,grandfather,substitution,deletion,phonemic deletion likes -> like,94.389473,94.818681,,,,0,
+turbo,SA002,rainbow,substitution,deletion,phonemic deletion strikes -> strike,1.208856,1.658749,0,,,0,"substitution (1.44 - 2.14): ASR=''RAIN'', Original=''RAINDROPS''"
+turbo,SA002,rainbow,substitution,substitution,phonemic substitution rainbow -> wainbow,9.31726,10.118792,,,,0,
+turbo,SA002,rainbow,substitution,substitution,phonemic substitution its -> his,23.703471,24.132679,,,,0,
+turbo,SA002,rainbow,substitution,deletion,phonemic deletion ends -> end,27.762844,28.595404,0,,,1,"substitution (26.78 - 28.06): ASR=''TWOEND'', Original=''TWO''; substitution (28.06 - 29.72): ASR=''APPEARANCE'', Original=''ENDS''"
+turbo,SA002,rainbow,insertion,insertion,"word addition ""appear""",28.698827,29.360738,2,2,0,0,"substitution (28.06 - 29.72): ASR=''APPEARANCE'', Original=''ENDS''"
+turbo,SA002,rainbow,substitution,substitution,phonemic replacement apparently -> apparence,29.360738,30.079531,0,,,1,"substitution (28.06 - 29.72): ASR=''APPEARANCE'', Original=''ENDS''"
+turbo,SA002,rainbow,substitution,deletion,phonemic deletion friends -> friend,48.535458,49.021548,,,,0,
+turbo,SA003,grandfather,prosodic,prosodic,reduced breath control - grunting,1.462007,1.786572,,,,0,
+turbo,SA003,grandfather,substitution,substitution,phonemic substitution know -> row,3.058519,3.491273,,,,0,
+turbo,SA003,grandfather,insertion,insertion,"word addition ""accilar""",13.251631,14.178543,,,,0,
+turbo,SA003,grandfather,substitution,substitution,phonemic substitution ooze -> oost,77.477595,78.711529,0,,,1,"substitution (77.26 - 78.0): ASR=''WOOST'', Original=''OOZE''"
+turbo,SA003,rainbow,substitution,deletion,phonemic deletion prism -> pris,9.255756,10.282085,0,,,1,"substitution (9.16 - 9.62): ASR=''PRINCE'', Original=''PRISM''"
+turbo,SA004,grandfather,substitution,deletion,syllable deletion dresses -> dress ,7.733444,7.874453,0,,,0,"insertion (7.72 - 7.9): ASR=''IN'', Original=''[NOT IN TRANSCRIPT]''"
+turbo,SA004,grandfather,repetition,insertion,"Self correct - addition ""in an ancient"" ",9.388093,10.793773,,,,0,
+turbo,SA004,grandfather,substitution,substitution,Phonemic substitution frock -> flock ,12.787724,13.060928,0,,,1,"substitution (11.42 - 13.02): ASR=''CLOTH'', Original=''FROCK''; substitution (13.02 - 13.46): ASR=''CLOAK'', Original=''COAT''"
+turbo,SA004,grandfather,substitution,deletion,"phonemic deletion usually -> ulily (omitted ""s"") ",14.486438,15.143009,0,,,1,"substitution (14.46 - 14.7): ASR=''HE'', Original=''USUALLY''; substitution (14.7 - 14.96): ASR=''READ'', Original=''MINUS''"
+turbo,SA004,grandfather,insertion,insertion,"word addition ""to"" ",15.079115,15.22453,,,,0,
+turbo,SA004,grandfather,insertion,insertion,"additional words ""twenty"" ",15.878898,17.139163,,,,0,
+turbo,SA004,grandfather,substitution,deletion,syllable deletion several -> sevets ,18.0425,18.690259,,,,0,
+turbo,SA004,grandfather,substitution,substitution,phonemic substitution buttons -> praton ,19.716978,20.388973,,,,0,
+turbo,SA004,grandfather,substitution,deletion,syllable deletion swiftly -> swift ,24.462801,24.903453,,,,0,
+turbo,SA004,grandfather,substitution,substitution,phonemic substitution flowing -> floor ,27.61787,27.94175,0,,,1,"substitution (27.12 - 27.8): ASR=''CLOTH'', Original=''FLOWING''"
+turbo,SA004,grandfather,substitution,substitution,phonemic substitution clings -> king ,28.593915,28.763566,0,,,1,"substitution (28.26 - 28.66): ASR=''CAME'', Original=''CLINGS''"
+turbo,SA004,grandfather,prosodic,prosodic,prolonged break between words ,29.179982,30.907338,,,,0,
+turbo,SA004,grandfather,substitution,insertion,syllable addition pronounced -> pronounsation ,34.271717,34.932695,,,,0,
+turbo,SA004,grandfather,substitution,substitution,phonemic substitution feeling -> paving ,35.981447,36.444132,,,,0,
+turbo,SA004,grandfather,insertion,insertion,"additional word ""um"" ",39.081435,39.312777,,,,0,
+turbo,SA004,grandfather,substitution,deletion,phonemic deletion speaks -> speak ,41.002678,41.346386,,,,0,
+turbo,SA004,grandfather,substitution,deletion,phonemic deletion voice -> voy ,41.809071,42.04482,0,,,0,"substitution (41.98 - 42.24): ASR=''SOUNDS'', Original=''IS''"
+turbo,SA004,grandfather,substitution,substitution,word substitution quivers -> quail ,45.290223,45.548004,0,,,1,"substitution (44.74 - 45.48): ASR=''CLUE'', Original=''QUIVERS''"
+turbo,SA004,grandfather,prosodic,prosodic,prolonged break ,46.237625,48.178697,,,,0,
+turbo,SA004,grandfather,repetition,repetition,repetition (attempt to self correct) quivers a trifle -> krill a trill ,48.61274,49.626239,,,,0,
+turbo,SA004,grandfather,substitution,substitution,word replacement zest -> new ,54.061403,54.374266,0,,,0,"substitution (53.8 - 54.3): ASR=''DEAL'', Original=''ZEST''"
+turbo,SA004,grandfather,substitution,substitution,phonemic replacement snow -> slow ,60.552208,61.069974,,,,0,
+turbo,SA004,grandfather,prosodic,prosodic,prolonged break ,61.109633,63.480341,,,,0,
+turbo,SA004,grandfather,repetition,repetition,"phrase repetition ""ooze or snow"" -> ooze or slow ",63.625757,64.718574,,,,0,
+turbo,SA004,grandfather,substitution,deletion,phonemic deletion prevent -> pevent ,65.513951,65.974432,0,,,1,"substitution (65.38 - 65.94): ASR=''REVENTS'', Original=''PREVENTS''"
+turbo,SA004,grandfather,substitution,deletion,phonemic deletion takes -> take ,67.455023,67.730431,,,,0,
+turbo,SA004,grandfather,substitution,substitution,phonemic substitution often -> open ,71.16972,71.531055,0,,,0,"substitution (71.32 - 72.58): ASR=''ASK'', Original=''URGED''"
+turbo,SA004,grandfather,substitution,deletion,phonemic deletion his -> is ,80.643741,81.027108,,,,0,
+turbo,SA004,rainbow,deletion,deletion,"word deletion ""the"" ",13.524145,13.98683,2,2,0,0,"substitution (13.22 - 13.7): ASR=''TAKES'', Original=''TAKE''"
+turbo,SA004,rainbow,substitution,substitution,phonemic substition arch -> up ,17.042752,17.432729,0,,,1,"substitution (16.98 - 17.32): ASR=''ARC'', Original=''ARCH''"
+turbo,SA004,rainbow,insertion,insertion,"word addition ""and receive""? ",17.749999,20.039186,,,,0,
+turbo,SA004,rainbow,substitution,substitution,phonemic substitution with -> which ,20.211041,20.54153,,,,0,
+turbo,SA004,rainbow,substitution,substitution,word replacement ends -> ear ,24.727725,25.124312,,,,0,
+turbo,SA004,rainbow,insertion,repetition,"phrase repetition/addition ""two year"" ",25.708176,26.666594,,,,0,
+turbo,SA004,rainbow,substitution,substitution,phonemic substitution horizon -> holaizon ,30.416543,30.982781,,,,0,
+turbo,SA005,grandfather,substitution,deletion,Phonemic deletion dresses -> dress ,7.581556,8.164774,,,,0,
+turbo,SA005,grandfather,substitution,substitution,phonemic substition swiftly -> swifty ,16.422603,17.005821,0,,,1,"substitution (16.56 - 16.84): ASR=''WITH'', Original=''SWIFTLY''; substitution (16.84 - 17.18): ASR=''THIS'', Original=''AS''"
+turbo,SA005,grandfather,insertion,insertion,"additional word ""blob""? ",20.120732,20.593492,,,,0,
+turbo,SA005,grandfather,substitution,substitution,phonemic substitution beard -> bear ,20.531635,20.999977,0,,,0,"substitution (20.92 - 23.36): ASR=''LINKS'', Original=''CLINGS''"
+turbo,SA005,grandfather,substitution,substitution,phonemic substitution quivers -> quivis ,35.567159,36.287344,0,,,1,"substitution (35.66 - 36.2): ASR=''QUIFFLES'', Original=''QUIVERS''"
+turbo,SA005,grandfather,substitution,substitution,word replacement a -> his ,51.314031,51.742607,,,,0,
+turbo,SA005,grandfather,substitution,insertion,phonemic addition answers -> sayanswer ,60.588073,61.568938,0,,,1,"substitution (60.68 - 60.94): ASR=''SAYS'', Original=''ANSWERS''"
+turbo,SA005,rainbow,substitution,substitution,phonemic substitution above ->debove ,19.796243,20.93175,0,,,0,"substitution (19.84 - 20.34): ASR=''HIGHLY'', Original=''HIGH''; substitution (20.34 - 20.92): ASR=''BUFF'', Original=''ABOVE''"
+turbo,SA005,rainbow,substitution,substitution,phonemic substitution at -> ant ,30.819937,31.319207,0,,,1,"substitution (30.9 - 31.22): ASR=''ON'', Original=''AT''"
+turbo,SA005,rainbow,substitution,insertion,phonemic addition one -> twan ,31.199912,31.579887,0,,,0,"substitution (30.9 - 31.22): ASR=''ON'', Original=''AT''"
+turbo,SA006,grandfather,substitution,substitution,phonemic substitution nearly -> really ,4.537401,5.800936,0,,,0,"substitution (4.86 - 6.92): ASR=''93'', Original=''NINETYTHREE''"
+turbo,SA006,grandfather,repetition,repetition,"phrase repetition ""he's nearly 93 years old"" ",7.801128,9.250047,,,,0,
+turbo,SA006,grandfather,insertion,insertion,phonemic addition zzz ,10.250143,10.859957,,,,0,
+turbo,SA006,grandfather,insertion,insertion,"word addition ""with"" ",21.163383,21.973217,2,2,0,0,"substitution (21.5 - 21.78): ASR=''WE'', Original=''YET''; substitution (21.78 - 22.24): ASR=''GET'', Original=''HE''"
+turbo,SA006,grandfather,substitution,substitution,phonemic substitution flowing -> plowing ,26.476088,27.134687,0,,,0,"substitution (26.96 - 27.98): ASR=''BORED'', Original=''BEARD''"
+turbo,SA006,grandfather,substitution,substitution,Phonemic substitution beard -> board ,27.622539,28.398223,0,,,1,"substitution (26.96 - 27.98): ASR=''BORED'', Original=''BEARD''"
+turbo,SA006,grandfather,repetition,repetition,"repetition of phrase ""beard clings to his chin"" ",30.93993,32.530326,,,,0,
+turbo,SA006,grandfather,substitution,insertion,"phonemic addition ""fer"" ",37.672282,38.257704,,,,0,
+turbo,SA006,grandfather,insertion,insertion,"word addition ""release' ",42.306872,42.887416,,,,0,
+turbo,SA006,grandfather,prosodic,prosodic,"insufficient pause speaks, his ",43.36551,44.209494,,,,0,
+turbo,SA006,grandfather,substitution,insertion,phonemic addition a -> an ,49.746609,50.136891,0,,,1,"substitution (49.54 - 49.96): ASR=''AND'', Original=''A''; substitution (49.96 - 50.46): ASR=''TRIPLED'', Original=''TRIFLE''"
+turbo,SA006,grandfather,substitution,insertion,phonemic addition zest -> zesium ,57.230253,57.89861,0,,,1,"substitution (57.2 - 58.22): ASR=''DRESS'', Original=''ZEST''"
+turbo,SA006,grandfather,insertion,insertion,"word addition ""there's"" ",57.96203,58.508424,2,2,0,0,"substitution (57.2 - 58.22): ASR=''DRESS'', Original=''ZEST''"
+turbo,SA006,grandfather,prosodic,prosodic,insufficient break organ. except ,60.898897,62.23561,,,,0,
+turbo,SA006,rainbow,insertion,insertion,"word addition ""big"" ",12.596526,13.035593,,,,0,
+turbo,SA006,rainbow,substitution,insertion,phonemic addition its -> biz ,20.543629,21.041238,0,,,0,"substitution (20.7 - 21.0): ASR=''THIS'', Original=''WITH''"
+turbo,SA006,rainbow,insertion,insertion,"word addition ""a"" ",29.583519,29.920137,2,2,0,0,"insertion (29.88 - 30.24): ASR=''THE'', Original=''[NOT IN TRANSCRIPT]''"
+turbo,SA006,rainbow,substitution,substitution,phonemic substitution legend - regend ,30.120156,30.705578,2,2,0,0,"insertion (29.88 - 30.24): ASR=''THE'', Original=''[NOT IN TRANSCRIPT]''"
+turbo,SA006,rainbow,repetition,repetition,repetition (self correct) to legend ,31.076345,31.993506,2,2,0,0,"substitution (31.64 - 32.5): ASR=''OF'', Original=''A''"
+turbo,SA006,rainbow,substitution,substitution,phonemic substitution at -> an ,34.486428,34.837681,0,,,1,"substitution (34.36 - 34.7): ASR=''AND'', Original=''AT''; substitution (34.7 - 35.52): ASR=''WINE'', Original=''ONE''"
+turbo,SA006,rainbow,repetition,repetition,"word repetition ""look"" ",37.56965,38.398998,,,,0,
+turbo,SA006,rainbow,substitution,insertion,phonemic addition his -> this ,46.077782,46.990065,,,,0,
+tiny,SA004,grandfather,insertion,insertion,"word addition ""for his"" ",22.77951,23.277447,2,2,3,1,"substitution (22.72 - 23.1): ASR=''HIS'', Original=''SWIFTLY''"
+tiny,SA004,rainbow,insertion,repetition,"phrase repetition/addition ""two year"" ",25.708176,26.666594,2,2,3,1,"insertion (26.0 - 26.38): ASR=''TWO'', Original=''[NOT IN TRANSCRIPT]''; insertion (26.38 - 26.6): ASR=''YEARS'', Original=''[NOT IN TRANSCRIPT]''"
+tiny,SA001,grandfather,insertion,insertion,"additional word ""year""",7.954349,8.459198,2,1,,1,"substitution (6.72 - 8.36): ASR=''YEAR'', Original=''YEARS''"
+tiny,SA001,grandfather,substitution,substitution,word replacement ancient -> accident,13.168761,14.019658,1,,,1,"substitution (13.1 - 13.64): ASR=''ACCIDENT'', Original=''ANCIENT''"
+tiny,SA001,grandfather,substitution,substitution,word replacement when -> and,65.054531,65.692111,1,,,1,"substitution (65.1 - 65.84): ASR=''AND'', Original=''WHEN''"
+tiny,SA001,grandfather,substitution,substitution,word replacement ooze -> zoos,65.957572,66.483754,1,,,1,"substitution (66.12 - 66.96): ASR=''ZOOS'', Original=''OOZE''"
+tiny,SA001,rainbow,insertion,insertion,"word addition ""the""",10.930571,11.079893,2,1,,1,"substitution (11.02 - 11.14): ASR=''THE'', Original=''WHITE''"
+tiny,SA001,rainbow,insertion,insertion,"additional word ""rich""",18.429844,18.707156,2,1,,1,"substitution (18.42 - 18.64): ASR=''RICH'', Original=''ARCH''"
+tiny,SA001,rainbow,substitution,insertion,phonemic addition its -> his,23.558929,23.817279,1,,,1,"substitution (23.68 - 24.0): ASR=''HIS'', Original=''ITS''"
+tiny,SA001,rainbow,substitution,substitution,phonemic substition look -> took,35.831759,36.426676,1,,,1,"substitution (35.96 - 36.24): ASR=''TOOK'', Original=''LOOK''"
+tiny,SA001,rainbow,substitution,insertion,phonemic addition it -> this,38.156913,38.408152,1,,,1,"substitution (37.92 - 38.16): ASR=''TRIED'', Original=''FINDS''; substitution (38.16 - 38.6): ASR=''THIS'', Original=''IT''"
+tiny,SA002,grandfather,substitution,deletion,syllable deletion swiftly -> swift,25.131915,25.623176,1,,,1,"substitution (25.2 - 25.6): ASR=''SWIFT'', Original=''SWIFTLY''"
+tiny,SA002,grandfather,deletion,deletion,"word deletion ""our""",63.620977,64.629356,2,2,1,1,"deletion (64.04 - 64.04): ASR='', Original=''OUR''"
+tiny,SA002,grandfather,insertion,insertion,"word addition ""as""",66.651286,67.096007,2,1,,1,"substitution (66.8 - 67.02): ASR=''AS'', Original=''EXCEPT''"
+tiny,SA002,grandfather,substitution,substitution,word replacement winter -> weather,68.6939,69.143792,1,,,1,"substitution (68.68 - 69.06): ASR=''WEATHER'', Original=''WINTER''"
+tiny,SA002,grandfather,substitution,substitution,word replacement ooze -> zone,70.152172,70.886479,1,,,1,"substitution (69.92 - 70.62): ASR=''ZONE'', Original=''OOZE''"
+tiny,SA002,grandfather,substitution,substitution,phonemic substitution prevents -> present,72.73776,73.31176,1,,,1,"substitution (72.7 - 73.18): ASR=''PRESENT'', Original=''PREVENTS''"
+tiny,SA002,grandfather,substitution,substitution,word replacement urge -> argue,84.321194,84.765915,1,,,1,"substitution (84.28 - 84.76): ASR=''ARGUE'', Original=''URGED''"
+tiny,SA002,rainbow,substitution,deletion,phonemic deletion strikes -> strike,1.208856,1.658749,1,,,1,"substitution (1.12 - 1.6): ASR=''STRIKE'', Original=''RAINDROPS''"
+tiny,SA002,rainbow,insertion,insertion,"additional word ""as""",4.751112,5.345797,2,1,,1,"substitution (4.68 - 5.5): ASR=''AS'', Original=''THEY''"
+tiny,SA002,rainbow,insertion,insertion,"word addition ""different""",15.010725,16.194924,2,1,,1,"insertion (14.98 - 15.98): ASR=''DIFFERENT'', Original=''[NOT IN TRANSCRIPT]''; insertion (16.1 - 16.58): ASR=''MANY'', Original=''[NOT IN TRANSCRIPT]''"
+tiny,SA002,rainbow,substitution,substitution,phonemic substitution these -> this,18.708116,19.111467,1,,,1,"substitution (18.76 - 19.1): ASR=''THIS'', Original=''THESE''; substitution (19.1 - 19.36): ASR=''STICK'', Original=''TAKE''"
+tiny,SA002,rainbow,substitution,substitution,phonemic substitution its -> his,23.703471,24.132679,1,,,1,"substitution (23.8 - 24.14): ASR=''HIS'', Original=''ITS''"
+tiny,SA002,rainbow,insertion,insertion,"word addition ""appear""",28.698827,29.360738,2,1,,1,"substitution (28.14 - 29.26): ASR=''APPEAR'', Original=''APPARENTLY''"
+tiny,SA002,rainbow,substitution,substitution,word replacement pot -> point,35.948816,37.164042,1,,,1,"substitution (35.78 - 36.58): ASR=''THE'', Original=''BOILING''; substitution (36.58 - 36.84): ASR=''POINT'', Original=''POT''"
+tiny,SA002,rainbow,substitution,deletion,phonemic deletion finds -> find,43.384967,43.736607,1,,,1,"substitution (43.3 - 43.66): ASR=''FIND'', Original=''FINDS''"
+tiny,SA002,rainbow,substitution,deletion,phonemic deletion looks -> look,45.220734,45.887816,1,,,1,"substitution (45.3 - 45.58): ASR=''LOOK'', Original=''LOOKS''"
+tiny,SA003,rainbow,insertion,insertion,"word addition ""a""",38.007585,38.165481,2,1,,1,"insertion (38.12 - 38.34): ASR=''A'', Original=''[NOT IN TRANSCRIPT]''"
+tiny,SA004,grandfather,substitution,insertion,syllable addition ancient -> accident ,8.072746,8.590513,1,,,1,"substitution (7.86 - 8.58): ASR=''ACCIDENT'', Original=''NINETYTHREE''; substitution (8.58 - 9.76): ASR=''AND'', Original=''YEARS''"
+tiny,SA004,grandfather,substitution,substitution,word replacement walk -> break ,68.616142,68.889346,1,,,1,"substitution (68.58 - 69.12): ASR=''BREAK'', Original=''WALK''"
+tiny,SA004,grandfather,deletion,deletion,"phrase deletion ""each day"" ",70.008602,70.76432,2,2,1,1,"deletion (70.04 - 70.485714): ASR='', Original=''EACH''; deletion (70.485714 - 70.82): ASR='', Original=''DAY''"
+tiny,SA004,rainbow,insertion,insertion,"additional word ""the"" ",33.419587,33.553986,2,1,,1,"substitution (33.5 - 33.64): ASR=''THE'', Original=''LEGEND''"
+tiny,SA006,grandfather,substitution,substitution,word substitution my -> your ,2.015208,2.449396,1,,,1,"substitution (2.1 - 2.34): ASR=''YOUR'', Original=''MY''"
+tiny,SA006,grandfather,substitution,substitution,word substitution he -> this ,3.864165,4.434952,1,,,1,"substitution (3.82 - 4.36): ASR=''THIS'', Original=''HE''"
+tiny,SA006,grandfather,substitution,substitution,phonemic substitution or -> on ,69.167982,69.577777,1,,,1,"substitution (68.8 - 69.78): ASR=''ON'', Original=''OR''"
+tiny,SA006,grandfather,insertion,insertion,"word addition ""the"" ",69.509478,69.977816,2,1,,1,"substitution (68.8 - 69.78): ASR=''ON'', Original=''OR''; substitution (69.78 - 69.9): ASR=''THE'', Original=''ICE''; substitution (69.9 - 70.52): ASR=''PREVENT'', Original=''PREVENTS''"
+tiny,SA006,rainbow,substitution,substitution,phonemic substitution is -> in ,8.859583,9.235229,1,,,1,"substitution (8.58 - 9.14): ASR=''IN'', Original=''IS''; substitution (9.14 - 9.4): ASR=''THE'', Original=''A''"
+tiny,SA006,rainbow,substitution,substitution,phonemic substitution ever -> even ,40.169899,40.59433,1,,,1,"substitution (40.1 - 40.82): ASR=''EVEN'', Original=''EVER''"
+tiny,SA006,rainbow,repetition,repetition,"repetition of ""even"" ",40.560181,41.043154,2,1,,1,"substitution (40.1 - 40.82): ASR=''EVEN'', Original=''EVER''; substitution (40.82 - 41.48): ASR=''CAN'', Original=''FINDS''"
+tiny,SA001,grandfather,prosodic,prosodic,break between three -> th -- ree,6.316549,6.95887,0,,,0,"substitution (5.86 - 6.72): ASR=''93'', Original=''NINETYTHREE''; substitution (6.72 - 8.36): ASR=''YEAR'', Original=''YEARS''"
+tiny,SA001,grandfather,prosodic,prosodic,prolonged break,7.053677,7.944868,2,2,0,0,"substitution (6.72 - 8.36): ASR=''YEAR'', Original=''YEARS''"
+tiny,SA001,grandfather,insertion,insertion,"additional phrase ""in a""",11.867528,12.680502,,,,0,
+tiny,SA001,grandfather,prosodic,prosodic,prolonged break,13.962773,15.339852,,,,0,
+tiny,SA001,grandfather,substitution,substitution,phonemic substitution black -> blank,15.375405,15.81152,0,,,0,"substitution (15.44 - 15.78): ASR=''BUT'', Original=''BLACK''; substitution (15.78 - 16.64): ASR=''FROM'', Original=''FROCK''"
+tiny,SA001,grandfather,substitution,substitution,phonemic substitution yet -> yen,23.424561,23.744536,0,,,1,"substitution (22.74 - 23.86): ASR=''AND'', Original=''YET''"
+tiny,SA001,grandfather,substitution,substitution,phonemic substitution swiftly -> swiftty,25.569581,26.050729,0,,,1,"substitution (25.76 - 26.08): ASR=''50'', Original=''SWIFTLY''"
+tiny,SA001,grandfather,substitution,substitution,word replacement clings -> cleaning,30.88117,31.286472,,,,0,
+tiny,SA001,grandfather,prosodic,prosodic,prolonged break,37.738122,38.688567,2,2,0,0,"substitution (36.9 - 39.22): ASR=''PRONOUNCE'', Original=''A''"
+tiny,SA001,grandfather,insertion,insertion,"phrase addition ""a prof""",38.709899,39.565537,2,2,0,1,"substitution (36.9 - 39.22): ASR=''PRONOUNCE'', Original=''A''"
+tiny,SA001,grandfather,repetition,repetition,"word repetition ""pronounced""",39.657974,40.36666,,,,0,
+tiny,SA001,grandfather,insertion,insertion,"additional phrase ""of a""",40.859659,41.461687,,,,0,
+tiny,SA001,grandfather,substitution,deletion,phonemic deletion voice -> voy,46.531517,47.003184,,,,0,
+tiny,SA001,grandfather,substitution,substitution,phonemic substitution cracked -> clacked,48.036586,48.707349,0,,,1,"substitution (48.08 - 49.12): ASR=''CUT'', Original=''CRACKED''"
+tiny,SA001,grandfather,substitution,substitution,word replacement quivers -> beer,50.207678,50.918734,0,,,1,"substitution (50.42 - 50.64): ASR=''WE'', Original=''QUIVERS''; substitution (50.64 - 51.06): ASR=''ARE'', Original=''A''"
+tiny,SA001,grandfather,substitution,deletion,phonemic deletion trifle -> tifle,51.361959,51.928434,0,,,1,"substitution (51.06 - 52.02): ASR=''CLEVER'', Original=''TRIFLE''"
+tiny,SA001,grandfather,prosodic,prosodic,prolonged break,53.578084,54.976495,,,,0,
+tiny,SA001,grandfather,substitution,deletion,phonemic deletion plays -> play,55.644887,56.076261,0,,,1,"substitution (55.2 - 56.14): ASR=''PLAYED'', Original=''PLAYS''"
+tiny,SA001,grandfather,substitution,substitution,word replacement zest -> zip,58.46304,58.71665,0,,,1,"substitution (58.46 - 58.72): ASR=''SEE'', Original=''ZEST''"
+tiny,SA001,grandfather,prosodic,prosodic,prolonged break,61.537173,62.859738,,,,0,
+tiny,SA001,grandfather,insertion,insertion,"additional phrase ""we of""",75.784369,76.336623,,,,0,
+tiny,SA001,grandfather,insertion,insertion,"phonemic addition ""s""",79.899014,80.290095,,,,0,
+tiny,SA001,grandfather,prosodic,prosodic,prolonged break,80.278244,81.136252,2,2,0,0,"substitution (80.44 - 81.88): ASR=''SMALL'', Original=''SMOKE''"
+tiny,SA001,grandfather,substitution,deletion,phonemic deletion likes -> like,87.955281,88.358213,,,,0,
+tiny,SA001,rainbow,repetition,repetition,"word repetition ""prism""",6.069317,6.664234,,,,0,
+tiny,SA001,rainbow,substitution,substitution,phonemic replacement with -> win,19.809293,20.036831,,,,0,
+tiny,SA001,rainbow,prosodic,prosodic,prolonged break,20.66019,22.492345,2,2,0,0,"substitution (20.3 - 20.78): ASR=''PUFF'', Original=''PATH''"
+tiny,SA001,rainbow,substitution,insertion,phonemic addition high ->higher,22.708032,23.103853,,,,0,
+tiny,SA001,rainbow,substitution,deletion,syllable deletion apparently -> apparent,25.187248,25.912525,0,,,1,"substitution (25.1 - 25.56): ASR=''APPEAR'', Original=''APPARENTLY''; substitution (25.56 - 26.1): ASR=''ON'', Original=''BEYOND''"
+tiny,SA001,rainbow,insertion,insertion,"additional word ""he""",42.202822,42.582052,,,,0,
+tiny,SA001,rainbow,insertion,insertion,"additional word ""his""",43.883285,44.345472,2,2,0,1,"substitution (44.08 - 44.7): ASR=''HES'', Original=''HIS''"
+tiny,SA002,grandfather,substitution,deletion,syllabic deletion dresses -> dress,12.767633,13.119273,0,,,1,"substitution (12.76 - 13.1): ASR=''DRESSED'', Original=''DRESSES''"
+tiny,SA002,grandfather,substitution,substitution,phonemic substitution frock -> flock,16.046159,16.470195,0,,,1,"substitution (16.04 - 16.64): ASR=''CROPPED'', Original=''FROCK''"
+tiny,SA002,grandfather,substitution,substitution,word substitution coat -> clothes,16.392627,17.059709,0,,,1,"substitution (16.04 - 16.64): ASR=''CROPPED'', Original=''FROCK''; substitution (16.64 - 17.08): ASR=''CROPPED'', Original=''COAT''"
+tiny,SA002,grandfather,substitution,insertion,"phonemic addition ""s""",22.629066,23.120327,,,,0,
+tiny,SA002,grandfather,substitution,deletion,phonemic deletion thinks -> think,23.48231,24.190761,,,,0,
+tiny,SA002,grandfather,substitution,repetition,prolonged vowel flowing -> flooowing,28.943071,30.08073,0,,,1,"substitution (29.2 - 29.68): ASR=''GROWING'', Original=''LONG''; substitution (29.68 - 30.68): ASR=''BEER'', Original=''FLOWING''"
+tiny,SA002,grandfather,substitution,substitution,phonemic substitution clings -> clangs,30.908118,31.725164,0,,,0,"substitution (31.44 - 31.5): ASR=''PLAYING'', Original=''BEARD''; substitution (31.5 - 31.9): ASR=''STILL'', Original=''CLINGS''"
+tiny,SA002,grandfather,substitution,deletion,syllable deletion giving -> give,32.769741,33.803977,,,,0,
+tiny,SA002,grandfather,substitution,deletion,phonemic deletion pronounced -> pronounce,37.211781,38.002971,0,,,1,"substitution (37.16 - 38.46): ASR=''PROUDS'', Original=''PRONOUNCED''"
+tiny,SA002,grandfather,prosodic,prosodic,prolonged break,38.427008,39.518126,2,2,0,0,"substitution (37.16 - 38.46): ASR=''PROUDS'', Original=''PRONOUNCED''"
+tiny,SA002,grandfather,repetition,repetition,"word repetition ""pronounce""",39.300937,40.474793,,,,0,
+tiny,SA002,grandfather,substitution,insertion,phonemic addition the -> there,41.969263,42.331246,0,,,1,"substitution (42.06 - 42.32): ASR=''THEIR'', Original=''THE''; substitution (42.32 - 42.96): ASR=''UPPER'', Original=''UTMOST''"
+tiny,SA002,grandfather,substitution,substitution,word replacement utmost -> uppermost,42.207137,43.427535,0,,,1,"substitution (42.06 - 42.32): ASR=''THEIR'', Original=''THE''; substitution (42.32 - 42.96): ASR=''UPPER'', Original=''UTMOST''"
+tiny,SA002,grandfather,substitution,deletion,phonemic deletion speaks -> speak,45.366726,45.837303,0,,,1,"substitution (45.08 - 45.4): ASR=''HES'', Original=''HE''; substitution (45.4 - 45.68): ASR=''BIG'', Original=''SPEAKS''"
+tiny,SA002,grandfather,prosodic,prosodic,prolonged break,49.844964,51.086046,,,,0,
+tiny,SA002,grandfather,substitution,substitution,phonemic substitution quivers -> shiver,51.008479,51.970317,0,,,1,"substitution (51.32 - 51.6): ASR=''SHE'', Original=''QUIVERS''; substitution (51.6 - 52.86): ASR=''WILL'', Original=''A''"
+tiny,SA002,grandfather,prosodic,prosodic,prolonged break,52.64257,53.811256,2,2,0,0,"substitution (51.6 - 52.86): ASR=''WILL'', Original=''A''"
+tiny,SA002,grandfather,substitution,substitution,word replacement trifle -> twiff,54.018103,54.788608,0,,,1,"substitution (53.98 - 54.34): ASR=''TIFF'', Original=''TRIFLE''"
+tiny,SA002,grandfather,insertion,insertion,"word addition ""as""",56.913961,57.684467,,,,0,
+tiny,SA002,grandfather,repetition,repetition,"word repetition ""twice""",57.65344,58.129188,,,,0,
+tiny,SA002,grandfather,substitution,substitution,phonemic substitution zest -> vest,61.785209,62.540201,0,,,0,"substitution (61.64 - 61.9): ASR=''WE'', Original=''WITH''; substitution (61.9 - 62.12): ASR=''WILL'', Original=''ZEST''"
+tiny,SA002,grandfather,insertion,insertion,"word addition ""up""",62.803931,63.114201,,,,0,
+tiny,SA002,grandfather,insertion,insertion,"additional word ""ar""",73.332445,73.989184,,,,0,
+tiny,SA002,grandfather,insertion,insertion,"word addition ""presented""",76.760934,78.301945,,,,0,
+tiny,SA002,grandfather,substitution,deletion,phonemic deletion takes -> take,79.222414,79.434432,0,,,1,"substitution (79.2 - 79.46): ASR=''TAKING'', Original=''TAKES''"
+tiny,SA002,grandfather,substitution,substitution,phonemic substitition have -> had,83.349012,83.814418,0,,,0,"deletion (83.52 - 83.52): ASR='', Original=''HAVE''"
+tiny,SA002,grandfather,substitution,prosodic,self corrected accurately,85.27269,86.296583,,,,0,
+tiny,SA002,grandfather,substitution,deletion,phonemic deletion answers -> answer,91.235056,91.834912,0,,,0,"substitution (91.18 - 91.56): ASR=''HAS'', Original=''ANSWERS''"
+tiny,SA002,grandfather,substitution,deletion,phonemic deletion likes -> like,94.389473,94.818681,,,,0,
+tiny,SA002,rainbow,substitution,substitution,phonemic substitution rainbow -> wainbow,9.31726,10.118792,0,,,0,"substitution (8.98 - 9.38): ASR=''ARE'', Original=''A''"
+tiny,SA002,rainbow,repetition,prosodic,"self corrected ""many beautiful colours""",15.977735,15.977735,2,2,0,0,"insertion (14.98 - 15.98): ASR=''DIFFERENT'', Original=''[NOT IN TRANSCRIPT]''"
+tiny,SA002,rainbow,substitution,deletion,phonemic deletion ends -> end,27.762844,28.595404,0,,,0,"substitution (26.88 - 27.78): ASR=''TO'', Original=''TWO''; substitution (27.78 - 28.14): ASR=''AN'', Original=''ENDS''; substitution (28.14 - 29.26): ASR=''APPEAR'', Original=''APPARENTLY''"
+tiny,SA002,rainbow,substitution,substitution,phonemic replacement apparently -> apparence,29.360738,30.079531,,,,0,
+tiny,SA002,rainbow,substitution,substitution,word replacement one -> each,38.994638,39.703089,0,,,0,"substitution (38.32 - 39.82): ASR=''AND'', Original=''AT''"
+tiny,SA002,rainbow,substitution,deletion,phonemic deletion friends -> friend,48.535458,49.021548,0,,,1,"substitution (48.52 - 48.86): ASR=''STRENGTH'', Original=''FRIENDS''"
+tiny,SA003,grandfather,prosodic,prosodic,reduced breath control - grunting,1.462007,1.786572,,,,0,
+tiny,SA003,grandfather,substitution,substitution,phonemic substitution know -> row,3.058519,3.491273,,,,0,
+tiny,SA003,grandfather,insertion,insertion,"word addition ""accilar""",13.251631,14.178543,2,2,0,1,"substitution (13.4 - 14.0): ASR=''ACCIDENT'', Original=''ANCIENT''"
+tiny,SA003,grandfather,substitution,substitution,phonemic substitution ooze -> oost,77.477595,78.711529,0,,,1,"substitution (77.46 - 78.7): ASR=''ROOST'', Original=''OOZE''"
+tiny,SA003,rainbow,substitution,deletion,phonemic deletion prism -> pris,9.255756,10.282085,0,,,1,"substitution (9.44 - 9.96): ASR=''PRINCE'', Original=''PRISM''"
+tiny,SA004,grandfather,prosodic,prosodic,"fast speech rate - reduced articulatory precision on ""ninety"" ",5.33189,5.490525,2,2,0,0,"insertion (5.3 - 6.02): ASR=''3YEAROLD'', Original=''[NOT IN TRANSCRIPT]''"
+tiny,SA004,grandfather,substitution,deletion,syllable deletion dresses -> dress ,7.733444,7.874453,0,,,0,"substitution (7.52 - 7.86): ASR=''STARTED'', Original=''NEARLY''; substitution (7.86 - 8.58): ASR=''ACCIDENT'', Original=''NINETYTHREE''"
+tiny,SA004,grandfather,repetition,insertion,"Self correct - addition ""in an ancient"" ",9.388093,10.793773,2,2,0,0,"substitution (8.58 - 9.76): ASR=''AND'', Original=''YEARS''; substitution (9.76 - 10.0): ASR=''THEN'', Original=''OLD''; substitution (10.3 - 11.1): ASR=''TURNED'', Original=''DRESSES''"
+tiny,SA004,grandfather,substitution,substitution,Phonemic substitution frock -> flock ,12.787724,13.060928,0,,,1,"substitution (11.98 - 13.3): ASR=''CLOTH'', Original=''FROCK''"
+tiny,SA004,grandfather,substitution,insertion,phonemic addition coat -> cloak ,13.274644,13.827663,0,,,0,"substitution (11.98 - 13.3): ASR=''CLOTH'', Original=''FROCK''"
+tiny,SA004,grandfather,substitution,deletion,"phonemic deletion usually -> ulily (omitted ""s"") ",14.486438,15.143009,0,,,0,"substitution (14.58 - 14.82): ASR=''HE'', Original=''COAT''; substitution (14.82 - 15.42): ASR=''WAS'', Original=''USUALLY''"
+tiny,SA004,grandfather,insertion,insertion,"word addition ""to"" ",15.079115,15.22453,2,2,0,0,"substitution (14.82 - 15.42): ASR=''WAS'', Original=''USUALLY''"
+tiny,SA004,grandfather,insertion,insertion,"additional words ""twenty"" ",15.878898,17.139163,2,2,0,0,"substitution (15.64 - 15.92): ASR=''NURSE'', Original=''SEVERAL''; substitution (15.92 - 16.12): ASR=''TO'', Original=''BUTTONS''; substitution (16.12 - 16.78): ASR=''EARN'', Original=''YET''"
+tiny,SA004,grandfather,substitution,deletion,syllable deletion several -> sevets ,18.0425,18.690259,,,,0,
+tiny,SA004,grandfather,substitution,substitution,phonemic substitution buttons -> praton ,19.716978,20.388973,,,,0,
+tiny,SA004,grandfather,insertion,insertion,"word addition ""unknown"" ",21.990743,22.642908,2,2,0,1,"substitution (21.94 - 22.36): ASR=''EARNED'', Original=''THINKS''; substitution (22.36 - 22.72): ASR=''ALL'', Original=''AS''"
+tiny,SA004,grandfather,substitution,deletion,syllable deletion swiftly -> swift ,24.462801,24.903453,,,,0,
+tiny,SA004,grandfather,substitution,substitution,phonemic substitution flowing -> floor ,27.61787,27.94175,0,,,1,"substitution (27.3 - 28.02): ASR=''POOR'', Original=''FLOWING''"
+tiny,SA004,grandfather,substitution,substitution,phonemic substitution clings -> king ,28.593915,28.763566,,,,0,
+tiny,SA004,grandfather,prosodic,prosodic,prolonged break between words ,29.179982,30.907338,2,2,0,0,"substitution (28.88 - 29.22): ASR=''RISK'', Original=''HIS''"
+tiny,SA004,grandfather,substitution,substitution,phonemic substition observe -> deserve ,33.015858,33.509389,0,,,0,"substitution (33.14 - 33.4): ASR=''PRISON'', Original=''UTMOST''"
+tiny,SA004,grandfather,insertion,insertion,"word addition ""good"" ",34.049188,34.254091,,,,0,
+tiny,SA004,grandfather,substitution,insertion,syllable addition pronounced -> pronounsation ,34.271717,34.932695,,,,0,
+tiny,SA004,grandfather,substitution,substitution,phonemic substitution feeling -> paving ,35.981447,36.444132,,,,0,
+tiny,SA004,grandfather,substitution,substitution,word replacement utmost -> utter ,38.224366,38.790604,,,,0,
+tiny,SA004,grandfather,insertion,insertion,"additional word ""um"" ",39.081435,39.312777,,,,0,
+tiny,SA004,grandfather,substitution,deletion,phonemic deletion speaks -> speak ,41.002678,41.346386,,,,0,
+tiny,SA004,grandfather,substitution,deletion,phonemic deletion voice -> voy ,41.809071,42.04482,0,,,0,"substitution (41.9 - 42.12): ASR=''MOTHER'', Original=''VOICE''"
+tiny,SA004,grandfather,insertion,insertion,"additional word ""like"" ",42.34887,42.553773,,,,0,
+tiny,SA004,grandfather,insertion,insertion,"additional word ""of"" ",43.280849,43.576086,2,2,0,0,"substitution (43.18 - 43.46): ASR=''GIRL'', Original=''BIT''; substitution (43.56 - 44.04): ASR=''CRACK'', Original=''CRACKED''"
+tiny,SA004,grandfather,substitution,substitution,word substitution quivers -> quail ,45.290223,45.548004,0,,,1,"substitution (44.8 - 45.58): ASR=''CURL'', Original=''QUIVERS''"
+tiny,SA004,grandfather,substitution,substitution,word replacement trifle -> bit ,45.785956,45.935778,0,,,1,"substitution (45.58 - 45.82): ASR=''HER'', Original=''A''; substitution (45.82 - 46.04): ASR=''BEARD'', Original=''TRIFLE''"
+tiny,SA004,grandfather,prosodic,prosodic,prolonged break ,46.237625,48.178697,,,,0,
+tiny,SA004,grandfather,repetition,repetition,repetition (attempt to self correct) quivers a trifle -> krill a trill ,48.61274,49.626239,0,,,1,"substitution (48.68 - 49.06): ASR=''COOL'', Original=''TWICE''; substitution (49.32 - 49.4): ASR=''I'', Original=''EACH''; substitution (49.4 - 49.56): ASR=''TOO'', Original=''DAY''"
+tiny,SA004,grandfather,substitution,substitution,word replacement zest -> new ,54.061403,54.374266,0,,,0,"substitution (53.58 - 54.38): ASR=''REVIEW'', Original=''WITH''"
+tiny,SA004,grandfather,substitution,substitution,phonemic replacement snow -> slow ,60.552208,61.069974,,,,0,
+tiny,SA004,grandfather,prosodic,prosodic,prolonged break ,61.109633,63.480341,,,,0,
+tiny,SA004,grandfather,repetition,repetition,"phrase repetition ""ooze or snow"" -> ooze or slow ",63.625757,64.718574,,,,0,
+tiny,SA004,grandfather,substitution,deletion,phonemic deletion prevent -> pevent ,65.513951,65.974432,0,,,0,"substitution (65.12 - 65.6): ASR=''ACTUALLY'', Original=''SNOW''; substitution (65.6 - 66.1): ASR=''BEEN'', Original=''OR''"
+tiny,SA004,grandfather,substitution,deletion,phonemic deletion takes -> take ,67.455023,67.730431,0,,,1,"substitution (67.48 - 67.9): ASR=''TOOK'', Original=''TAKES''"
+tiny,SA004,grandfather,substitution,substitution,phonemic substitution often -> open ,71.16972,71.531055,0,,,0,"substitution (71.12 - 71.56): ASR=''OPENED'', Original=''HAVE''"
+tiny,SA004,grandfather,deletion,deletion,"word deletion ""and"" ",74.452579,74.668498,,,,0,
+tiny,SA004,grandfather,substitution,deletion,phonemic deletion smoke - moke ,74.617823,74.873401,,,,0,
+tiny,SA004,grandfather,substitution,substitution,phonemic replacement answers -> answered ,76.360602,76.759392,,,,0,
+tiny,SA004,grandfather,substitution,deletion,phonemic deletion his -> is ,80.643741,81.027108,0,,,0,"substitution (80.52 - 80.8): ASR=''THAN'', Original=''IN''"
+tiny,SA004,rainbow,substitution,substitution,word replacement raindrops -> rainbow ,3.219496,3.6954,0,,,1,"substitution (3.36 - 3.46): ASR=''WHEN'', Original=''RAINDROPS''"
+tiny,SA004,rainbow,deletion,deletion,"word deletion ""the"" ",13.524145,13.98683,2,2,0,0,"substitution (13.24 - 14.06): ASR=''EXCHANGE'', Original=''TAKE''"
+tiny,SA004,rainbow,substitution,substitution,phonemic substition arch -> up ,17.042752,17.432729,,,,0,
+tiny,SA004,rainbow,insertion,insertion,"word addition ""and receive""? ",17.749999,20.039186,,,,0,
+tiny,SA004,rainbow,substitution,substitution,phonemic substitution with -> which ,20.211041,20.54153,,,,0,
+tiny,SA004,rainbow,substitution,substitution,word replacement ends -> ear ,24.727725,25.124312,0,,,1,"insertion (24.58 - 24.74): ASR=''TWO'', Original=''[NOT IN TRANSCRIPT]''; insertion (24.74 - 25.12): ASR=''YEARS'', Original=''[NOT IN TRANSCRIPT]''"
+tiny,SA004,rainbow,substitution,substitution,phonemic substitution horizon -> holaizon ,30.416543,30.982781,,,,0,
+tiny,SA004,rainbow,substitution,substitution,word replacement find -> found ,41.177267,41.573854,0,,,0,"substitution (41.2 - 41.52): ASR=''PROBABLY'', Original=''FINDS''"
+tiny,SA004,rainbow,substitution,deletion,phonemic deletion looks -> look ,42.668875,42.882591,0,,,1,"substitution (42.68 - 42.9): ASR=''LOOKED'', Original=''LOOKS''"
+tiny,SA005,grandfather,substitution,deletion,Phonemic deletion dresses -> dress ,7.581556,8.164774,0,,,1,"substitution (7.74 - 8.14): ASR=''DRESSED'', Original=''DRESSES''"
+tiny,SA005,grandfather,substitution,substitution,phonemic substition swiftly -> swifty ,16.422603,17.005821,0,,,0,"substitution (16.2 - 16.5): ASR=''ITS'', Original=''AS''; substitution (16.62 - 17.24): ASR=''SHORTSAFETY'', Original=''LONG''"
+tiny,SA005,grandfather,insertion,insertion,"additional word ""blob""? ",20.120732,20.593492,2,2,0,1,"substitution (20.1 - 21.24): ASR=''BRAPER'', Original=''BEARD''"
+tiny,SA005,grandfather,substitution,substitution,phonemic substitution beard -> bear ,20.531635,20.999977,0,,,0,"substitution (20.1 - 21.24): ASR=''BRAPER'', Original=''BEARD''"
+tiny,SA005,grandfather,substitution,deletion,phonemic deletion clings -> links ,22.970545,23.642129,,,,0,
+tiny,SA005,grandfather,substitution,substitution,phonemic substitution quivers -> quivis ,35.567159,36.287344,0,,,1,"substitution (35.86 - 36.04): ASR=''TOO'', Original=''QUIVERS''"
+tiny,SA005,grandfather,substitution,substitution,word replacement each -> a ,38.381625,38.752763,0,,,0,"deletion (38.68 - 38.68): ASR='', Original=''TRIFLE''; deletion (38.68 - 38.68): ASR='', Original=''TWICE''; deletion (38.68 - 38.68): ASR='', Original=''EACH''"
+tiny,SA005,grandfather,substitution,substitution,word replacement a -> his ,51.314031,51.742607,,,,0,
+tiny,SA005,grandfather,substitution,insertion,phonemic addition answers -> sayanswer ,60.588073,61.568938,0,,,1,"substitution (60.9 - 61.36): ASR=''SENSE'', Original=''ANSWERS''"
+tiny,SA005,rainbow,substitution,substitution,phonemic substitution above ->debove ,19.796243,20.93175,0,,,0,"substitution (19.6 - 20.32): ASR=''PARTHIGH'', Original=''PATH''; substitution (20.32 - 20.72): ASR=''LIP'', Original=''HIGH''; substitution (20.72 - 21.38): ASR=''BUFF'', Original=''ABOVE''"
+tiny,SA005,rainbow,substitution,substitution,phonemic substitution at -> ant ,30.819937,31.319207,0,,,1,"substitution (30.96 - 31.38): ASR=''AND'', Original=''AT''"
+tiny,SA005,rainbow,substitution,insertion,phonemic addition one -> twan ,31.199912,31.579887,0,,,0,"substitution (30.96 - 31.38): ASR=''AND'', Original=''AT''"
+tiny,SA005,rainbow,substitution,deletion,syllable deletion looking -> look ,43.310511,43.809781,0,,,0,"substitution (43.28 - 43.46): ASR=''HES'', Original=''LOOKING''"
+tiny,SA006,grandfather,substitution,substitution,phonemic substitution nearly -> really ,4.537401,5.800936,0,,,1,"substitution (4.64 - 5.16): ASR=''VERY'', Original=''NEARLY''; substitution (5.16 - 7.36): ASR=''93'', Original=''NINETYTHREE''"
+tiny,SA006,grandfather,repetition,repetition,"phrase repetition ""he's nearly 93 years old"" ",7.801128,9.250047,,,,0,
+tiny,SA006,grandfather,insertion,insertion,phonemic addition zzz ,10.250143,10.859957,,,,0,
+tiny,SA006,grandfather,insertion,insertion,"word addition ""with"" ",21.163383,21.973217,2,2,0,1,"substitution (21.6 - 22.02): ASR=''WE'', Original=''YET''"
+tiny,SA006,grandfather,substitution,substitution,phonemic substitution flowing -> plowing ,26.476088,27.134687,0,,,0,"substitution (25.56 - 26.94): ASR=''LONGFLOWING'', Original=''A''"
+tiny,SA006,grandfather,substitution,substitution,Phonemic substitution beard -> board ,27.622539,28.398223,0,,,0,"substitution (27.76 - 28.48): ASR=''BUT'', Original=''LONG''"
+tiny,SA006,grandfather,repetition,repetition,"repetition of phrase ""beard clings to his chin"" ",30.93993,32.530326,2,2,0,0,"substitution (30.06 - 31.22): ASR=''WE'', Original=''BEARD''"
+tiny,SA006,grandfather,substitution,insertion,"phonemic addition ""fer"" ",37.672282,38.257704,,,,0,
+tiny,SA006,grandfather,insertion,insertion,"word addition ""release' ",42.306872,42.887416,2,2,0,1,"substitution (42.6 - 44.2): ASR=''RESTRICTS'', Original=''SPEAKS''"
+tiny,SA006,grandfather,prosodic,prosodic,"insufficient pause speaks, his ",43.36551,44.209494,2,2,0,0,"substitution (42.6 - 44.2): ASR=''RESTRICTS'', Original=''SPEAKS''"
+tiny,SA006,grandfather,substitution,insertion,phonemic addition a -> an ,49.746609,50.136891,0,,,1,"substitution (49.64 - 50.18): ASR=''AND'', Original=''A''"
+tiny,SA006,grandfather,substitution,insertion,phonemic addition zest -> zesium ,57.230253,57.89861,0,,,1,"substitution (57.1 - 57.52): ASR=''THIS'', Original=''WITH''; substitution (57.52 - 57.78): ASR=''IS'', Original=''ZEST''"
+tiny,SA006,grandfather,insertion,insertion,"word addition ""there's"" ",57.96203,58.508424,,,,0,
+tiny,SA006,grandfather,prosodic,prosodic,insufficient break organ. except ,60.898897,62.23561,2,2,0,0,"substitution (61.58 - 61.9): ASR=''I'', Original=''EXCEPT''"
+tiny,SA006,grandfather,substitution,substitution,word replacement ooze -> colds ,66.918986,67.436109,0,,,1,"substitution (66.98 - 67.32): ASR=''CAUSE'', Original=''OOZE''; substitution (67.32 - 68.14): ASR=''OF'', Original=''OR''"
+tiny,SA006,rainbow,substitution,deletion,phonemic deletion prism - prince ,5.156789,5.800753,2,2,0,1,"substitution (4.98 - 5.38): ASR=''THE'', Original=''A''; substitution (5.38 - 5.72): ASR=''PRINT'', Original=''PRISM''"
+tiny,SA006,rainbow,insertion,insertion,"word addition ""big"" ",12.596526,13.035593,,,,0,
+tiny,SA006,rainbow,substitution,insertion,phonemic addition its -> biz ,20.543629,21.041238,0,,,1,"substitution (20.78 - 21.04): ASR=''THESE'', Original=''WITH''; substitution (21.04 - 21.5): ASR=''ARE'', Original=''ITS''"
+tiny,SA006,rainbow,insertion,insertion,"word addition ""a"" ",29.583519,29.920137,,,,0,
+tiny,SA006,rainbow,substitution,substitution,phonemic substitution legend - regend ,30.120156,30.705578,,,,0,
+tiny,SA006,rainbow,repetition,repetition,repetition (self correct) to legend ,31.076345,31.993506,2,2,0,0,"deletion (31.92 - 31.92): ASR='', Original=''A''; deletion (31.92 - 31.92): ASR='', Original=''BOILING''; deletion (31.92 - 31.92): ASR='', Original=''POT''"
+tiny,SA006,rainbow,substitution,substitution,phonemic substitution at -> an ,34.486428,34.837681,,,,0,
+tiny,SA006,rainbow,repetition,repetition,"word repetition ""look"" ",37.56965,38.398998,,,,0,
+tiny,SA006,rainbow,substitution,insertion,phonemic addition his -> this ,46.077782,46.990065,0,,,1,"insertion (46.04 - 46.62): ASR=''THESE'', Original=''[NOT IN TRANSCRIPT]''; insertion (46.62 - 47.12): ASR=''RICH'', Original=''[NOT IN TRANSCRIPT]''"
+small,SA005,grandfather,insertion,insertion,"additional word ""blob""? ",20.120732,20.593492,2,2,3,1,"insertion (19.9 - 21.0): ASR=''BLOODBATH'', Original=''[NOT IN TRANSCRIPT]''"
+small,SA006,grandfather,prosodic,prosodic,insufficient break organ. except ,60.898897,62.23561,2,2,3,1,"deletion (60.92 - 62.0): ASR='', Original=''EXCEPT''"
+small,SA001,grandfather,substitution,substitution,word replacement ancient -> accident,13.168761,14.019658,1,,,1,"substitution (13.12 - 13.54): ASR=''ACCIDENT'', Original=''ANCIENT''"
+small,SA001,rainbow,insertion,insertion,"word addition ""the""",10.930571,11.079893,2,1,,1,"insertion (10.88 - 11.02): ASR=''THE'', Original=''[NOT IN TRANSCRIPT]''"
+small,SA001,rainbow,insertion,insertion,"additional word ""rich""",18.429844,18.707156,2,1,,1,"substitution (18.04 - 18.5): ASR=''RICH'', Original=''ARCH''"
+small,SA001,rainbow,substitution,substitution,phonemic substition look -> took,35.831759,36.426676,1,,,1,"substitution (35.02 - 36.06): ASR=''TOOK'', Original=''LOOK''"
+small,SA002,grandfather,substitution,deletion,syllable deletion swiftly -> swift,25.131915,25.623176,1,,,1,"substitution (24.92 - 25.38): ASR=''SWIFT'', Original=''SWIFTLY''"
+small,SA002,grandfather,substitution,substitution,word replacement utmost -> uppermost,42.207137,43.427535,1,,,1,"substitution (42.16 - 43.34): ASR=''UPPERMOST'', Original=''UTMOST''"
+small,SA002,grandfather,substitution,substitution,phonemic substitution zest -> vest,61.785209,62.540201,1,,,1,"substitution (61.74 - 62.12): ASR=''VEST'', Original=''ZEST''"
+small,SA002,grandfather,deletion,deletion,"word deletion ""our""",63.620977,64.629356,2,2,1,1,"deletion (63.86 - 63.86): ASR='', Original=''OUR''"
+small,SA002,grandfather,substitution,substitution,word replacement winter -> weather,68.6939,69.143792,1,,,1,"substitution (68.56 - 68.86): ASR=''WEATHER'', Original=''WINTER''"
+small,SA002,grandfather,substitution,substitution,word replacement ooze -> zone,70.152172,70.886479,1,,,1,"substitution (69.7 - 70.46): ASR=''ZONE'', Original=''OOZE''; substitution (70.46 - 71.14): ASR=''OF'', Original=''OR''"
+small,SA002,grandfather,substitution,substitution,phonemic substitution prevents -> present,72.73776,73.31176,1,,,1,"substitution (72.44 - 73.04): ASR=''PRESENT'', Original=''PREVENTS''"
+small,SA002,grandfather,substitution,substitution,phonemic substitition have -> had,83.349012,83.814418,1,,,1,"substitution (83.32 - 83.62): ASR=''HAD'', Original=''HAVE''"
+small,SA002,rainbow,insertion,insertion,"additional word ""as""",4.751112,5.345797,2,1,,1,"insertion (4.18 - 4.92): ASR=''AS'', Original=''[NOT IN TRANSCRIPT]''"
+small,SA002,rainbow,insertion,insertion,"word addition ""different""",15.010725,16.194924,2,1,,1,"insertion (14.64 - 15.82): ASR=''DIFFERENT'', Original=''[NOT IN TRANSCRIPT]''; insertion (16.06 - 16.4): ASR=''MANY'', Original=''[NOT IN TRANSCRIPT]''"
+small,SA002,rainbow,substitution,substitution,phonemic substitution these -> this,18.708116,19.111467,1,,,1,"substitution (18.72 - 18.94): ASR=''THIS'', Original=''THESE''; substitution (18.94 - 19.26): ASR=''TAKES'', Original=''TAKE''"
+small,SA002,rainbow,substitution,substitution,word replacement one -> each,38.994638,39.703089,1,,,1,"substitution (38.88 - 39.46): ASR=''EACH'', Original=''AT''"
+small,SA003,rainbow,insertion,insertion,"word addition ""a""",38.007585,38.165481,2,1,,1,"insertion (37.98 - 38.18): ASR=''A'', Original=''[NOT IN TRANSCRIPT]''"
+small,SA004,grandfather,insertion,insertion,"word addition ""unknown"" ",21.990743,22.642908,2,1,,1,"substitution (21.8 - 22.44): ASR=''UNKNOWN'', Original=''THINKS''; substitution (22.44 - 22.88): ASR=''FOR'', Original=''AS''"
+small,SA004,grandfather,insertion,insertion,"word addition ""for his"" ",22.77951,23.277447,2,2,1,1,"substitution (22.44 - 22.88): ASR=''FOR'', Original=''AS''; substitution (22.88 - 23.18): ASR=''HIS'', Original=''SWIFTLY''"
+small,SA004,grandfather,substitution,substitution,phonemic substitution clings -> king ,28.593915,28.763566,1,,,1,"substitution (28.44 - 28.68): ASR=''KING'', Original=''CLINGS''"
+small,SA004,grandfather,substitution,substitution,phonemic substition observe -> deserve ,33.015858,33.509389,1,,,1,"substitution (32.84 - 33.18): ASR=''DESERVE'', Original=''OBSERVE''"
+small,SA004,grandfather,insertion,insertion,"word addition ""good"" ",34.049188,34.254091,2,1,,1,"substitution (34.02 - 34.16): ASR=''GOOD'', Original=''PRONOUNCED''; substitution (34.16 - 34.8): ASR=''POSITION'', Original=''FEELING''"
+small,SA004,grandfather,substitution,substitution,word replacement utmost -> utter ,38.224366,38.790604,1,,,1,"substitution (36.82 - 38.62): ASR=''UTTER'', Original=''THE''"
+small,SA004,grandfather,insertion,insertion,"additional word ""like"" ",42.34887,42.553773,2,1,,1,"insertion (42.28 - 42.52): ASR=''LIKE'', Original=''[NOT IN TRANSCRIPT]''"
+small,SA004,grandfather,insertion,insertion,"additional word ""of"" ",43.280849,43.576086,2,1,,1,"substitution (43.22 - 43.38): ASR=''OF'', Original=''CRACKED''"
+small,SA004,grandfather,substitution,substitution,word replacement trifle -> bit ,45.785956,45.935778,1,,,1,"substitution (45.74 - 45.92): ASR=''BIT'', Original=''TRIFLE''"
+small,SA004,grandfather,substitution,substitution,word replacement walk -> break ,68.616142,68.889346,1,,,1,"substitution (68.34 - 68.72): ASR=''BREAK'', Original=''WALK''"
+small,SA004,grandfather,deletion,deletion,"phrase deletion ""each day"" ",70.008602,70.76432,2,2,1,1,"deletion (69.94 - 70.385714): ASR='', Original=''EACH''; deletion (70.385714 - 70.72): ASR='', Original=''DAY''"
+small,SA004,grandfather,substitution,substitution,phonemic substitution often -> open ,71.16972,71.531055,1,,,1,"substitution (70.96 - 71.32): ASR=''OPEN'', Original=''HAVE''"
+small,SA004,grandfather,substitution,deletion,phonemic deletion his -> is ,80.643741,81.027108,1,,,1,"substitution (80.48 - 80.88): ASR=''IS'', Original=''IN''; substitution (80.88 - 81.16): ASR=''THE'', Original=''HIS''"
+small,SA004,rainbow,substitution,substitution,word replacement raindrops -> rainbow ,3.219496,3.6954,1,,,1,"substitution (2.84 - 3.46): ASR=''RAINBOW'', Original=''RAINDROPS''"
+small,SA004,rainbow,insertion,insertion,"additional word ""the"" ",33.419587,33.553986,2,1,,1,"insertion (33.4 - 33.58): ASR=''THE'', Original=''[NOT IN TRANSCRIPT]''"
+small,SA004,rainbow,substitution,substitution,word replacement find -> found ,41.177267,41.573854,1,,,1,"substitution (41.14 - 41.38): ASR=''FOUND'', Original=''FINDS''"
+small,SA005,grandfather,substitution,deletion,phonemic deletion clings -> links ,22.970545,23.642129,1,,,1,"substitution (22.76 - 23.36): ASR=''LINKS'', Original=''CLINGS''"
+small,SA005,grandfather,substitution,substitution,word replacement each -> a ,38.381625,38.752763,1,,,1,"substitution (38.22 - 38.6): ASR=''A'', Original=''EACH''"
+small,SA006,grandfather,substitution,substitution,word substitution my -> your ,2.015208,2.449396,1,,,1,"substitution (1.88 - 2.18): ASR=''YOUR'', Original=''MY''"
+small,SA006,grandfather,substitution,substitution,word substitution he -> this ,3.864165,4.434952,1,,,1,"substitution (3.66 - 4.2): ASR=''THIS'', Original=''HE''"
+small,SA006,rainbow,substitution,substitution,phonemic substitution is -> in ,8.859583,9.235229,1,,,1,"insertion (8.34 - 9.08): ASR=''IN'', Original=''[NOT IN TRANSCRIPT]''; deletion (9.22 - 9.22): ASR='', Original=''RAINBOW''; deletion (9.22 - 9.22): ASR='', Original=''IS''; deletion (9.22 - 9.22): ASR='', Original=''A''"
+small,SA006,rainbow,substitution,substitution,phonemic substitution ever -> even ,40.169899,40.59433,1,,,1,"substitution (39.52 - 40.34): ASR=''EVEN'', Original=''EVER''"
+small,SA001,grandfather,prosodic,prosodic,break between three -> th -- ree,6.316549,6.95887,0,,,0,"substitution (5.68 - 6.6): ASR=''93'', Original=''NINETYTHREE''"
+small,SA001,grandfather,prosodic,prosodic,prolonged break,7.053677,7.944868,,,,0,
+small,SA001,grandfather,insertion,insertion,"additional word ""year""",7.954349,8.459198,,,,0,
+small,SA001,grandfather,insertion,insertion,"additional phrase ""in a""",11.867528,12.680502,,,,0,
+small,SA001,grandfather,prosodic,prosodic,prolonged break,13.962773,15.339852,,,,0,
+small,SA001,grandfather,substitution,substitution,phonemic substitution black -> blank,15.375405,15.81152,,,,0,
+small,SA001,grandfather,substitution,substitution,phonemic substitution yet -> yen,23.424561,23.744536,,,,0,
+small,SA001,grandfather,substitution,substitution,phonemic substitution swiftly -> swiftty,25.569581,26.050729,0,,,1,"substitution (25.64 - 25.92): ASR=''50'', Original=''SWIFTLY''"
+small,SA001,grandfather,substitution,substitution,word replacement clings -> cleaning,30.88117,31.286472,0,,,1,"substitution (30.86 - 31.14): ASR=''TENDING'', Original=''CLINGS''"
+small,SA001,grandfather,prosodic,prosodic,prolonged break,37.738122,38.688567,,,,0,
+small,SA001,grandfather,insertion,insertion,"phrase addition ""a prof""",38.709899,39.565537,,,,0,
+small,SA001,grandfather,repetition,repetition,"word repetition ""pronounced""",39.657974,40.36666,,,,0,
+small,SA001,grandfather,insertion,insertion,"additional phrase ""of a""",40.859659,41.461687,,,,0,
+small,SA001,grandfather,substitution,deletion,phonemic deletion voice -> voy,46.531517,47.003184,0,,,1,"substitution (46.52 - 46.74): ASR=''VERY'', Original=''VOICE''"
+small,SA001,grandfather,substitution,substitution,phonemic substitution cracked -> clacked,48.036586,48.707349,0,,,1,"substitution (47.72 - 48.3): ASR=''KEPT'', Original=''CRACKED''"
+small,SA001,grandfather,substitution,substitution,word replacement quivers -> beer,50.207678,50.918734,0,,,1,"substitution (49.3 - 50.44): ASR=''WE'', Original=''QUIVERS''; substitution (50.44 - 51.72): ASR=''TRAVEL'', Original=''A''"
+small,SA001,grandfather,substitution,deletion,phonemic deletion trifle -> tifle,51.361959,51.928434,0,,,0,"substitution (50.44 - 51.72): ASR=''TRAVEL'', Original=''A''"
+small,SA001,grandfather,prosodic,prosodic,prolonged break,53.578084,54.976495,,,,0,
+small,SA001,grandfather,substitution,deletion,phonemic deletion plays -> play,55.644887,56.076261,,,,0,
+small,SA001,grandfather,substitution,substitution,word replacement zest -> zip,58.46304,58.71665,0,,,1,"substitution (57.66 - 58.62): ASR=''SLEEP'', Original=''ZEST''"
+small,SA001,grandfather,prosodic,prosodic,prolonged break,61.537173,62.859738,,,,0,
+small,SA001,grandfather,substitution,substitution,word replacement when -> and,65.054531,65.692111,0,,,1,"substitution (64.44 - 65.28): ASR=''IN'', Original=''WHEN''"
+small,SA001,grandfather,substitution,substitution,word replacement ooze -> zoos,65.957572,66.483754,0,,,1,"substitution (65.82 - 66.22): ASR=''ZONES'', Original=''OOZE''"
+small,SA001,grandfather,insertion,insertion,"additional phrase ""we of""",75.784369,76.336623,,,,0,
+small,SA001,grandfather,insertion,insertion,"phonemic addition ""s""",79.899014,80.290095,,,,0,
+small,SA001,grandfather,prosodic,prosodic,prolonged break,80.278244,81.136252,,,,0,
+small,SA001,grandfather,substitution,deletion,phonemic deletion likes -> like,87.955281,88.358213,0,,,1,"substitution (87.74 - 88.12): ASR=''LIKED'', Original=''LIKES''"
+small,SA001,rainbow,repetition,repetition,"word repetition ""prism""",6.069317,6.664234,2,2,0,1,"substitution (5.1 - 6.44): ASR=''PRISMS'', Original=''A''"
+small,SA001,rainbow,substitution,substitution,phonemic replacement with -> win,19.809293,20.036831,,,,0,
+small,SA001,rainbow,prosodic,prosodic,prolonged break,20.66019,22.492345,,,,0,
+small,SA001,rainbow,substitution,insertion,phonemic addition high ->higher,22.708032,23.103853,,,,0,
+small,SA001,rainbow,substitution,insertion,phonemic addition its -> his,23.558929,23.817279,0,,,0,"substitution (23.74 - 24.22): ASR=''TRUE'', Original=''TWO''"
+small,SA001,rainbow,substitution,deletion,syllable deletion apparently -> apparent,25.187248,25.912525,0,,,1,"substitution (24.94 - 25.42): ASR=''APPEAR'', Original=''APPARENTLY''"
+small,SA001,rainbow,substitution,insertion,phonemic addition it -> this,38.156913,38.408152,,,,0,
+small,SA001,rainbow,insertion,insertion,"additional word ""he""",42.202822,42.582052,,,,0,
+small,SA001,rainbow,insertion,insertion,"additional word ""his""",43.883285,44.345472,,,,0,
+small,SA002,grandfather,substitution,deletion,syllabic deletion dresses -> dress,12.767633,13.119273,0,,,1,"substitution (12.62 - 12.96): ASR=''DRESSED'', Original=''DRESSES''"
+small,SA002,grandfather,substitution,substitution,phonemic substitution frock -> flock,16.046159,16.470195,0,,,1,"substitution (15.6 - 16.3): ASR=''CLOAK'', Original=''FROCK''"
+small,SA002,grandfather,substitution,substitution,word substitution coat -> clothes,16.392627,17.059709,,,,0,
+small,SA002,grandfather,substitution,insertion,"phonemic addition ""s""",22.629066,23.120327,,,,0,
+small,SA002,grandfather,substitution,deletion,phonemic deletion thinks -> think,23.48231,24.190761,,,,0,
+small,SA002,grandfather,substitution,repetition,prolonged vowel flowing -> flooowing,28.943071,30.08073,,,,0,
+small,SA002,grandfather,substitution,substitution,phonemic substitution clings -> clangs,30.908118,31.725164,,,,0,
+small,SA002,grandfather,substitution,deletion,syllable deletion giving -> give,32.769741,33.803977,0,,,1,"substitution (32.86 - 33.34): ASR=''GIVES'', Original=''GIVING''"
+small,SA002,grandfather,substitution,deletion,phonemic deletion pronounced -> pronounce,37.211781,38.002971,,,,0,
+small,SA002,grandfather,prosodic,prosodic,prolonged break,38.427008,39.518126,,,,0,
+small,SA002,grandfather,repetition,repetition,"word repetition ""pronounce""",39.300937,40.474793,,,,0,
+small,SA002,grandfather,substitution,insertion,phonemic addition the -> there,41.969263,42.331246,0,,,1,"substitution (41.86 - 42.16): ASR=''THEIR'', Original=''THE''; substitution (42.16 - 43.34): ASR=''UPPERMOST'', Original=''UTMOST''"
+small,SA002,grandfather,substitution,deletion,phonemic deletion speaks -> speak,45.366726,45.837303,,,,0,
+small,SA002,grandfather,prosodic,prosodic,prolonged break,49.844964,51.086046,2,2,0,0,"substitution (50.58 - 52.06): ASR=''SHIVERED'', Original=''QUIVERS''"
+small,SA002,grandfather,substitution,substitution,phonemic substitution quivers -> shiver,51.008479,51.970317,0,,,1,"substitution (50.58 - 52.06): ASR=''SHIVERED'', Original=''QUIVERS''"
+small,SA002,grandfather,prosodic,prosodic,prolonged break,52.64257,53.811256,2,2,0,0,"substitution (52.24 - 54.14): ASR=''TEAR'', Original=''TRIFLE''"
+small,SA002,grandfather,substitution,substitution,word replacement trifle -> twiff,54.018103,54.788608,0,,,1,"substitution (52.24 - 54.14): ASR=''TEAR'', Original=''TRIFLE''"
+small,SA002,grandfather,insertion,insertion,"word addition ""as""",56.913961,57.684467,,,,0,
+small,SA002,grandfather,repetition,repetition,"word repetition ""twice""",57.65344,58.129188,,,,0,
+small,SA002,grandfather,insertion,insertion,"word addition ""up""",62.803931,63.114201,,,,0,
+small,SA002,grandfather,insertion,insertion,"word addition ""as""",66.651286,67.096007,,,,0,
+small,SA002,grandfather,insertion,insertion,"additional word ""ar""",73.332445,73.989184,,,,0,
+small,SA002,grandfather,insertion,insertion,"word addition ""presented""",76.760934,78.301945,,,,0,
+small,SA002,grandfather,substitution,deletion,phonemic deletion takes -> take,79.222414,79.434432,,,,0,
+small,SA002,grandfather,substitution,substitution,word replacement urge -> argue,84.321194,84.765915,0,,,1,"substitution (84.08 - 84.62): ASR=''ARGUED'', Original=''URGED''"
+small,SA002,grandfather,substitution,prosodic,self corrected accurately,85.27269,86.296583,,,,0,
+small,SA002,grandfather,substitution,deletion,phonemic deletion answers -> answer,91.235056,91.834912,,,,0,
+small,SA002,grandfather,substitution,deletion,phonemic deletion likes -> like,94.389473,94.818681,,,,0,
+small,SA002,rainbow,substitution,deletion,phonemic deletion strikes -> strike,1.208856,1.658749,0,,,0,"substitution (1.4 - 2.06): ASR=''RAIN'', Original=''RAINDROPS''"
+small,SA002,rainbow,substitution,substitution,phonemic substitution rainbow -> wainbow,9.31726,10.118792,,,,0,
+small,SA002,rainbow,repetition,prosodic,"self corrected ""many beautiful colours""",15.977735,15.977735,,,,0,
+small,SA002,rainbow,substitution,substitution,phonemic substitution its -> his,23.703471,24.132679,,,,0,
+small,SA002,rainbow,substitution,deletion,phonemic deletion ends -> end,27.762844,28.595404,0,,,0,"substitution (28.04 - 28.82): ASR=''OF'', Original=''APPARENTLY''"
+small,SA002,rainbow,insertion,insertion,"word addition ""appear""",28.698827,29.360738,2,2,0,0,"substitution (28.04 - 28.82): ASR=''OF'', Original=''APPARENTLY''"
+small,SA002,rainbow,substitution,substitution,phonemic replacement apparently -> apparence,29.360738,30.079531,,,,0,
+small,SA002,rainbow,substitution,substitution,word replacement pot -> point,35.948816,37.164042,0,,,0,"substitution (35.74 - 36.6): ASR=''TO'', Original=''BOILING''; substitution (36.6 - 36.62): ASR=''THE'', Original=''POT''"
+small,SA002,rainbow,substitution,deletion,phonemic deletion finds -> find,43.384967,43.736607,,,,0,
+small,SA002,rainbow,substitution,deletion,phonemic deletion looks -> look,45.220734,45.887816,,,,0,
+small,SA002,rainbow,substitution,deletion,phonemic deletion friends -> friend,48.535458,49.021548,0,,,1,"substitution (48.38 - 48.62): ASR=''TRAIN'', Original=''FRIENDS''; substitution (48.62 - 49.0): ASR=''SAYS'', Original=''SAY''"
+small,SA003,grandfather,prosodic,prosodic,reduced breath control - grunting,1.462007,1.786572,,,,0,
+small,SA003,grandfather,substitution,substitution,phonemic substitution know -> row,3.058519,3.491273,,,,0,
+small,SA003,grandfather,insertion,insertion,"word addition ""accilar""",13.251631,14.178543,,,,0,
+small,SA003,grandfather,substitution,substitution,phonemic substitution ooze -> oost,77.477595,78.711529,0,,,1,"substitution (77.24 - 77.9): ASR=''ROOST'', Original=''OOZE''"
+small,SA003,rainbow,substitution,deletion,phonemic deletion prism -> pris,9.255756,10.282085,0,,,1,"substitution (9.16 - 9.66): ASR=''PRINCE'', Original=''PRISM''"
+small,SA004,grandfather,prosodic,prosodic,"fast speech rate - reduced articulatory precision on ""ninety"" ",5.33189,5.490525,2,2,0,0,"substitution (4.92 - 5.4): ASR=''93'', Original=''NINETYTHREE''"
+small,SA004,grandfather,substitution,deletion,syllable deletion dresses -> dress ,7.733444,7.874453,0,,,0,"substitution (7.34 - 7.8): ASR=''IN'', Original=''HIMSELF''"
+small,SA004,grandfather,substitution,insertion,syllable addition ancient -> accident ,8.072746,8.590513,,,,0,
+small,SA004,grandfather,repetition,insertion,"Self correct - addition ""in an ancient"" ",9.388093,10.793773,,,,0,
+small,SA004,grandfather,substitution,substitution,Phonemic substitution frock -> flock ,12.787724,13.060928,0,,,1,"substitution (11.44 - 12.96): ASR=''CLOTH'', Original=''FROCK''"
+small,SA004,grandfather,substitution,insertion,phonemic addition coat -> cloak ,13.274644,13.827663,,,,0,
+small,SA004,grandfather,substitution,deletion,"phonemic deletion usually -> ulily (omitted ""s"") ",14.486438,15.143009,0,,,0,"substitution (14.52 - 14.7): ASR=''HE'', Original=''COAT''; substitution (14.7 - 14.88): ASR=''WAS'', Original=''USUALLY''"
+small,SA004,grandfather,insertion,insertion,"word addition ""to"" ",15.079115,15.22453,,,,0,
+small,SA004,grandfather,insertion,insertion,"additional words ""twenty"" ",15.878898,17.139163,2,2,0,0,"insertion (15.62 - 18.2): ASR=''SEVEN'', Original=''[NOT IN TRANSCRIPT]''"
+small,SA004,grandfather,substitution,deletion,syllable deletion several -> sevets ,18.0425,18.690259,0,,,1,"insertion (15.62 - 18.2): ASR=''SEVEN'', Original=''[NOT IN TRANSCRIPT]''"
+small,SA004,grandfather,substitution,substitution,phonemic substitution buttons -> praton ,19.716978,20.388973,0,,,0,"deletion (20.16 - 21.02): ASR='', Original=''YET''"
+small,SA004,grandfather,substitution,deletion,syllable deletion swiftly -> swift ,24.462801,24.903453,,,,0,
+small,SA004,grandfather,substitution,substitution,phonemic substitution flowing -> floor ,27.61787,27.94175,0,,,1,"substitution (27.26 - 27.84): ASR=''POOR'', Original=''FLOWING''; substitution (27.92 - 28.44): ASR=''BEARDED'', Original=''BEARD''"
+small,SA004,grandfather,prosodic,prosodic,prolonged break between words ,29.179982,30.907338,,,,0,
+small,SA004,grandfather,substitution,insertion,syllable addition pronounced -> pronounsation ,34.271717,34.932695,0,,,0,"substitution (34.16 - 34.8): ASR=''POSITION'', Original=''FEELING''"
+small,SA004,grandfather,substitution,substitution,phonemic substitution feeling -> paving ,35.981447,36.444132,,,,0,
+small,SA004,grandfather,insertion,insertion,"additional word ""um"" ",39.081435,39.312777,,,,0,
+small,SA004,grandfather,substitution,deletion,phonemic deletion speaks -> speak ,41.002678,41.346386,,,,0,
+small,SA004,grandfather,substitution,deletion,phonemic deletion voice -> voy ,41.809071,42.04482,,,,0,
+small,SA004,grandfather,substitution,substitution,word substitution quivers -> quail ,45.290223,45.548004,0,,,1,"substitution (44.7 - 45.42): ASR=''CLUE'', Original=''QUIVERS''"
+small,SA004,grandfather,prosodic,prosodic,prolonged break ,46.237625,48.178697,,,,0,
+small,SA004,grandfather,repetition,repetition,repetition (attempt to self correct) quivers a trifle -> krill a trill ,48.61274,49.626239,,,,0,
+small,SA004,grandfather,substitution,substitution,word replacement zest -> new ,54.061403,54.374266,0,,,0,"substitution (53.72 - 54.34): ASR=''GILL'', Original=''ZEST''"
+small,SA004,grandfather,substitution,substitution,phonemic replacement snow -> slow ,60.552208,61.069974,,,,0,
+small,SA004,grandfather,prosodic,prosodic,prolonged break ,61.109633,63.480341,,,,0,
+small,SA004,grandfather,repetition,repetition,"phrase repetition ""ooze or snow"" -> ooze or slow ",63.625757,64.718574,,,,0,
+small,SA004,grandfather,substitution,deletion,phonemic deletion prevent -> pevent ,65.513951,65.974432,0,,,1,"substitution (65.3 - 65.98): ASR=''REVENTS'', Original=''PREVENTS''"
+small,SA004,grandfather,substitution,deletion,phonemic deletion takes -> take ,67.455023,67.730431,,,,0,
+small,SA004,grandfather,deletion,deletion,"word deletion ""and"" ",74.452579,74.668498,2,2,0,0,"insertion (74.3 - 74.82): ASR=''WALK'', Original=''[NOT IN TRANSCRIPT]''"
+small,SA004,grandfather,substitution,deletion,phonemic deletion smoke - moke ,74.617823,74.873401,2,2,0,0,"insertion (74.3 - 74.82): ASR=''WALK'', Original=''[NOT IN TRANSCRIPT]''; insertion (74.82 - 75.1): ASR=''LESS'', Original=''[NOT IN TRANSCRIPT]''"
+small,SA004,grandfather,substitution,substitution,phonemic replacement answers -> answered ,76.360602,76.759392,,,,0,
+small,SA004,rainbow,deletion,deletion,"word deletion ""the"" ",13.524145,13.98683,2,2,0,0,"substitution (13.16 - 13.64): ASR=''TAKES'', Original=''TAKE''"
+small,SA004,rainbow,substitution,substitution,phonemic substition arch -> up ,17.042752,17.432729,,,,0,
+small,SA004,rainbow,insertion,insertion,"word addition ""and receive""? ",17.749999,20.039186,2,2,0,0,"substitution (17.56 - 19.28): ASR=''WHICH'', Original=''WITH''; substitution (19.28 - 21.72): ASR=''IS'', Original=''ITS''"
+small,SA004,rainbow,substitution,substitution,phonemic substitution with -> which ,20.211041,20.54153,0,,,0,"substitution (19.28 - 21.72): ASR=''IS'', Original=''ITS''"
+small,SA004,rainbow,substitution,substitution,word replacement ends -> ear ,24.727725,25.124312,,,,0,
+small,SA004,rainbow,insertion,repetition,"phrase repetition/addition ""two year"" ",25.708176,26.666594,,,,0,
+small,SA004,rainbow,substitution,substitution,phonemic substitution horizon -> holaizon ,30.416543,30.982781,0,,,0,"deletion (30.84 - 32.325714): ASR='', Original=''THERE''"
+small,SA004,rainbow,substitution,deletion,phonemic deletion looks -> look ,42.668875,42.882591,,,,0,
+small,SA005,grandfather,substitution,deletion,Phonemic deletion dresses -> dress ,7.581556,8.164774,0,,,1,"substitution (7.6 - 7.9): ASR=''DRESSED'', Original=''DRESSES''"
+small,SA005,grandfather,substitution,substitution,phonemic substition swiftly -> swifty ,16.422603,17.005821,0,,,0,"substitution (16.5 - 16.76): ASR=''WITH'', Original=''SWIFTLY''; substitution (16.76 - 17.14): ASR=''THIS'', Original=''AS''"
+small,SA005,grandfather,substitution,substitution,phonemic substitution beard -> bear ,20.531635,20.999977,0,,,0,"insertion (19.9 - 21.0): ASR=''BLOODBATH'', Original=''[NOT IN TRANSCRIPT]''"
+small,SA005,grandfather,substitution,substitution,phonemic substitution quivers -> quivis ,35.567159,36.287344,,,,0,
+small,SA005,grandfather,substitution,substitution,word replacement a -> his ,51.314031,51.742607,,,,0,
+small,SA005,grandfather,substitution,insertion,phonemic addition answers -> sayanswer ,60.588073,61.568938,0,,,1,"substitution (60.58 - 61.24): ASR=''SENSES'', Original=''ANSWERS''"
+small,SA005,rainbow,substitution,substitution,phonemic substitution above ->debove ,19.796243,20.93175,0,,,0,"substitution (19.74 - 20.22): ASR=''HIGHLY'', Original=''HIGH''"
+small,SA005,rainbow,substitution,substitution,phonemic substitution at -> ant ,30.819937,31.319207,0,,,1,"substitution (30.78 - 31.16): ASR=''AND'', Original=''AT''"
+small,SA005,rainbow,substitution,insertion,phonemic addition one -> twan ,31.199912,31.579887,,,,0,
+small,SA005,rainbow,substitution,deletion,syllable deletion looking -> look ,43.310511,43.809781,0,,,0,"substitution (43.24 - 43.52): ASR=''LOOKED'', Original=''IS''"
+small,SA006,grandfather,substitution,substitution,phonemic substitution nearly -> really ,4.537401,5.800936,0,,,0,"substitution (4.78 - 6.56): ASR=''93'', Original=''NINETYTHREE''"
+small,SA006,grandfather,repetition,repetition,"phrase repetition ""he's nearly 93 years old"" ",7.801128,9.250047,,,,0,
+small,SA006,grandfather,insertion,insertion,phonemic addition zzz ,10.250143,10.859957,,,,0,
+small,SA006,grandfather,insertion,insertion,"word addition ""with"" ",21.163383,21.973217,2,2,0,0,"substitution (21.56 - 21.74): ASR=''WE'', Original=''YET''; substitution (21.74 - 22.18): ASR=''GET'', Original=''HE''"
+small,SA006,grandfather,substitution,substitution,phonemic substitution flowing -> plowing ,26.476088,27.134687,,,,0,
+small,SA006,grandfather,substitution,substitution,Phonemic substitution beard -> board ,27.622539,28.398223,0,,,1,"substitution (27.82 - 28.0): ASR=''BROAD'', Original=''BEARD''; substitution (28.16 - 29.34): ASR=''CLEAN'', Original=''CLINGS''"
+small,SA006,grandfather,repetition,repetition,"repetition of phrase ""beard clings to his chin"" ",30.93993,32.530326,,,,0,
+small,SA006,grandfather,substitution,insertion,"phonemic addition ""fer"" ",37.672282,38.257704,,,,0,
+small,SA006,grandfather,insertion,insertion,"word addition ""release' ",42.306872,42.887416,,,,0,
+small,SA006,grandfather,prosodic,prosodic,"insufficient pause speaks, his ",43.36551,44.209494,,,,0,
+small,SA006,grandfather,substitution,insertion,phonemic addition a -> an ,49.746609,50.136891,0,,,1,"substitution (49.3 - 49.9): ASR=''AND'', Original=''A''; substitution (49.9 - 50.4): ASR=''TRIPLE'', Original=''TRIFLE''"
+small,SA006,grandfather,substitution,insertion,phonemic addition zest -> zesium ,57.230253,57.89861,0,,,1,"substitution (57.2 - 58.24): ASR=''JAZZ'', Original=''ZEST''"
+small,SA006,grandfather,insertion,insertion,"word addition ""there's"" ",57.96203,58.508424,2,2,0,0,"substitution (57.2 - 58.24): ASR=''JAZZ'', Original=''ZEST''"
+small,SA006,grandfather,substitution,substitution,word replacement ooze -> colds ,66.918986,67.436109,0,,,1,"substitution (65.24 - 67.06): ASR=''COLD'', Original=''OOZE''"
+small,SA006,grandfather,substitution,substitution,phonemic substitution or -> on ,69.167982,69.577777,,,,0,
+small,SA006,grandfather,insertion,insertion,"word addition ""the"" ",69.509478,69.977816,,,,0,
+small,SA006,rainbow,substitution,deletion,phonemic deletion prism - prince ,5.156789,5.800753,2,2,0,1,"substitution (5.02 - 5.6): ASR=''FLINT'', Original=''PRISM''"
+small,SA006,rainbow,insertion,insertion,"word addition ""big"" ",12.596526,13.035593,,,,0,
+small,SA006,rainbow,substitution,insertion,phonemic addition its -> biz ,20.543629,21.041238,0,,,0,"substitution (20.74 - 20.96): ASR=''THIS'', Original=''WITH''"
+small,SA006,rainbow,insertion,insertion,"word addition ""a"" ",29.583519,29.920137,,,,0,
+small,SA006,rainbow,substitution,substitution,phonemic substitution legend - regend ,30.120156,30.705578,,,,0,
+small,SA006,rainbow,repetition,repetition,repetition (self correct) to legend ,31.076345,31.993506,2,2,0,0,"insertion (31.66 - 32.58): ASR=''ABOUT'', Original=''[NOT IN TRANSCRIPT]''"
+small,SA006,rainbow,substitution,substitution,phonemic substitution at -> an ,34.486428,34.837681,,,,0,
+small,SA006,rainbow,repetition,repetition,"word repetition ""look"" ",37.56965,38.398998,,,,0,
+small,SA006,rainbow,repetition,repetition,"repetition of ""even"" ",40.560181,41.043154,,,,0,
+small,SA006,rainbow,substitution,insertion,phonemic addition his -> this ,46.077782,46.990065,0,,,1,"substitution (45.84 - 46.26): ASR=''ITS'', Original=''HIS''"
+medium,SA004,grandfather,substitution,deletion,phonemic deletion smoke - moke ,74.617823,74.873401,2,2,,1,"substitution (74.72 - 74.94): ASR=''WALK'', Original=''AND''"
+medium,SA006,grandfather,prosodic,prosodic,insufficient break organ. except ,60.898897,62.23561,2,2,3,1,"substitution (61.03 - 61.82): ASR=''I'', Original=''EXCEPT''"
+medium,SA001,grandfather,substitution,substitution,word replacement ancient -> accident,13.168761,14.019658,1,,,1,"substitution (13.3 - 14.2): ASR=''ACCIDENT'', Original=''ANCIENT''"
+medium,SA001,grandfather,substitution,deletion,phonemic deletion likes -> like,87.955281,88.358213,1,,,1,"substitution (87.94 - 88.36): ASR=''LIKE'', Original=''LIKES''"
+medium,SA001,rainbow,insertion,insertion,"word addition ""the""",10.930571,11.079893,2,1,,1,"insertion (11.02 - 11.14): ASR=''THE'', Original=''[NOT IN TRANSCRIPT]''"
+medium,SA001,rainbow,insertion,insertion,"additional word ""rich""",18.429844,18.707156,2,1,,1,"substitution (17.98 - 18.64): ASR=''RICH'', Original=''ROUND''; substitution (18.64 - 19.26): ASR=''ARC'', Original=''ARCH''"
+medium,SA001,rainbow,substitution,substitution,phonemic substition look -> took,35.831759,36.426676,1,,,1,"substitution (35.28 - 36.24): ASR=''TOOK'', Original=''LOOK''"
+medium,SA002,grandfather,substitution,deletion,syllable deletion swiftly -> swift,25.131915,25.623176,1,,,1,"substitution (24.96 - 25.58): ASR=''SWIFT'', Original=''SWIFTLY''"
+medium,SA002,grandfather,substitution,substitution,word replacement utmost -> uppermost,42.207137,43.427535,1,,,1,"substitution (42.06 - 42.6): ASR=''THEIR'', Original=''THE''; substitution (42.6 - 43.64): ASR=''UPPERMOST'', Original=''UTMOST''"
+medium,SA002,grandfather,insertion,insertion,"word addition ""up""",62.803931,63.114201,2,1,,1,"substitution (62.68 - 63.24): ASR=''UP'', Original=''ZEST''"
+medium,SA002,grandfather,deletion,deletion,"word deletion ""our""",63.620977,64.629356,2,2,1,1,"deletion (64.18 - 64.18): ASR='', Original=''OUR''"
+medium,SA002,grandfather,substitution,substitution,word replacement winter -> weather,68.6939,69.143792,1,,,1,"substitution (68.78 - 69.1): ASR=''WEATHER'', Original=''WINTER''"
+medium,SA002,grandfather,substitution,substitution,phonemic substitution prevents -> present,72.73776,73.31176,1,,,1,"substitution (72.68 - 73.3): ASR=''PRESENT'', Original=''PREVENTS''"
+medium,SA002,grandfather,substitution,substitution,phonemic substitition have -> had,83.349012,83.814418,1,,,1,"substitution (83.58 - 83.92): ASR=''HAD'', Original=''HAVE''"
+medium,SA002,grandfather,substitution,deletion,phonemic deletion likes -> like,94.389473,94.818681,1,,,1,"substitution (94.3 - 94.74): ASR=''LIKE'', Original=''LIKES''"
+medium,SA002,rainbow,insertion,insertion,"additional word ""as""",4.751112,5.345797,2,1,,1,"substitution (4.58 - 5.24): ASR=''AS'', Original=''THEY''; substitution (5.24 - 5.7): ASR=''IT'', Original=''ACT''"
+medium,SA002,rainbow,insertion,insertion,"word addition ""different""",15.010725,16.194924,2,1,,1,"insertion (15.22 - 16.04): ASR=''DIFFERENT'', Original=''[NOT IN TRANSCRIPT]''; insertion (16.12 - 16.52): ASR=''MANY'', Original=''[NOT IN TRANSCRIPT]''"
+medium,SA002,rainbow,substitution,substitution,phonemic substitution these -> this,18.708116,19.111467,1,,,1,"substitution (18.72 - 19.16): ASR=''THIS'', Original=''THESE''"
+medium,SA002,rainbow,insertion,insertion,"word addition ""appear""",28.698827,29.360738,2,1,,1,"substitution (28.78 - 29.46): ASR=''APPEAR'', Original=''APPARENTLY''"
+medium,SA002,rainbow,substitution,substitution,word replacement pot -> point,35.948816,37.164042,1,,,1,"substitution (36.12 - 37.28): ASR=''POINT'', Original=''POT''"
+medium,SA002,rainbow,substitution,substitution,word replacement one -> each,38.994638,39.703089,1,,,1,"substitution (39.16 - 39.7): ASR=''EACH'', Original=''ONE''"
+medium,SA004,grandfather,substitution,insertion,syllable addition ancient -> accident ,8.072746,8.590513,1,,,1,"insertion (8.02 - 8.24): ASR=''AN'', Original=''[NOT IN TRANSCRIPT]''; insertion (8.24 - 8.78): ASR=''ACCIDENT'', Original=''[NOT IN TRANSCRIPT]''"
+medium,SA004,grandfather,substitution,insertion,phonemic addition coat -> cloak ,13.274644,13.827663,1,,,1,"substitution (12.6 - 13.32): ASR=''CLOTH'', Original=''FROCK''; substitution (13.32 - 13.64): ASR=''CLOAK'', Original=''COAT''"
+medium,SA004,grandfather,insertion,insertion,"word addition ""unknown"" ",21.990743,22.642908,2,1,,1,"substitution (22.0 - 22.68): ASR=''UNKNOWN'', Original=''THINKS''"
+medium,SA004,grandfather,insertion,insertion,"word addition ""for his"" ",22.77951,23.277447,2,2,1,1,"substitution (22.68 - 23.12): ASR=''FOR'', Original=''AS''; substitution (23.12 - 24.28): ASR=''HIS'', Original=''SWIFTLY''"
+medium,SA004,grandfather,substitution,substitution,phonemic substition observe -> deserve ,33.015858,33.509389,1,,,1,"substitution (33.04 - 33.34): ASR=''DESERVE'', Original=''OBSERVE''"
+medium,SA004,grandfather,insertion,insertion,"word addition ""good"" ",34.049188,34.254091,2,1,,1,"substitution (34.16 - 34.44): ASR=''GOOD'', Original=''PRONOUNCED''"
+medium,SA004,grandfather,substitution,substitution,word replacement utmost -> utter ,38.224366,38.790604,1,,,1,"substitution (37.9 - 39.02): ASR=''UTTER'', Original=''THE''"
+medium,SA004,grandfather,insertion,insertion,"additional word ""like"" ",42.34887,42.553773,2,1,,1,"insertion (42.52 - 42.94): ASR=''LIKE'', Original=''[NOT IN TRANSCRIPT]''"
+medium,SA004,grandfather,insertion,insertion,"additional word ""of"" ",43.280849,43.576086,2,1,,1,"substitution (43.36 - 43.78): ASR=''OF'', Original=''CRACKED''"
+medium,SA004,grandfather,substitution,substitution,word replacement trifle -> bit ,45.785956,45.935778,1,,,1,"substitution (45.76 - 46.1): ASR=''BIT'', Original=''TRIFLE''"
+medium,SA004,grandfather,substitution,substitution,word replacement walk -> break ,68.616142,68.889346,1,,,1,"substitution (68.5 - 68.98): ASR=''BREAK'', Original=''WALK''"
+medium,SA004,grandfather,deletion,deletion,"phrase deletion ""each day"" ",70.008602,70.76432,2,2,1,1,"deletion (70.04 - 70.485714): ASR='', Original=''EACH''; deletion (70.485714 - 70.82): ASR='', Original=''DAY''"
+medium,SA004,rainbow,substitution,substitution,word replacement raindrops -> rainbow ,3.219496,3.6954,1,,,1,"substitution (3.14 - 3.62): ASR=''RAINBOW'', Original=''RAINDROPS''"
+medium,SA004,rainbow,insertion,insertion,"additional word ""the"" ",33.419587,33.553986,2,1,,1,"insertion (33.54 - 33.76): ASR=''THE'', Original=''[NOT IN TRANSCRIPT]''"
+medium,SA004,rainbow,substitution,substitution,word replacement find -> found ,41.177267,41.573854,1,,,1,"substitution (41.3 - 41.5): ASR=''FOUND'', Original=''FINDS''"
+medium,SA005,grandfather,substitution,deletion,phonemic deletion clings -> links ,22.970545,23.642129,1,,,1,"substitution (22.44 - 23.5): ASR=''LINKS'', Original=''CLINGS''"
+medium,SA005,grandfather,substitution,substitution,word replacement each -> a ,38.381625,38.752763,1,,,1,"substitution (38.42 - 38.72): ASR=''A'', Original=''EACH''"
+medium,SA006,grandfather,substitution,substitution,word substitution my -> your ,2.015208,2.449396,1,,,1,"substitution (2.04 - 2.36): ASR=''YOUR'', Original=''MY''"
+medium,SA006,grandfather,substitution,substitution,word substitution he -> this ,3.864165,4.434952,1,,,1,"insertion (4.22 - 4.44): ASR=''THIS'', Original=''[NOT IN TRANSCRIPT]''"
+medium,SA006,grandfather,substitution,substitution,phonemic substitution or -> on ,69.167982,69.577777,1,,,1,"substitution (68.92 - 69.76): ASR=''ON'', Original=''OR''"
+medium,SA006,grandfather,insertion,insertion,"word addition ""the"" ",69.509478,69.977816,2,1,,1,"substitution (68.92 - 69.76): ASR=''ON'', Original=''OR''; substitution (69.76 - 70.3): ASR=''THE'', Original=''ICE''"
+medium,SA006,rainbow,substitution,substitution,phonemic substitution is -> in ,8.859583,9.235229,1,,,1,"substitution (8.64 - 9.24): ASR=''IN'', Original=''IS''"
+medium,SA006,rainbow,substitution,substitution,phonemic substitution ever -> even ,40.169899,40.59433,1,,,1,"insertion (40.52 - 41.24): ASR=''EVEN'', Original=''[NOT IN TRANSCRIPT]''"
+medium,SA006,rainbow,repetition,repetition,"repetition of ""even"" ",40.560181,41.043154,2,1,,1,"insertion (40.52 - 41.24): ASR=''EVEN'', Original=''[NOT IN TRANSCRIPT]''"
+medium,SA001,grandfather,prosodic,prosodic,break between three -> th -- ree,6.316549,6.95887,0,,,0,"substitution (5.94 - 7.22): ASR=''93'', Original=''NINETYTHREE''"
+medium,SA001,grandfather,prosodic,prosodic,prolonged break,7.053677,7.944868,2,2,0,0,"substitution (5.94 - 7.22): ASR=''93'', Original=''NINETYTHREE''"
+medium,SA001,grandfather,insertion,insertion,"additional word ""year""",7.954349,8.459198,,,,0,
+medium,SA001,grandfather,insertion,insertion,"additional phrase ""in a""",11.867528,12.680502,,,,0,
+medium,SA001,grandfather,prosodic,prosodic,prolonged break,13.962773,15.339852,2,2,0,0,"substitution (13.3 - 14.2): ASR=''ACCIDENT'', Original=''ANCIENT''"
+medium,SA001,grandfather,substitution,substitution,phonemic substitution black -> blank,15.375405,15.81152,,,,0,
+medium,SA001,grandfather,substitution,substitution,phonemic substitution yet -> yen,23.424561,23.744536,,,,0,
+medium,SA001,grandfather,substitution,substitution,phonemic substitution swiftly -> swiftty,25.569581,26.050729,0,,,1,"substitution (25.82 - 26.06): ASR=''50'', Original=''SWIFTLY''"
+medium,SA001,grandfather,substitution,substitution,word replacement clings -> cleaning,30.88117,31.286472,0,,,1,"substitution (30.7 - 31.26): ASR=''CLINGING'', Original=''CLINGS''"
+medium,SA001,grandfather,prosodic,prosodic,prolonged break,37.738122,38.688567,,,,0,
+medium,SA001,grandfather,insertion,insertion,"phrase addition ""a prof""",38.709899,39.565537,,,,0,
+medium,SA001,grandfather,repetition,repetition,"word repetition ""pronounced""",39.657974,40.36666,,,,0,
+medium,SA001,grandfather,insertion,insertion,"additional phrase ""of a""",40.859659,41.461687,,,,0,
+medium,SA001,grandfather,substitution,deletion,phonemic deletion voice -> voy,46.531517,47.003184,0,,,0,"substitution (46.54 - 46.68): ASR=''HE'', Original=''HIS''"
+medium,SA001,grandfather,substitution,substitution,phonemic substitution cracked -> clacked,48.036586,48.707349,0,,,1,"substitution (48.1 - 48.76): ASR=''KEPT'', Original=''CRACKED''"
+medium,SA001,grandfather,substitution,substitution,word replacement quivers -> beer,50.207678,50.918734,0,,,0,"substitution (50.36 - 50.76): ASR=''WE'', Original=''QUIVERS''"
+medium,SA001,grandfather,substitution,deletion,phonemic deletion trifle -> tifle,51.361959,51.928434,,,,0,
+medium,SA001,grandfather,prosodic,prosodic,prolonged break,53.578084,54.976495,,,,0,
+medium,SA001,grandfather,substitution,deletion,phonemic deletion plays -> play,55.644887,56.076261,,,,0,
+medium,SA001,grandfather,substitution,substitution,word replacement zest -> zip,58.46304,58.71665,0,,,1,"substitution (57.64 - 58.6): ASR=''WE'', Original=''WITH''; substitution (58.6 - 58.82): ASR=''SLEEP'', Original=''ZEST''"
+medium,SA001,grandfather,prosodic,prosodic,prolonged break,61.537173,62.859738,,,,0,
+medium,SA001,grandfather,substitution,substitution,word replacement when -> and,65.054531,65.692111,,,,0,
+medium,SA001,grandfather,substitution,substitution,word replacement ooze -> zoos,65.957572,66.483754,0,,,1,"substitution (66.12 - 66.64): ASR=''ZULU'', Original=''OOZE''"
+medium,SA001,grandfather,insertion,insertion,"additional phrase ""we of""",75.784369,76.336623,,,,0,
+medium,SA001,grandfather,insertion,insertion,"phonemic addition ""s""",79.899014,80.290095,,,,0,
+medium,SA001,grandfather,prosodic,prosodic,prolonged break,80.278244,81.136252,,,,0,
+medium,SA001,rainbow,repetition,repetition,"word repetition ""prism""",6.069317,6.664234,,,,0,
+medium,SA001,rainbow,substitution,substitution,phonemic replacement with -> win,19.809293,20.036831,,,,0,
+medium,SA001,rainbow,prosodic,prosodic,prolonged break,20.66019,22.492345,,,,0,
+medium,SA001,rainbow,substitution,insertion,phonemic addition high ->higher,22.708032,23.103853,,,,0,
+medium,SA001,rainbow,substitution,insertion,phonemic addition its -> his,23.558929,23.817279,,,,0,
+medium,SA001,rainbow,substitution,deletion,syllable deletion apparently -> apparent,25.187248,25.912525,0,,,0,"substitution (24.88 - 25.46): ASR=''APPEARANCE'', Original=''ENDS''"
+medium,SA001,rainbow,substitution,insertion,phonemic addition it -> this,38.156913,38.408152,0,,,0,"substitution (37.9 - 38.2): ASR=''FOUND'', Original=''FINDS''"
+medium,SA001,rainbow,insertion,insertion,"additional word ""he""",42.202822,42.582052,,,,0,
+medium,SA001,rainbow,insertion,insertion,"additional word ""his""",43.883285,44.345472,,,,0,
+medium,SA002,grandfather,substitution,deletion,syllabic deletion dresses -> dress,12.767633,13.119273,0,,,1,"substitution (12.72 - 13.08): ASR=''DRESSED'', Original=''DRESSES''"
+medium,SA002,grandfather,substitution,substitution,phonemic substitution frock -> flock,16.046159,16.470195,0,,,1,"substitution (16.22 - 16.8): ASR=''CLOAK'', Original=''FROCK''"
+medium,SA002,grandfather,substitution,substitution,word substitution coat -> clothes,16.392627,17.059709,0,,,0,"substitution (16.22 - 16.8): ASR=''CLOAK'', Original=''FROCK''"
+medium,SA002,grandfather,substitution,insertion,"phonemic addition ""s""",22.629066,23.120327,,,,0,
+medium,SA002,grandfather,substitution,deletion,phonemic deletion thinks -> think,23.48231,24.190761,,,,0,
+medium,SA002,grandfather,substitution,repetition,prolonged vowel flowing -> flooowing,28.943071,30.08073,0,,,0,"substitution (29.24 - 30.0): ASR=''LONG'', Original=''FLOWING''"
+medium,SA002,grandfather,substitution,substitution,phonemic substitution clings -> clangs,30.908118,31.725164,,,,0,
+medium,SA002,grandfather,substitution,deletion,syllable deletion giving -> give,32.769741,33.803977,0,,,1,"substitution (33.34 - 33.6): ASR=''GIVES'', Original=''GIVING''"
+medium,SA002,grandfather,substitution,deletion,phonemic deletion pronounced -> pronounce,37.211781,38.002971,,,,0,
+medium,SA002,grandfather,prosodic,prosodic,prolonged break,38.427008,39.518126,,,,0,
+medium,SA002,grandfather,repetition,repetition,"word repetition ""pronounce""",39.300937,40.474793,,,,0,
+medium,SA002,grandfather,substitution,insertion,phonemic addition the -> there,41.969263,42.331246,0,,,1,"substitution (42.06 - 42.6): ASR=''THEIR'', Original=''THE''"
+medium,SA002,grandfather,substitution,deletion,phonemic deletion speaks -> speak,45.366726,45.837303,,,,0,
+medium,SA002,grandfather,prosodic,prosodic,prolonged break,49.844964,51.086046,2,2,0,0,"substitution (49.39 - 51.36): ASR=''HE'', Original=''QUIVERS''"
+medium,SA002,grandfather,substitution,substitution,phonemic substitution quivers -> shiver,51.008479,51.970317,0,,,1,"substitution (49.39 - 51.36): ASR=''HE'', Original=''QUIVERS''"
+medium,SA002,grandfather,prosodic,prosodic,prolonged break,52.64257,53.811256,2,2,0,0,"substitution (53.48 - 54.4): ASR=''THIEF'', Original=''TRIFLE''"
+medium,SA002,grandfather,substitution,substitution,word replacement trifle -> twiff,54.018103,54.788608,0,,,1,"substitution (53.48 - 54.4): ASR=''THIEF'', Original=''TRIFLE''"
+medium,SA002,grandfather,insertion,insertion,"word addition ""as""",56.913961,57.684467,,,,0,
+medium,SA002,grandfather,repetition,repetition,"word repetition ""twice""",57.65344,58.129188,,,,0,
+medium,SA002,grandfather,substitution,substitution,phonemic substitution zest -> vest,61.785209,62.540201,0,,,0,"substitution (61.72 - 62.68): ASR=''WEAVES'', Original=''WITH''"
+medium,SA002,grandfather,insertion,insertion,"word addition ""as""",66.651286,67.096007,,,,0,
+medium,SA002,grandfather,substitution,substitution,word replacement ooze -> zone,70.152172,70.886479,0,,,1,"substitution (70.32 - 70.64): ASR=''ZONES'', Original=''OOZE''; substitution (70.64 - 71.22): ASR=''OF'', Original=''OR''"
+medium,SA002,grandfather,insertion,insertion,"additional word ""ar""",73.332445,73.989184,,,,0,
+medium,SA002,grandfather,insertion,insertion,"word addition ""presented""",76.760934,78.301945,,,,0,
+medium,SA002,grandfather,substitution,deletion,phonemic deletion takes -> take,79.222414,79.434432,,,,0,
+medium,SA002,grandfather,substitution,substitution,word replacement urge -> argue,84.321194,84.765915,,,,0,
+medium,SA002,grandfather,substitution,prosodic,self corrected accurately,85.27269,86.296583,,,,0,
+medium,SA002,grandfather,substitution,deletion,phonemic deletion answers -> answer,91.235056,91.834912,0,,,1,"substitution (91.18 - 91.68): ASR=''ANSWERED'', Original=''ANSWERS''"
+medium,SA002,rainbow,substitution,deletion,phonemic deletion strikes -> strike,1.208856,1.658749,,,,0,
+medium,SA002,rainbow,substitution,substitution,phonemic substitution rainbow -> wainbow,9.31726,10.118792,,,,0,
+medium,SA002,rainbow,repetition,prosodic,"self corrected ""many beautiful colours""",15.977735,15.977735,2,2,0,0,"insertion (15.22 - 16.04): ASR=''DIFFERENT'', Original=''[NOT IN TRANSCRIPT]''"
+medium,SA002,rainbow,substitution,substitution,phonemic substitution its -> his,23.703471,24.132679,,,,0,
+medium,SA002,rainbow,substitution,deletion,phonemic deletion ends -> end,27.762844,28.595404,,,,0,
+medium,SA002,rainbow,substitution,substitution,phonemic replacement apparently -> apparence,29.360738,30.079531,0,,,1,"substitution (28.78 - 29.46): ASR=''APPEAR'', Original=''APPARENTLY''"
+medium,SA002,rainbow,substitution,deletion,phonemic deletion finds -> find,43.384967,43.736607,,,,0,
+medium,SA002,rainbow,substitution,deletion,phonemic deletion looks -> look,45.220734,45.887816,,,,0,
+medium,SA002,rainbow,substitution,deletion,phonemic deletion friends -> friend,48.535458,49.021548,,,,0,
+medium,SA003,grandfather,prosodic,prosodic,reduced breath control - grunting,1.462007,1.786572,,,,0,
+medium,SA003,grandfather,substitution,substitution,phonemic substitution know -> row,3.058519,3.491273,,,,0,
+medium,SA003,grandfather,insertion,insertion,"word addition ""accilar""",13.251631,14.178543,,,,0,
+medium,SA003,grandfather,substitution,substitution,phonemic substitution ooze -> oost,77.477595,78.711529,0,,,1,"substitution (77.58 - 78.08): ASR=''RUST'', Original=''OOZE''"
+medium,SA003,rainbow,substitution,deletion,phonemic deletion prism -> pris,9.255756,10.282085,0,,,1,"substitution (9.58 - 9.98): ASR=''PRINCE'', Original=''PRISM''"
+medium,SA003,rainbow,insertion,insertion,"word addition ""a""",38.007585,38.165481,,,,0,
+medium,SA004,grandfather,prosodic,prosodic,"fast speech rate - reduced articulatory precision on ""ninety"" ",5.33189,5.490525,2,2,0,0,"substitution (5.06 - 5.5): ASR=''93'', Original=''NINETYTHREE''"
+medium,SA004,grandfather,substitution,deletion,syllable deletion dresses -> dress ,7.733444,7.874453,0,,,0,"insertion (7.76 - 8.02): ASR=''IN'', Original=''[NOT IN TRANSCRIPT]''"
+medium,SA004,grandfather,repetition,insertion,"Self correct - addition ""in an ancient"" ",9.388093,10.793773,,,,0,
+medium,SA004,grandfather,substitution,substitution,Phonemic substitution frock -> flock ,12.787724,13.060928,0,,,1,"substitution (12.6 - 13.32): ASR=''CLOTH'', Original=''FROCK''"
+medium,SA004,grandfather,substitution,deletion,"phonemic deletion usually -> ulily (omitted ""s"") ",14.486438,15.143009,,,,0,
+medium,SA004,grandfather,insertion,insertion,"word addition ""to"" ",15.079115,15.22453,,,,0,
+medium,SA004,grandfather,insertion,insertion,"additional words ""twenty"" ",15.878898,17.139163,,,,0,
+medium,SA004,grandfather,substitution,deletion,syllable deletion several -> sevets ,18.0425,18.690259,,,,0,
+medium,SA004,grandfather,substitution,substitution,phonemic substitution buttons -> praton ,19.716978,20.388973,,,,0,
+medium,SA004,grandfather,substitution,deletion,syllable deletion swiftly -> swift ,24.462801,24.903453,,,,0,
+medium,SA004,grandfather,substitution,substitution,phonemic substitution flowing -> floor ,27.61787,27.94175,0,,,1,"substitution (27.5 - 27.98): ASR=''PLOUGH'', Original=''FLOWING''"
+medium,SA004,grandfather,substitution,substitution,phonemic substitution clings -> king ,28.593915,28.763566,0,,,0,"substitution (28.42 - 28.82): ASR=''CLINGING'', Original=''CLINGS''"
+medium,SA004,grandfather,prosodic,prosodic,prolonged break between words ,29.179982,30.907338,,,,0,
+medium,SA004,grandfather,substitution,insertion,syllable addition pronounced -> pronounsation ,34.271717,34.932695,0,,,0,"substitution (34.16 - 34.44): ASR=''GOOD'', Original=''PRONOUNCED''"
+medium,SA004,grandfather,substitution,substitution,phonemic substitution feeling -> paving ,35.981447,36.444132,,,,0,
+medium,SA004,grandfather,insertion,insertion,"additional word ""um"" ",39.081435,39.312777,,,,0,
+medium,SA004,grandfather,substitution,deletion,phonemic deletion speaks -> speak ,41.002678,41.346386,,,,0,
+medium,SA004,grandfather,substitution,deletion,phonemic deletion voice -> voy ,41.809071,42.04482,,,,0,
+medium,SA004,grandfather,substitution,substitution,word substitution quivers -> quail ,45.290223,45.548004,0,,,1,"substitution (45.18 - 45.62): ASR=''CRUE'', Original=''QUIVERS''"
+medium,SA004,grandfather,prosodic,prosodic,prolonged break ,46.237625,48.178697,,,,0,
+medium,SA004,grandfather,repetition,repetition,repetition (attempt to self correct) quivers a trifle -> krill a trill ,48.61274,49.626239,,,,0,
+medium,SA004,grandfather,substitution,substitution,word replacement zest -> new ,54.061403,54.374266,0,,,0,"substitution (54.2 - 54.54): ASR=''ZEAL'', Original=''ZEST''"
+medium,SA004,grandfather,substitution,substitution,phonemic replacement snow -> slow ,60.552208,61.069974,0,,,0,"substitution (60.34 - 64.38): ASR=''OF'', Original=''OR''"
+medium,SA004,grandfather,prosodic,prosodic,prolonged break ,61.109633,63.480341,2,2,0,0,"substitution (60.34 - 64.38): ASR=''OF'', Original=''OR''"
+medium,SA004,grandfather,repetition,repetition,"phrase repetition ""ooze or snow"" -> ooze or slow ",63.625757,64.718574,0,,,0,"substitution (60.34 - 64.38): ASR=''OF'', Original=''OR''"
+medium,SA004,grandfather,substitution,deletion,phonemic deletion prevent -> pevent ,65.513951,65.974432,0,,,1,"substitution (65.52 - 65.9): ASR=''PREVENT'', Original=''PREVENTS''"
+medium,SA004,grandfather,substitution,deletion,phonemic deletion takes -> take ,67.455023,67.730431,,,,0,
+medium,SA004,grandfather,substitution,substitution,phonemic substitution often -> open ,71.16972,71.531055,,,,0,
+medium,SA004,grandfather,deletion,deletion,"word deletion ""and"" ",74.452579,74.668498,,,,0,
+medium,SA004,grandfather,substitution,substitution,phonemic replacement answers -> answered ,76.360602,76.759392,,,,0,
+medium,SA004,grandfather,substitution,deletion,phonemic deletion his -> is ,80.643741,81.027108,0,,,0,"substitution (80.56 - 80.8): ASR=''THAN'', Original=''IN''"
+medium,SA004,rainbow,deletion,deletion,"word deletion ""the"" ",13.524145,13.98683,2,2,0,0,"substitution (13.44 - 13.9): ASR=''TAKES'', Original=''TAKE''"
+medium,SA004,rainbow,substitution,substitution,phonemic substition arch -> up ,17.042752,17.432729,0,,,1,"substitution (16.92 - 17.12): ASR=''RAW'', Original=''ROUND''; substitution (17.12 - 17.84): ASR=''ARC'', Original=''ARCH''"
+medium,SA004,rainbow,insertion,insertion,"word addition ""and receive""? ",17.749999,20.039186,2,2,0,0,"substitution (17.12 - 17.84): ASR=''ARC'', Original=''ARCH''"
+medium,SA004,rainbow,substitution,substitution,phonemic substitution with -> which ,20.211041,20.54153,,,,0,
+medium,SA004,rainbow,substitution,substitution,word replacement ends -> ear ,24.727725,25.124312,,,,0,
+medium,SA004,rainbow,insertion,repetition,"phrase repetition/addition ""two year"" ",25.708176,26.666594,,,,0,
+medium,SA004,rainbow,substitution,substitution,phonemic substitution horizon -> holaizon ,30.416543,30.982781,,,,0,
+medium,SA004,rainbow,substitution,deletion,phonemic deletion looks -> look ,42.668875,42.882591,,,,0,
+medium,SA005,grandfather,substitution,deletion,Phonemic deletion dresses -> dress ,7.581556,8.164774,0,,,1,"substitution (7.74 - 8.1): ASR=''DRESSED'', Original=''DRESSES''"
+medium,SA005,grandfather,substitution,substitution,phonemic substition swiftly -> swifty ,16.422603,17.005821,0,,,0,"substitution (16.72 - 17.02): ASR=''IF'', Original=''SWIFTLY''"
+medium,SA005,grandfather,insertion,insertion,"additional word ""blob""? ",20.120732,20.593492,2,2,0,0,"substitution (20.3 - 22.44): ASR=''BRABEARD'', Original=''BEARD''"
+medium,SA005,grandfather,substitution,substitution,phonemic substitution beard -> bear ,20.531635,20.999977,0,,,0,"substitution (20.3 - 22.44): ASR=''BRABEARD'', Original=''BEARD''"
+medium,SA005,grandfather,substitution,substitution,phonemic substitution quivers -> quivis ,35.567159,36.287344,0,,,0,"substitution (36.28 - 36.6): ASR=''AT'', Original=''A''"
+medium,SA005,grandfather,substitution,substitution,word replacement a -> his ,51.314031,51.742607,,,,0,
+medium,SA005,grandfather,substitution,insertion,phonemic addition answers -> sayanswer ,60.588073,61.568938,0,,,1,"substitution (60.94 - 61.36): ASR=''SANDS'', Original=''ANSWERS''"
+medium,SA005,rainbow,substitution,substitution,phonemic substitution above ->debove ,19.796243,20.93175,0,,,0,"substitution (19.7 - 19.94): ASR=''BACK'', Original=''PATH''; substitution (19.94 - 20.48): ASR=''HIGHLY'', Original=''HIGH''"
+medium,SA005,rainbow,substitution,substitution,phonemic substitution at -> ant ,30.819937,31.319207,0,,,1,"substitution (30.96 - 31.38): ASR=''ON'', Original=''AT''"
+medium,SA005,rainbow,substitution,insertion,phonemic addition one -> twan ,31.199912,31.579887,0,,,0,"substitution (30.96 - 31.38): ASR=''ON'', Original=''AT''"
+medium,SA005,rainbow,substitution,deletion,syllable deletion looking -> look ,43.310511,43.809781,0,,,0,"substitution (43.24 - 43.68): ASR=''LOOKS'', Original=''IS''"
+medium,SA006,grandfather,substitution,substitution,phonemic substitution nearly -> really ,4.537401,5.800936,0,,,0,"insertion (4.44 - 4.66): ASR=''IS'', Original=''[NOT IN TRANSCRIPT]''; insertion (4.66 - 5.1): ASR=''NEARLY'', Original=''[NOT IN TRANSCRIPT]''; insertion (5.1 - 7.26): ASR=''93'', Original=''[NOT IN TRANSCRIPT]''"
+medium,SA006,grandfather,repetition,repetition,"phrase repetition ""he's nearly 93 years old"" ",7.801128,9.250047,2,2,0,0,"substitution (8.36 - 8.94): ASR=''93'', Original=''NINETYTHREE''"
+medium,SA006,grandfather,insertion,insertion,phonemic addition zzz ,10.250143,10.859957,,,,0,
+medium,SA006,grandfather,insertion,insertion,"word addition ""with"" ",21.163383,21.973217,2,2,0,0,"substitution (21.5 - 21.86): ASR=''WE'', Original=''YET''; substitution (21.86 - 22.52): ASR=''GET'', Original=''HE''"
+medium,SA006,grandfather,substitution,substitution,phonemic substitution flowing -> plowing ,26.476088,27.134687,,,,0,
+medium,SA006,grandfather,substitution,substitution,Phonemic substitution beard -> board ,27.622539,28.398223,0,,,1,"substitution (28.16 - 28.82): ASR=''BROAD'', Original=''BEARD''"
+medium,SA006,grandfather,repetition,repetition,"repetition of phrase ""beard clings to his chin"" ",30.93993,32.530326,,,,0,
+medium,SA006,grandfather,substitution,insertion,"phonemic addition ""fer"" ",37.672282,38.257704,,,,0,
+medium,SA006,grandfather,insertion,insertion,"word addition ""release' ",42.306872,42.887416,,,,0,
+medium,SA006,grandfather,prosodic,prosodic,"insufficient pause speaks, his ",43.36551,44.209494,,,,0,
+medium,SA006,grandfather,substitution,insertion,phonemic addition a -> an ,49.746609,50.136891,0,,,1,"substitution (49.02 - 49.78): ASR=''CLEAVAGE'', Original=''QUIVERS''; substitution (49.78 - 50.22): ASR=''AND'', Original=''A''"
+medium,SA006,grandfather,substitution,insertion,phonemic addition zest -> zesium ,57.230253,57.89861,0,,,0,"substitution (57.18 - 57.72): ASR=''WISHES'', Original=''WITH''; substitution (57.72 - 58.18): ASR=''TO'', Original=''ZEST''"
+medium,SA006,grandfather,insertion,insertion,"word addition ""there's"" ",57.96203,58.508424,2,2,0,0,"substitution (57.72 - 58.18): ASR=''TO'', Original=''ZEST''"
+medium,SA006,grandfather,substitution,substitution,word replacement ooze -> colds ,66.918986,67.436109,0,,,1,"substitution (66.96 - 67.24): ASR=''COATS'', Original=''OOZE''; substitution (67.24 - 68.2): ASR=''OF'', Original=''OR''"
+medium,SA006,rainbow,substitution,deletion,phonemic deletion prism - prince ,5.156789,5.800753,2,2,0,1,"substitution (5.42 - 5.76): ASR=''PRINT'', Original=''PRISM''"
+medium,SA006,rainbow,insertion,insertion,"word addition ""big"" ",12.596526,13.035593,,,,0,
+medium,SA006,rainbow,substitution,insertion,phonemic addition its -> biz ,20.543629,21.041238,0,,,0,"substitution (21.04 - 21.18): ASR=''THIS'', Original=''WITH''"
+medium,SA006,rainbow,insertion,insertion,"word addition ""a"" ",29.583519,29.920137,,,,0,
+medium,SA006,rainbow,substitution,substitution,phonemic substitution legend - regend ,30.120156,30.705578,,,,0,
+medium,SA006,rainbow,repetition,repetition,repetition (self correct) to legend ,31.076345,31.993506,,,,0,
+medium,SA006,rainbow,substitution,substitution,phonemic substitution at -> an ,34.486428,34.837681,0,,,1,"substitution (34.46 - 35.26): ASR=''AND'', Original=''AT''"
+medium,SA006,rainbow,repetition,repetition,"word repetition ""look"" ",37.56965,38.398998,,,,0,
+medium,SA006,rainbow,substitution,insertion,phonemic addition his -> this ,46.077782,46.990065,,,,0,
+large,SA002,grandfather,substitution,insertion,"phonemic addition ""s""",22.629066,23.120327,2,2,3,1,"substitution (22.94 - 23.58): ASR=''THINK'', Original=''THINKS''"
+large,SA004,grandfather,insertion,insertion,"additional words ""twenty"" ",15.878898,17.139163,2,2,,1,"insertion (15.58 - 17.96): ASR=''SEVEN'', Original=''[NOT IN TRANSCRIPT]''"
+large,SA004,grandfather,insertion,insertion,"word addition ""for his"" ",22.77951,23.277447,2,2,3,1,"substitution (22.72 - 23.08): ASR=''HIS'', Original=''SWIFTLY''"
+large,SA004,grandfather,deletion,deletion,"word deletion ""and"" ",74.452579,74.668498,2,2,,1,"substitution (74.08 - 74.78): ASR=''WALK'', Original=''AND''"
+large,SA004,grandfather,substitution,deletion,phonemic deletion smoke - moke ,74.617823,74.873401,2,2,,1,"substitution (74.08 - 74.78): ASR=''WALK'', Original=''AND''"
+large,SA006,grandfather,repetition,repetition,"phrase repetition ""he's nearly 93 years old"" ",7.801128,9.250047,2,2,3,1,"substitution (4.92 - 7.88): ASR=''HES'', Original=''NINETYTHREE''"
+large,SA006,grandfather,prosodic,prosodic,insufficient break organ. except ,60.898897,62.23561,2,2,3,1,"substitution (60.62 - 61.54): ASR=''I'', Original=''EXCEPT''"
+large,SA001,grandfather,substitution,substitution,word replacement ancient -> accident,13.168761,14.019658,1,,,1,"substitution (12.16 - 13.48): ASR=''ACCIDENT'', Original=''ANCIENT''"
+large,SA001,rainbow,insertion,insertion,"word addition ""the""",10.930571,11.079893,2,1,,1,"insertion (10.76 - 10.94): ASR=''THE'', Original=''[NOT IN TRANSCRIPT]''"
+large,SA001,rainbow,insertion,insertion,"additional word ""rich""",18.429844,18.707156,2,1,,1,"substitution (18.06 - 18.46): ASR=''RICH'', Original=''ARCH''"
+large,SA001,rainbow,substitution,substitution,phonemic substition look -> took,35.831759,36.426676,1,,,1,"substitution (34.82 - 35.92): ASR=''TOOK'', Original=''LOOK''"
+large,SA002,grandfather,substitution,deletion,phonemic deletion thinks -> think,23.48231,24.190761,1,,,1,"substitution (22.94 - 23.58): ASR=''THINK'', Original=''THINKS''"
+large,SA002,grandfather,substitution,deletion,syllable deletion swiftly -> swift,25.131915,25.623176,1,,,1,"substitution (24.72 - 25.34): ASR=''SWIFT'', Original=''SWIFTLY''"
+large,SA002,grandfather,substitution,substitution,word replacement utmost -> uppermost,42.207137,43.427535,1,,,1,"substitution (42.0 - 43.28): ASR=''UPPERMOST'', Original=''UTMOST''"
+large,SA002,grandfather,substitution,substitution,word replacement winter -> weather,68.6939,69.143792,1,,,1,"substitution (68.24 - 68.88): ASR=''WEATHER'', Original=''WINTER''"
+large,SA002,grandfather,substitution,substitution,word replacement ooze -> zone,70.152172,70.886479,1,,,1,"substitution (69.46 - 70.4): ASR=''ZONE'', Original=''OOZE''"
+large,SA002,grandfather,substitution,substitution,phonemic substitition have -> had,83.349012,83.814418,1,,,1,"substitution (83.28 - 83.6): ASR=''HAD'', Original=''HAVE''"
+large,SA002,grandfather,substitution,prosodic,self corrected accurately,85.27269,86.296583,2,2,1,1,"insertion (86.1 - 86.19): ASR=''WALK'', Original=''[NOT IN TRANSCRIPT]''; insertion (86.19 - 86.64): ASR=''HE'', Original=''[NOT IN TRANSCRIPT]''"
+large,SA002,rainbow,insertion,insertion,"word addition ""different""",15.010725,16.194924,2,1,,1,"insertion (14.52 - 15.66): ASR=''DIFFERENT'', Original=''[NOT IN TRANSCRIPT]''; insertion (15.88 - 16.36): ASR=''MANY'', Original=''[NOT IN TRANSCRIPT]''"
+large,SA002,rainbow,repetition,prosodic,"self corrected ""many beautiful colours""",15.977735,15.977735,2,2,1,1,"insertion (15.88 - 16.36): ASR=''MANY'', Original=''[NOT IN TRANSCRIPT]''"
+large,SA002,rainbow,substitution,substitution,phonemic substitution these -> this,18.708116,19.111467,1,,,1,"substitution (18.0 - 18.84): ASR=''THIS'', Original=''THESE''; substitution (18.84 - 19.16): ASR=''TAKES'', Original=''TAKE''"
+large,SA002,rainbow,insertion,insertion,"word addition ""appear""",28.698827,29.360738,2,1,,1,"substitution (27.98 - 28.86): ASR=''APPEAR'', Original=''APPARENTLY''"
+large,SA002,rainbow,substitution,substitution,word replacement pot -> point,35.948816,37.164042,1,,,1,"substitution (35.74 - 36.5): ASR=''POINT'', Original=''POT''"
+large,SA002,rainbow,substitution,substitution,word replacement one -> each,38.994638,39.703089,1,,,1,"substitution (38.66 - 39.24): ASR=''EACH'', Original=''ONE''"
+large,SA003,rainbow,insertion,insertion,"word addition ""a""",38.007585,38.165481,2,1,,1,"insertion (37.88 - 38.02): ASR=''A'', Original=''[NOT IN TRANSCRIPT]''"
+large,SA004,grandfather,substitution,insertion,syllable addition ancient -> accident ,8.072746,8.590513,1,,,1,"insertion (8.0 - 8.36): ASR=''ACCIDENT'', Original=''[NOT IN TRANSCRIPT]''"
+large,SA004,grandfather,substitution,insertion,phonemic addition coat -> cloak ,13.274644,13.827663,1,,,1,"substitution (12.92 - 13.38): ASR=''CLOAK'', Original=''COAT''"
+large,SA004,grandfather,insertion,insertion,"word addition ""unknown"" ",21.990743,22.642908,2,1,,1,"substitution (21.74 - 22.08): ASR=''UNKNOWN'', Original=''THINKS''; substitution (22.08 - 22.72): ASR=''FOR'', Original=''AS''"
+large,SA004,grandfather,substitution,substitution,phonemic substition observe -> deserve ,33.015858,33.509389,1,,,1,"substitution (32.76 - 33.14): ASR=''DESERVE'', Original=''OBSERVE''"
+large,SA004,grandfather,insertion,insertion,"word addition ""good"" ",34.049188,34.254091,2,1,,1,"substitution (33.6 - 34.08): ASR=''GOOD'', Original=''PRONOUNCED''; substitution (34.08 - 34.58): ASR=''PRESENTATION'', Original=''FEELING''"
+large,SA004,grandfather,insertion,insertion,"additional word ""like"" ",42.34887,42.553773,2,1,,1,"insertion (42.24 - 42.46): ASR=''LIKE'', Original=''[NOT IN TRANSCRIPT]''"
+large,SA004,grandfather,substitution,substitution,word replacement trifle -> bit ,45.785956,45.935778,1,,,1,"substitution (45.6 - 45.9): ASR=''BIT'', Original=''TRIFLE''"
+large,SA004,grandfather,substitution,substitution,word replacement walk -> break ,68.616142,68.889346,1,,,1,"substitution (68.3 - 68.7): ASR=''BREAK'', Original=''WALK''"
+large,SA004,grandfather,deletion,deletion,"phrase deletion ""each day"" ",70.008602,70.76432,2,2,1,1,"deletion (69.86 - 70.328571): ASR='', Original=''EACH''; deletion (70.328571 - 70.68): ASR='', Original=''DAY''"
+large,SA004,rainbow,substitution,substitution,word replacement raindrops -> rainbow ,3.219496,3.6954,1,,,1,"substitution (2.78 - 3.38): ASR=''RAINBOW'', Original=''RAINDROPS''"
+large,SA004,rainbow,insertion,insertion,"additional word ""the"" ",33.419587,33.553986,2,1,,1,"insertion (33.32 - 33.44): ASR=''THE'', Original=''[NOT IN TRANSCRIPT]''"
+large,SA004,rainbow,substitution,substitution,word replacement find -> found ,41.177267,41.573854,1,,,1,"substitution (41.08 - 41.32): ASR=''FOUND'', Original=''FINDS''"
+large,SA005,grandfather,substitution,substitution,word replacement each -> a ,38.381625,38.752763,1,,,1,"substitution (38.14 - 38.42): ASR=''A'', Original=''EACH''"
+large,SA006,grandfather,substitution,substitution,word substitution my -> your ,2.015208,2.449396,1,,,1,"substitution (1.84 - 2.16): ASR=''YOUR'', Original=''MY''"
+large,SA006,grandfather,substitution,substitution,word substitution he -> this ,3.864165,4.434952,1,,,1,"substitution (3.56 - 4.08): ASR=''THIS'', Original=''HE''; substitution (4.38 - 4.8): ASR=''93'', Original=''NEARLY''"
+large,SA006,grandfather,substitution,substitution,Phonemic substitution beard -> board ,27.622539,28.398223,1,,,1,"substitution (26.74 - 27.72): ASR=''BOARD'', Original=''BEARD''"
+large,SA006,grandfather,substitution,substitution,phonemic substitution or -> on ,69.167982,69.577777,1,,,1,"substitution (68.2 - 69.2): ASR=''ON'', Original=''OR''; substitution (69.2 - 69.68): ASR=''THE'', Original=''ICE''"
+large,SA006,grandfather,insertion,insertion,"word addition ""the"" ",69.509478,69.977816,2,1,,1,"substitution (69.2 - 69.68): ASR=''THE'', Original=''ICE''"
+large,SA006,rainbow,substitution,deletion,phonemic deletion prism - prince ,5.156789,5.800753,2,2,1,1,"substitution (5.04 - 5.46): ASR=''PRINCE'', Original=''PRISM''"
+large,SA006,rainbow,substitution,substitution,phonemic substitution is -> in ,8.859583,9.235229,1,,,1,"substitution (8.26 - 8.92): ASR=''IN'', Original=''IS''"
+large,SA006,rainbow,substitution,substitution,phonemic substitution ever -> even ,40.169899,40.59433,1,,,1,"insertion (40.22 - 40.88): ASR=''EVEN'', Original=''[NOT IN TRANSCRIPT]''"
+large,SA006,rainbow,repetition,repetition,"repetition of ""even"" ",40.560181,41.043154,2,1,,1,"insertion (40.22 - 40.88): ASR=''EVEN'', Original=''[NOT IN TRANSCRIPT]''"
+large,SA001,grandfather,prosodic,prosodic,break between three -> th -- ree,6.316549,6.95887,,,,0,
+large,SA001,grandfather,prosodic,prosodic,prolonged break,7.053677,7.944868,,,,0,
+large,SA001,grandfather,insertion,insertion,"additional word ""year""",7.954349,8.459198,,,,0,
+large,SA001,grandfather,insertion,insertion,"additional phrase ""in a""",11.867528,12.680502,2,2,0,0,"substitution (12.16 - 13.48): ASR=''ACCIDENT'', Original=''ANCIENT''"
+large,SA001,grandfather,prosodic,prosodic,prolonged break,13.962773,15.339852,,,,0,
+large,SA001,grandfather,substitution,substitution,phonemic substitution black -> blank,15.375405,15.81152,0,,,0,"deletion (15.38 - 15.38): ASR='', Original=''FROCK''"
+large,SA001,grandfather,substitution,substitution,phonemic substitution yet -> yen,23.424561,23.744536,,,,0,
+large,SA001,grandfather,substitution,substitution,phonemic substitution swiftly -> swiftty,25.569581,26.050729,0,,,1,"substitution (25.46 - 25.86): ASR=''50'', Original=''SWIFTLY''"
+large,SA001,grandfather,substitution,substitution,word replacement clings -> cleaning,30.88117,31.286472,0,,,1,"substitution (30.3 - 31.1): ASR=''CLINGING'', Original=''CLINGS''"
+large,SA001,grandfather,prosodic,prosodic,prolonged break,37.738122,38.688567,,,,0,
+large,SA001,grandfather,insertion,insertion,"phrase addition ""a prof""",38.709899,39.565537,,,,0,
+large,SA001,grandfather,repetition,repetition,"word repetition ""pronounced""",39.657974,40.36666,,,,0,
+large,SA001,grandfather,insertion,insertion,"additional phrase ""of a""",40.859659,41.461687,,,,0,
+large,SA001,grandfather,substitution,deletion,phonemic deletion voice -> voy,46.531517,47.003184,0,,,1,"substitution (46.32 - 46.64): ASR=''WIFE'', Original=''VOICE''"
+large,SA001,grandfather,substitution,substitution,phonemic substitution cracked -> clacked,48.036586,48.707349,0,,,1,"substitution (47.68 - 48.24): ASR=''KEPT'', Original=''CRACKED''"
+large,SA001,grandfather,substitution,substitution,word replacement quivers -> beer,50.207678,50.918734,0,,,0,"substitution (49.54 - 50.72): ASR=''TRAVEL'', Original=''A''"
+large,SA001,grandfather,substitution,deletion,phonemic deletion trifle -> tifle,51.361959,51.928434,,,,0,
+large,SA001,grandfather,prosodic,prosodic,prolonged break,53.578084,54.976495,,,,0,
+large,SA001,grandfather,substitution,deletion,phonemic deletion plays -> play,55.644887,56.076261,,,,0,
+large,SA001,grandfather,substitution,substitution,word replacement zest -> zip,58.46304,58.71665,0,,,1,"substitution (57.4 - 58.6): ASR=''SIP'', Original=''ZEST''"
+large,SA001,grandfather,prosodic,prosodic,prolonged break,61.537173,62.859738,,,,0,
+large,SA001,grandfather,substitution,substitution,word replacement when -> and,65.054531,65.692111,0,,,0,"deletion (65.64 - 65.64): ASR='', Original=''OOZE''; deletion (65.64 - 65.64): ASR='', Original=''OR''"
+large,SA001,grandfather,substitution,substitution,word replacement ooze -> zoos,65.957572,66.483754,,,,0,
+large,SA001,grandfather,insertion,insertion,"additional phrase ""we of""",75.784369,76.336623,,,,0,
+large,SA001,grandfather,insertion,insertion,"phonemic addition ""s""",79.899014,80.290095,,,,0,
+large,SA001,grandfather,prosodic,prosodic,prolonged break,80.278244,81.136252,,,,0,
+large,SA001,grandfather,substitution,deletion,phonemic deletion likes -> like,87.955281,88.358213,,,,0,
+large,SA001,rainbow,repetition,repetition,"word repetition ""prism""",6.069317,6.664234,2,2,0,0,"substitution (5.06 - 6.42): ASR=''PRISMS'', Original=''A''"
+large,SA001,rainbow,substitution,substitution,phonemic replacement with -> win,19.809293,20.036831,,,,0,
+large,SA001,rainbow,prosodic,prosodic,prolonged break,20.66019,22.492345,,,,0,
+large,SA001,rainbow,substitution,insertion,phonemic addition high ->higher,22.708032,23.103853,,,,0,
+large,SA001,rainbow,substitution,insertion,phonemic addition its -> his,23.558929,23.817279,,,,0,
+large,SA001,rainbow,substitution,deletion,syllable deletion apparently -> apparent,25.187248,25.912525,0,,,1,"substitution (24.9 - 25.3): ASR=''APPEARING'', Original=''APPARENTLY''"
+large,SA001,rainbow,substitution,insertion,phonemic addition it -> this,38.156913,38.408152,,,,0,
+large,SA001,rainbow,insertion,insertion,"additional word ""he""",42.202822,42.582052,,,,0,
+large,SA001,rainbow,insertion,insertion,"additional word ""his""",43.883285,44.345472,2,2,0,1,"insertion (43.84 - 43.96): ASR=''HE'', Original=''[NOT IN TRANSCRIPT]''; insertion (43.96 - 44.24): ASR=''SWEEPS'', Original=''[NOT IN TRANSCRIPT]''; insertion (44.24 - 44.3): ASR=''IT'', Original=''[NOT IN TRANSCRIPT]''; insertion (44.3 - 44.32): ASR=''AWAY'', Original=''[NOT IN TRANSCRIPT]''"
+large,SA002,grandfather,substitution,deletion,syllabic deletion dresses -> dress,12.767633,13.119273,0,,,1,"substitution (12.56 - 12.86): ASR=''DRESSED'', Original=''DRESSES''"
+large,SA002,grandfather,substitution,substitution,phonemic substitution frock -> flock,16.046159,16.470195,,,,0,
+large,SA002,grandfather,substitution,substitution,word substitution coat -> clothes,16.392627,17.059709,,,,0,
+large,SA002,grandfather,substitution,repetition,prolonged vowel flowing -> flooowing,28.943071,30.08073,0,,,0,"substitution (27.98 - 29.18): ASR=''LONG'', Original=''FLOWING''"
+large,SA002,grandfather,substitution,substitution,phonemic substitution clings -> clangs,30.908118,31.725164,,,,0,
+large,SA002,grandfather,substitution,deletion,syllable deletion giving -> give,32.769741,33.803977,0,,,1,"substitution (33.04 - 33.26): ASR=''GIVES'', Original=''GIVING''"
+large,SA002,grandfather,substitution,deletion,phonemic deletion pronounced -> pronounce,37.211781,38.002971,,,,0,
+large,SA002,grandfather,prosodic,prosodic,prolonged break,38.427008,39.518126,,,,0,
+large,SA002,grandfather,repetition,repetition,"word repetition ""pronounce""",39.300937,40.474793,,,,0,
+large,SA002,grandfather,substitution,insertion,phonemic addition the -> there,41.969263,42.331246,0,,,1,"substitution (41.68 - 42.0): ASR=''THEIR'', Original=''THE''; substitution (42.0 - 43.28): ASR=''UPPERMOST'', Original=''UTMOST''"
+large,SA002,grandfather,substitution,deletion,phonemic deletion speaks -> speak,45.366726,45.837303,,,,0,
+large,SA002,grandfather,prosodic,prosodic,prolonged break,49.844964,51.086046,2,2,0,0,"substitution (49.16 - 51.64): ASR=''SHIVERS'', Original=''QUIVERS''"
+large,SA002,grandfather,substitution,substitution,phonemic substitution quivers -> shiver,51.008479,51.970317,0,,,1,"substitution (49.16 - 51.64): ASR=''SHIVERS'', Original=''QUIVERS''"
+large,SA002,grandfather,prosodic,prosodic,prolonged break,52.64257,53.811256,2,2,0,0,"substitution (52.02 - 54.18): ASR=''THRIFT'', Original=''TRIFLE''"
+large,SA002,grandfather,substitution,substitution,word replacement trifle -> twiff,54.018103,54.788608,0,,,1,"substitution (52.02 - 54.18): ASR=''THRIFT'', Original=''TRIFLE''"
+large,SA002,grandfather,insertion,insertion,"word addition ""as""",56.913961,57.684467,,,,0,
+large,SA002,grandfather,repetition,repetition,"word repetition ""twice""",57.65344,58.129188,,,,0,
+large,SA002,grandfather,substitution,substitution,phonemic substitution zest -> vest,61.785209,62.540201,0,,,0,"substitution (61.14 - 62.12): ASR=''REVESTS'', Original=''WITH''"
+large,SA002,grandfather,insertion,insertion,"word addition ""up""",62.803931,63.114201,2,2,0,0,"deletion (63.02 - 63.02): ASR='', Original=''OUR''"
+large,SA002,grandfather,deletion,deletion,"word deletion ""our""",63.620977,64.629356,2,2,0,0,"substitution (64.34 - 65.06): ASR=''ORGANS'', Original=''ORGAN''"
+large,SA002,grandfather,insertion,insertion,"word addition ""as""",66.651286,67.096007,,,,0,
+large,SA002,grandfather,substitution,substitution,phonemic substitution prevents -> present,72.73776,73.31176,0,,,1,"substitution (72.38 - 72.9): ASR=''PRESENTS'', Original=''PREVENTS''"
+large,SA002,grandfather,insertion,insertion,"additional word ""ar""",73.332445,73.989184,,,,0,
+large,SA002,grandfather,insertion,insertion,"word addition ""presented""",76.760934,78.301945,,,,0,
+large,SA002,grandfather,substitution,deletion,phonemic deletion takes -> take,79.222414,79.434432,,,,0,
+large,SA002,grandfather,substitution,substitution,word replacement urge -> argue,84.321194,84.765915,0,,,1,"insertion (84.02 - 84.5): ASR=''ARGUED'', Original=''[NOT IN TRANSCRIPT]''; insertion (84.5 - 85.0): ASR=''HIM'', Original=''[NOT IN TRANSCRIPT]''"
+large,SA002,grandfather,substitution,deletion,phonemic deletion answers -> answer,91.235056,91.834912,0,,,1,"substitution (90.9 - 91.34): ASR=''ANSWERED'', Original=''ANSWERS''"
+large,SA002,grandfather,substitution,deletion,phonemic deletion likes -> like,94.389473,94.818681,0,,,1,"substitution (94.14 - 94.48): ASR=''LIKED'', Original=''LIKES''"
+large,SA002,rainbow,substitution,deletion,phonemic deletion strikes -> strike,1.208856,1.658749,,,,0,
+large,SA002,rainbow,insertion,insertion,"additional word ""as""",4.751112,5.345797,,,,0,
+large,SA002,rainbow,substitution,substitution,phonemic substitution rainbow -> wainbow,9.31726,10.118792,,,,0,
+large,SA002,rainbow,substitution,substitution,phonemic substitution its -> his,23.703471,24.132679,,,,0,
+large,SA002,rainbow,substitution,deletion,phonemic deletion ends -> end,27.762844,28.595404,0,,,0,"substitution (27.98 - 28.86): ASR=''APPEAR'', Original=''APPARENTLY''"
+large,SA002,rainbow,substitution,substitution,phonemic replacement apparently -> apparence,29.360738,30.079531,,,,0,
+large,SA002,rainbow,substitution,deletion,phonemic deletion finds -> find,43.384967,43.736607,,,,0,
+large,SA002,rainbow,substitution,deletion,phonemic deletion looks -> look,45.220734,45.887816,,,,0,
+large,SA002,rainbow,substitution,deletion,phonemic deletion friends -> friend,48.535458,49.021548,,,,0,
+large,SA003,grandfather,prosodic,prosodic,reduced breath control - grunting,1.462007,1.786572,,,,0,
+large,SA003,grandfather,substitution,substitution,phonemic substitution know -> row,3.058519,3.491273,,,,0,
+large,SA003,grandfather,insertion,insertion,"word addition ""accilar""",13.251631,14.178543,,,,0,
+large,SA003,grandfather,substitution,substitution,phonemic substitution ooze -> oost,77.477595,78.711529,0,,,1,"substitution (77.06 - 77.62): ASR=''BOOST'', Original=''OOZE''; substitution (77.62 - 78.58): ASR=''OF'', Original=''OR''"
+large,SA003,rainbow,substitution,deletion,phonemic deletion prism -> pris,9.255756,10.282085,0,,,1,"substitution (9.04 - 9.6): ASR=''PRINCE'', Original=''PRISM''"
+large,SA004,grandfather,prosodic,prosodic,"fast speech rate - reduced articulatory precision on ""ninety"" ",5.33189,5.490525,,,,0,
+large,SA004,grandfather,substitution,deletion,syllable deletion dresses -> dress ,7.733444,7.874453,0,,,0,"insertion (7.52 - 7.78): ASR=''IN'', Original=''[NOT IN TRANSCRIPT]''; insertion (7.78 - 8.0): ASR=''AN'', Original=''[NOT IN TRANSCRIPT]''"
+large,SA004,grandfather,repetition,insertion,"Self correct - addition ""in an ancient"" ",9.388093,10.793773,,,,0,
+large,SA004,grandfather,substitution,substitution,Phonemic substitution frock -> flock ,12.787724,13.060928,0,,,1,"substitution (11.4 - 12.92): ASR=''CLOTH'', Original=''FROCK''; substitution (12.92 - 13.38): ASR=''CLOAK'', Original=''COAT''"
+large,SA004,grandfather,substitution,deletion,"phonemic deletion usually -> ulily (omitted ""s"") ",14.486438,15.143009,,,,0,
+large,SA004,grandfather,insertion,insertion,"word addition ""to"" ",15.079115,15.22453,,,,0,
+large,SA004,grandfather,substitution,deletion,syllable deletion several -> sevets ,18.0425,18.690259,,,,0,
+large,SA004,grandfather,substitution,substitution,phonemic substitution buttons -> praton ,19.716978,20.388973,,,,0,
+large,SA004,grandfather,substitution,deletion,syllable deletion swiftly -> swift ,24.462801,24.903453,,,,0,
+large,SA004,grandfather,substitution,substitution,phonemic substitution flowing -> floor ,27.61787,27.94175,0,,,1,"substitution (26.98 - 27.64): ASR=''FLOW'', Original=''FLOWING''; substitution (27.64 - 27.8): ASR=''OF'', Original=''BEARD''"
+large,SA004,grandfather,substitution,substitution,phonemic substitution clings -> king ,28.593915,28.763566,,,,0,
+large,SA004,grandfather,prosodic,prosodic,prolonged break between words ,29.179982,30.907338,,,,0,
+large,SA004,grandfather,substitution,insertion,syllable addition pronounced -> pronounsation ,34.271717,34.932695,0,,,0,"substitution (34.08 - 34.58): ASR=''PRESENTATION'', Original=''FEELING''"
+large,SA004,grandfather,substitution,substitution,phonemic substitution feeling -> paving ,35.981447,36.444132,0,,,0,"substitution (35.86 - 36.14): ASR=''GIVING'', Original=''OF''; substitution (36.14 - 36.88): ASR=''UTTER'', Original=''THE''"
+large,SA004,grandfather,substitution,substitution,word replacement utmost -> utter ,38.224366,38.790604,,,,0,
+large,SA004,grandfather,insertion,insertion,"additional word ""um"" ",39.081435,39.312777,,,,0,
+large,SA004,grandfather,substitution,deletion,phonemic deletion speaks -> speak ,41.002678,41.346386,,,,0,
+large,SA004,grandfather,substitution,deletion,phonemic deletion voice -> voy ,41.809071,42.04482,,,,0,
+large,SA004,grandfather,insertion,insertion,"additional word ""of"" ",43.280849,43.576086,,,,0,
+large,SA004,grandfather,substitution,substitution,word substitution quivers -> quail ,45.290223,45.548004,0,,,1,"substitution (44.5 - 45.46): ASR=''QUIVER'', Original=''QUIVERS''"
+large,SA004,grandfather,prosodic,prosodic,prolonged break ,46.237625,48.178697,,,,0,
+large,SA004,grandfather,repetition,repetition,repetition (attempt to self correct) quivers a trifle -> krill a trill ,48.61274,49.626239,,,,0,
+large,SA004,grandfather,substitution,substitution,word replacement zest -> new ,54.061403,54.374266,0,,,1,"substitution (53.66 - 54.34): ASR=''ZEAL'', Original=''ZEST''"
+large,SA004,grandfather,substitution,substitution,phonemic replacement snow -> slow ,60.552208,61.069974,,,,0,
+large,SA004,grandfather,prosodic,prosodic,prolonged break ,61.109633,63.480341,,,,0,
+large,SA004,grandfather,repetition,repetition,"phrase repetition ""ooze or snow"" -> ooze or slow ",63.625757,64.718574,,,,0,
+large,SA004,grandfather,substitution,deletion,phonemic deletion prevent -> pevent ,65.513951,65.974432,0,,,1,"substitution (65.06 - 65.6): ASR=''PREVENT'', Original=''PREVENTS''"
+large,SA004,grandfather,substitution,deletion,phonemic deletion takes -> take ,67.455023,67.730431,,,,0,
+large,SA004,grandfather,substitution,substitution,phonemic substitution often -> open ,71.16972,71.531055,0,,,0,"substitution (71.28 - 72.46): ASR=''URGE'', Original=''URGED''"
+large,SA004,grandfather,substitution,substitution,phonemic replacement answers -> answered ,76.360602,76.759392,,,,0,
+large,SA004,grandfather,substitution,deletion,phonemic deletion his -> is ,80.643741,81.027108,,,,0,
+large,SA004,rainbow,deletion,deletion,"word deletion ""the"" ",13.524145,13.98683,2,2,0,0,"substitution (13.04 - 13.6): ASR=''TAKES'', Original=''TAKE''"
+large,SA004,rainbow,substitution,substitution,phonemic substition arch -> up ,17.042752,17.432729,0,,,0,"substitution (16.94 - 17.3): ASR=''ARCS'', Original=''WITH''"
+large,SA004,rainbow,insertion,insertion,"word addition ""and receive""? ",17.749999,20.039186,2,2,0,0,"substitution (18.0 - 20.18): ASR=''WHICH'', Original=''ITS''"
+large,SA004,rainbow,substitution,substitution,phonemic substitution with -> which ,20.211041,20.54153,0,,,0,"substitution (20.18 - 21.2): ASR=''IS'', Original=''PATH''"
+large,SA004,rainbow,substitution,substitution,word replacement ends -> ear ,24.727725,25.124312,,,,0,
+large,SA004,rainbow,insertion,repetition,"phrase repetition/addition ""two year"" ",25.708176,26.666594,,,,0,
+large,SA004,rainbow,substitution,substitution,phonemic substitution horizon -> holaizon ,30.416543,30.982781,,,,0,
+large,SA004,rainbow,substitution,deletion,phonemic deletion looks -> look ,42.668875,42.882591,,,,0,
+large,SA005,grandfather,substitution,deletion,Phonemic deletion dresses -> dress ,7.581556,8.164774,,,,0,
+large,SA005,grandfather,substitution,substitution,phonemic substition swiftly -> swifty ,16.422603,17.005821,0,,,1,"substitution (16.42 - 16.68): ASR=''IF'', Original=''SWIFTLY''; substitution (16.68 - 17.04): ASR=''THIS'', Original=''AS''"
+large,SA005,grandfather,insertion,insertion,"additional word ""blob""? ",20.120732,20.593492,2,2,0,0,"substitution (20.52 - 22.86): ASR=''LINKS'', Original=''CLINGS''"
+large,SA005,grandfather,substitution,substitution,phonemic substitution beard -> bear ,20.531635,20.999977,0,,,0,"substitution (20.52 - 22.86): ASR=''LINKS'', Original=''CLINGS''"
+large,SA005,grandfather,substitution,deletion,phonemic deletion clings -> links ,22.970545,23.642129,,,,0,
+large,SA005,grandfather,substitution,substitution,phonemic substitution quivers -> quivis ,35.567159,36.287344,,,,0,
+large,SA005,grandfather,substitution,substitution,word replacement a -> his ,51.314031,51.742607,,,,0,
+large,SA005,grandfather,substitution,insertion,phonemic addition answers -> sayanswer ,60.588073,61.568938,,,,0,
+large,SA005,rainbow,substitution,substitution,phonemic substitution above ->debove ,19.796243,20.93175,0,,,0,"substitution (19.66 - 20.1): ASR=''HIGHLY'', Original=''HIGH''"
+large,SA005,rainbow,substitution,substitution,phonemic substitution at -> ant ,30.819937,31.319207,0,,,1,"substitution (30.76 - 31.08): ASR=''ON'', Original=''AT''"
+large,SA005,rainbow,substitution,insertion,phonemic addition one -> twan ,31.199912,31.579887,,,,0,
+large,SA005,rainbow,substitution,deletion,syllable deletion looking -> look ,43.310511,43.809781,0,,,0,"substitution (43.08 - 43.46): ASR=''LOOKED'', Original=''IS''"
+large,SA006,grandfather,substitution,substitution,phonemic substitution nearly -> really ,4.537401,5.800936,0,,,0,"substitution (4.38 - 4.8): ASR=''93'', Original=''NEARLY''; substitution (4.92 - 7.88): ASR=''HES'', Original=''NINETYTHREE''"
+large,SA006,grandfather,insertion,insertion,phonemic addition zzz ,10.250143,10.859957,,,,0,
+large,SA006,grandfather,insertion,insertion,"word addition ""with"" ",21.163383,21.973217,2,2,0,0,"substitution (20.96 - 21.56): ASR=''WE'', Original=''YET''; substitution (21.56 - 22.14): ASR=''GET'', Original=''HE''"
+large,SA006,grandfather,substitution,substitution,phonemic substitution flowing -> plowing ,26.476088,27.134687,0,,,0,"substitution (26.74 - 27.72): ASR=''BOARD'', Original=''BEARD''"
+large,SA006,grandfather,repetition,repetition,"repetition of phrase ""beard clings to his chin"" ",30.93993,32.530326,,,,0,
+large,SA006,grandfather,substitution,insertion,"phonemic addition ""fer"" ",37.672282,38.257704,,,,0,
+large,SA006,grandfather,insertion,insertion,"word addition ""release' ",42.306872,42.887416,,,,0,
+large,SA006,grandfather,prosodic,prosodic,"insufficient pause speaks, his ",43.36551,44.209494,,,,0,
+large,SA006,grandfather,substitution,insertion,phonemic addition a -> an ,49.746609,50.136891,0,,,0,"substitution (49.74 - 50.28): ASR=''TRIPLE'', Original=''TRIFLE''"
+large,SA006,grandfather,substitution,insertion,phonemic addition zest -> zesium ,57.230253,57.89861,0,,,1,"substitution (56.98 - 57.4): ASR=''JUST'', Original=''ZEST''"
+large,SA006,grandfather,insertion,insertion,"word addition ""there's"" ",57.96203,58.508424,,,,0,
+large,SA006,grandfather,substitution,substitution,word replacement ooze -> colds ,66.918986,67.436109,0,,,1,"substitution (65.3 - 67.06): ASR=''COURSE'', Original=''OOZE''; substitution (67.06 - 67.4): ASR=''OF'', Original=''OR''"
+large,SA006,rainbow,insertion,insertion,"word addition ""big"" ",12.596526,13.035593,2,2,0,0,"substitution (12.86 - 14.16): ASR=''COLOURS'', Original=''COLORS''"
+large,SA006,rainbow,substitution,insertion,phonemic addition its -> biz ,20.543629,21.041238,0,,,0,"substitution (20.22 - 20.86): ASR=''WHICH'', Original=''WITH''; substitution (20.86 - 20.96): ASR=''IS'', Original=''ITS''; substitution (20.96 - 21.3): ASR=''PART'', Original=''PATH''"
+large,SA006,rainbow,insertion,insertion,"word addition ""a"" ",29.583519,29.920137,,,,0,
+large,SA006,rainbow,substitution,substitution,phonemic substitution legend - regend ,30.120156,30.705578,2,2,0,0,"substitution (30.4 - 32.26): ASR=''OF'', Original=''A''"
+large,SA006,rainbow,repetition,repetition,repetition (self correct) to legend ,31.076345,31.993506,2,2,0,0,"substitution (30.4 - 32.26): ASR=''OF'', Original=''A''"
+large,SA006,rainbow,substitution,substitution,phonemic substitution at -> an ,34.486428,34.837681,,,,0,
+large,SA006,rainbow,repetition,repetition,"word repetition ""look"" ",37.56965,38.398998,,,,0,
+large,SA006,rainbow,substitution,insertion,phonemic addition his -> this ,46.077782,46.990065,,,,0,
+base,SA004,grandfather,prosodic,prosodic,"fast speech rate - reduced articulatory precision on ""ninety"" ",5.33189,5.490525,2,2,3,1,"substitution (5.18 - 5.94): ASR=''THREEYEAROLD'', Original=''OLD''"
+base,SA004,grandfather,deletion,deletion,"word deletion ""and"" ",74.452579,74.668498,2,2,3,1,"substitution (74.6 - 74.78): ASR=''MORE'', Original=''AND''"
+base,SA004,grandfather,substitution,deletion,phonemic deletion smoke - moke ,74.617823,74.873401,2,2,3,1,"substitution (74.6 - 74.78): ASR=''MORE'', Original=''AND''"
+base,SA004,rainbow,insertion,insertion,"word addition ""and receive""? ",17.749999,20.039186,2,2,3,1,"substitution (17.3 - 17.86): ASR=''AND'', Original=''WITH''"
+base,SA004,rainbow,insertion,repetition,"phrase repetition/addition ""two year"" ",25.708176,26.666594,2,2,3,1,"insertion (25.94 - 26.16): ASR=''TWO'', Original=''[NOT IN TRANSCRIPT]''; insertion (26.16 - 26.46): ASR=''YEARS'', Original=''[NOT IN TRANSCRIPT]''"
+base,SA006,grandfather,repetition,repetition,"phrase repetition ""he's nearly 93 years old"" ",7.801128,9.250047,2,2,3,1,"insertion (7.8 - 8.52): ASR=''NELLIE'', Original=''[NOT IN TRANSCRIPT]''; insertion (8.82 - 8.84): ASR=''93'', Original=''[NOT IN TRANSCRIPT]''; insertion (8.84 - 9.06): ASR=''IS'', Original=''[NOT IN TRANSCRIPT]''; insertion (9.06 - 9.34): ASR=''O'', Original=''[NOT IN TRANSCRIPT]''"
+base,SA006,grandfather,prosodic,prosodic,insufficient break organ. except ,60.898897,62.23561,2,2,3,1,"substitution (61.48 - 61.68): ASR=''I'', Original=''EXCEPT''"
+base,SA001,grandfather,substitution,substitution,word replacement ancient -> accident,13.168761,14.019658,1,,,1,"substitution (13.04 - 13.58): ASR=''ACCIDENT'', Original=''ANCIENT''"
+base,SA001,grandfather,substitution,substitution,word replacement when -> and,65.054531,65.692111,1,,,1,"substitution (65.08 - 65.3): ASR=''AND'', Original=''WHEN''"
+base,SA001,rainbow,insertion,insertion,"word addition ""the""",10.930571,11.079893,2,1,,1,"insertion (10.84 - 11.0): ASR=''THE'', Original=''[NOT IN TRANSCRIPT]''"
+base,SA001,rainbow,substitution,insertion,phonemic addition its -> his,23.558929,23.817279,1,,,1,"substitution (23.54 - 23.74): ASR=''HIS'', Original=''ITS''"
+base,SA001,rainbow,substitution,substitution,phonemic substition look -> took,35.831759,36.426676,1,,,1,"substitution (35.0 - 36.06): ASR=''TOOK'', Original=''LOOK''"
+base,SA002,grandfather,substitution,deletion,phonemic deletion thinks -> think,23.48231,24.190761,1,,,1,"substitution (23.22 - 23.62): ASR=''THINK'', Original=''THINKS''"
+base,SA002,grandfather,substitution,deletion,syllable deletion swiftly -> swift,25.131915,25.623176,1,,,1,"substitution (24.84 - 25.4): ASR=''SWIFT'', Original=''SWIFTLY''"
+base,SA002,grandfather,substitution,deletion,syllable deletion giving -> give,32.769741,33.803977,1,,,1,"substitution (33.02 - 33.42): ASR=''GIVE'', Original=''GIVING''"
+base,SA002,grandfather,deletion,deletion,"word deletion ""our""",63.620977,64.629356,2,2,1,1,"deletion (63.88 - 63.88): ASR='', Original=''OUR''"
+base,SA002,grandfather,substitution,substitution,word replacement winter -> weather,68.6939,69.143792,1,,,1,"substitution (68.52 - 68.9): ASR=''WEATHER'', Original=''WINTER''"
+base,SA002,grandfather,substitution,substitution,word replacement ooze -> zone,70.152172,70.886479,1,,,1,"substitution (69.7 - 70.42): ASR=''ZONE'', Original=''OOZE''"
+base,SA002,grandfather,substitution,substitution,phonemic substitution prevents -> present,72.73776,73.31176,1,,,1,"substitution (72.46 - 73.0): ASR=''PRESENT'', Original=''PREVENTS''"
+base,SA002,grandfather,substitution,deletion,phonemic deletion takes -> take,79.222414,79.434432,1,,,1,"substitution (79.02 - 79.32): ASR=''TAKE'', Original=''TAKES''"
+base,SA002,grandfather,substitution,substitution,phonemic substitition have -> had,83.349012,83.814418,1,,,1,"substitution (83.34 - 83.62): ASR=''HAD'', Original=''HAVE''"
+base,SA002,grandfather,substitution,prosodic,self corrected accurately,85.27269,86.296583,2,2,1,1,"insertion (85.66 - 85.7): ASR=''WATCH'', Original=''[NOT IN TRANSCRIPT]''; insertion (85.7 - 85.98): ASR=''HIM'', Original=''[NOT IN TRANSCRIPT]''"
+base,SA002,grandfather,substitution,deletion,phonemic deletion likes -> like,94.389473,94.818681,1,,,1,"substitution (94.22 - 94.54): ASR=''LIKE'', Original=''LIKES''"
+base,SA002,rainbow,insertion,insertion,"additional word ""as""",4.751112,5.345797,2,1,,1,"substitution (4.2 - 4.92): ASR=''AS'', Original=''THEY''; substitution (4.92 - 5.5): ASR=''THE'', Original=''ACT''"
+base,SA002,rainbow,insertion,insertion,"word addition ""different""",15.010725,16.194924,2,1,,1,"insertion (14.66 - 15.82): ASR=''DIFFERENT'', Original=''[NOT IN TRANSCRIPT]''; insertion (16.14 - 16.4): ASR=''MANY'', Original=''[NOT IN TRANSCRIPT]''"
+base,SA002,rainbow,substitution,substitution,phonemic substitution these -> this,18.708116,19.111467,1,,,1,"substitution (18.74 - 18.92): ASR=''THIS'', Original=''THESE''; substitution (18.92 - 19.22): ASR=''TAKES'', Original=''TAKE''"
+base,SA002,rainbow,insertion,insertion,"word addition ""appear""",28.698827,29.360738,2,1,,1,"substitution (28.04 - 29.12): ASR=''APPEAR'', Original=''APPARENTLY''"
+base,SA002,rainbow,substitution,substitution,word replacement pot -> point,35.948816,37.164042,1,,,1,"substitution (35.8 - 36.68): ASR=''POINT'', Original=''POT''"
+base,SA002,rainbow,substitution,substitution,word replacement one -> each,38.994638,39.703089,1,,,1,"substitution (38.8 - 39.48): ASR=''EACH'', Original=''AT''; substitution (39.48 - 39.86): ASR=''AND'', Original=''ONE''"
+base,SA002,rainbow,substitution,deletion,phonemic deletion finds -> find,43.384967,43.736607,1,,,1,"substitution (43.2 - 43.56): ASR=''FIND'', Original=''FINDS''"
+base,SA002,rainbow,substitution,deletion,phonemic deletion looks -> look,45.220734,45.887816,1,,,1,"substitution (45.1 - 45.42): ASR=''LOOK'', Original=''LOOKS''"
+base,SA003,rainbow,insertion,insertion,"word addition ""a""",38.007585,38.165481,2,1,,1,"insertion (37.98 - 38.16): ASR=''A'', Original=''[NOT IN TRANSCRIPT]''"
+base,SA004,grandfather,substitution,insertion,syllable addition ancient -> accident ,8.072746,8.590513,1,,,1,"substitution (8.02 - 8.44): ASR=''ACCIDENT'', Original=''ANCIENT''"
+base,SA004,grandfather,insertion,insertion,"word addition ""unknown"" ",21.990743,22.642908,2,1,,1,"substitution (21.78 - 22.46): ASR=''UNKNOWN'', Original=''THINKS''; substitution (22.46 - 22.86): ASR=''FOR'', Original=''AS''"
+base,SA004,grandfather,insertion,insertion,"word addition ""for his"" ",22.77951,23.277447,2,2,1,1,"substitution (22.46 - 22.86): ASR=''FOR'', Original=''AS''; substitution (22.86 - 23.28): ASR=''HIS'', Original=''SWIFTLY''"
+base,SA004,grandfather,substitution,substitution,phonemic substition observe -> deserve ,33.015858,33.509389,1,,,1,"substitution (32.8 - 33.22): ASR=''DESERVE'', Original=''OBSERVE''"
+base,SA004,grandfather,insertion,insertion,"word addition ""good"" ",34.049188,34.254091,2,1,,1,"substitution (34.0 - 34.16): ASR=''GOOD'', Original=''PRONOUNCED''; substitution (34.16 - 34.64): ASR=''PRESENTATION'', Original=''FEELING''"
+base,SA004,grandfather,substitution,substitution,word replacement utmost -> utter ,38.224366,38.790604,1,,,1,"substitution (36.8 - 38.6): ASR=''UTTER'', Original=''UTMOST''"
+base,SA004,grandfather,insertion,insertion,"additional word ""like"" ",42.34887,42.553773,2,1,,1,"substitution (41.92 - 42.38): ASR=''LIKE'', Original=''IS''"
+base,SA004,grandfather,insertion,insertion,"additional word ""of"" ",43.280849,43.576086,2,1,,1,"substitution (43.2 - 43.36): ASR=''OF'', Original=''CRACKED''"
+base,SA004,grandfather,substitution,substitution,word replacement trifle -> bit ,45.785956,45.935778,1,,,1,"substitution (45.7 - 45.96): ASR=''BIT'', Original=''TRIFLE''"
+base,SA004,grandfather,substitution,substitution,word replacement walk -> break ,68.616142,68.889346,1,,,1,"substitution (68.32 - 68.72): ASR=''BREAK'', Original=''WALK''"
+base,SA004,grandfather,deletion,deletion,"phrase deletion ""each day"" ",70.008602,70.76432,2,2,1,1,"deletion (69.92 - 70.365714): ASR='', Original=''EACH''; deletion (70.365714 - 70.7): ASR='', Original=''DAY''"
+base,SA004,rainbow,substitution,substitution,word replacement raindrops -> rainbow ,3.219496,3.6954,1,,,1,"substitution (2.84 - 3.48): ASR=''RAINBOW'', Original=''RAINDROPS''"
+base,SA004,rainbow,substitution,substitution,phonemic substition arch -> up ,17.042752,17.432729,1,,,1,"substitution (17.28 - 17.3): ASR=''UP'', Original=''ARCH''; substitution (17.3 - 17.86): ASR=''AND'', Original=''WITH''"
+base,SA004,rainbow,insertion,insertion,"additional word ""the"" ",33.419587,33.553986,2,1,,1,"insertion (33.4 - 33.54): ASR=''THE'', Original=''[NOT IN TRANSCRIPT]''"
+base,SA004,rainbow,substitution,substitution,word replacement find -> found ,41.177267,41.573854,1,,,1,"substitution (41.1 - 41.36): ASR=''FOUND'', Original=''FINDS''"
+base,SA005,rainbow,substitution,deletion,syllable deletion looking -> look ,43.310511,43.809781,1,,,1,"substitution (43.1 - 43.5): ASR=''LOOK'', Original=''IS''"
+base,SA006,grandfather,substitution,substitution,word substitution my -> your ,2.015208,2.449396,1,,,1,"substitution (1.9 - 2.16): ASR=''YOUR'', Original=''MY''"
+base,SA006,grandfather,substitution,substitution,word substitution he -> this ,3.864165,4.434952,1,,,1,"insertion (4.06 - 4.18): ASR=''THIS'', Original=''[NOT IN TRANSCRIPT]''; insertion (4.18 - 4.38): ASR=''IS'', Original=''[NOT IN TRANSCRIPT]''; insertion (4.38 - 4.88): ASR=''NELLIE'', Original=''[NOT IN TRANSCRIPT]''"
+base,SA006,grandfather,substitution,substitution,phonemic substitution or -> on ,69.167982,69.577777,1,,,1,"substitution (68.94 - 69.26): ASR=''ON'', Original=''OR''; substitution (69.26 - 69.8): ASR=''THE'', Original=''ICE''"
+base,SA006,grandfather,insertion,insertion,"word addition ""the"" ",69.509478,69.977816,2,1,,1,"substitution (69.26 - 69.8): ASR=''THE'', Original=''ICE''"
+base,SA006,rainbow,substitution,deletion,phonemic deletion prism - prince ,5.156789,5.800753,2,2,1,1,"substitution (5.02 - 5.56): ASR=''PRINCE'', Original=''PRISM''"
+base,SA006,rainbow,substitution,substitution,phonemic substitution is -> in ,8.859583,9.235229,1,,,1,"substitution (8.4 - 9.04): ASR=''IN'', Original=''IS''"
+base,SA006,rainbow,substitution,substitution,phonemic substitution ever -> even ,40.169899,40.59433,1,,,1,"substitution (39.56 - 40.42): ASR=''EVEN'', Original=''EVER''"
+base,SA001,grandfather,prosodic,prosodic,break between three -> th -- ree,6.316549,6.95887,0,,,0,"substitution (5.7 - 6.68): ASR=''93'', Original=''NINETYTHREE''"
+base,SA001,grandfather,prosodic,prosodic,prolonged break,7.053677,7.944868,,,,0,
+base,SA001,grandfather,insertion,insertion,"additional word ""year""",7.954349,8.459198,,,,0,
+base,SA001,grandfather,insertion,insertion,"additional phrase ""in a""",11.867528,12.680502,,,,0,
+base,SA001,grandfather,prosodic,prosodic,prolonged break,13.962773,15.339852,2,2,0,0,"substitution (15.28 - 15.56): ASR=''BUT'', Original=''BLACK''"
+base,SA001,grandfather,substitution,substitution,phonemic substitution black -> blank,15.375405,15.81152,0,,,1,"substitution (15.28 - 15.56): ASR=''BUT'', Original=''BLACK''; substitution (15.56 - 15.76): ASR=''THE'', Original=''FROCK''; substitution (15.76 - 16.5): ASR=''FLOW'', Original=''COAT''"
+base,SA001,grandfather,substitution,substitution,phonemic substitution yet -> yen,23.424561,23.744536,0,,,1,"substitution (23.44 - 23.62): ASR=''AND'', Original=''YET''"
+base,SA001,grandfather,substitution,substitution,phonemic substitution swiftly -> swiftty,25.569581,26.050729,0,,,1,"substitution (25.56 - 25.8): ASR=''IF'', Original=''SWIFTLY''; substitution (25.8 - 25.96): ASR=''HE'', Original=''AS''"
+base,SA001,grandfather,substitution,substitution,word replacement clings -> cleaning,30.88117,31.286472,0,,,1,"substitution (30.78 - 31.14): ASR=''TURNING'', Original=''CLINGS''"
+base,SA001,grandfather,prosodic,prosodic,prolonged break,37.738122,38.688567,2,2,0,0,"substitution (37.86 - 39.96): ASR=''PRONOUNCE'', Original=''PRONOUNCED''"
+base,SA001,grandfather,insertion,insertion,"phrase addition ""a prof""",38.709899,39.565537,2,2,0,0,"substitution (37.86 - 39.96): ASR=''PRONOUNCE'', Original=''PRONOUNCED''"
+base,SA001,grandfather,repetition,repetition,"word repetition ""pronounced""",39.657974,40.36666,2,2,0,1,"substitution (37.86 - 39.96): ASR=''PRONOUNCE'', Original=''PRONOUNCED''"
+base,SA001,grandfather,insertion,insertion,"additional phrase ""of a""",40.859659,41.461687,,,,0,
+base,SA001,grandfather,substitution,deletion,phonemic deletion voice -> voy,46.531517,47.003184,0,,,1,"substitution (46.5 - 46.74): ASR=''VERY'', Original=''VOICE''"
+base,SA001,grandfather,substitution,substitution,phonemic substitution cracked -> clacked,48.036586,48.707349,,,,0,
+base,SA001,grandfather,substitution,substitution,word replacement quivers -> beer,50.207678,50.918734,0,,,1,"substitution (49.32 - 50.52): ASR=''VERY'', Original=''QUIVERS''"
+base,SA001,grandfather,substitution,deletion,phonemic deletion trifle -> tifle,51.361959,51.928434,,,,0,
+base,SA001,grandfather,prosodic,prosodic,prolonged break,53.578084,54.976495,2,2,0,0,"substitution (54.78 - 55.22): ASR=''THEY'', Original=''TWICE''"
+base,SA001,grandfather,substitution,deletion,phonemic deletion plays -> play,55.644887,56.076261,0,,,0,"substitution (55.56 - 55.96): ASR=''HIM'', Original=''DAY''; substitution (55.96 - 56.96): ASR=''SMOOTHLY'', Original=''HE''"
+base,SA001,grandfather,substitution,substitution,word replacement zest -> zip,58.46304,58.71665,0,,,1,"substitution (57.62 - 58.64): ASR=''SLIP'', Original=''ZEST''"
+base,SA001,grandfather,prosodic,prosodic,prolonged break,61.537173,62.859738,,,,0,
+base,SA001,grandfather,substitution,substitution,word replacement ooze -> zoos,65.957572,66.483754,0,,,1,"substitution (65.8 - 66.24): ASR=''ZONES'', Original=''OOZE''"
+base,SA001,grandfather,insertion,insertion,"additional phrase ""we of""",75.784369,76.336623,,,,0,
+base,SA001,grandfather,insertion,insertion,"phonemic addition ""s""",79.899014,80.290095,,,,0,
+base,SA001,grandfather,prosodic,prosodic,prolonged break,80.278244,81.136252,,,,0,
+base,SA001,grandfather,substitution,deletion,phonemic deletion likes -> like,87.955281,88.358213,,,,0,
+base,SA001,rainbow,repetition,repetition,"word repetition ""prism""",6.069317,6.664234,,,,0,
+base,SA001,rainbow,insertion,insertion,"additional word ""rich""",18.429844,18.707156,,,,0,
+base,SA001,rainbow,substitution,substitution,phonemic replacement with -> win,19.809293,20.036831,0,,,0,"substitution (19.92 - 20.14): ASR=''HIS'', Original=''ITS''"
+base,SA001,rainbow,prosodic,prosodic,prolonged break,20.66019,22.492345,,,,0,
+base,SA001,rainbow,substitution,insertion,phonemic addition high ->higher,22.708032,23.103853,,,,0,
+base,SA001,rainbow,substitution,deletion,syllable deletion apparently -> apparent,25.187248,25.912525,0,,,1,"substitution (25.3 - 25.56): ASR=''APPEARING'', Original=''APPARENTLY''"
+base,SA001,rainbow,substitution,insertion,phonemic addition it -> this,38.156913,38.408152,,,,0,
+base,SA001,rainbow,insertion,insertion,"additional word ""he""",42.202822,42.582052,,,,0,
+base,SA001,rainbow,insertion,insertion,"additional word ""his""",43.883285,44.345472,,,,0,
+base,SA002,grandfather,substitution,deletion,syllabic deletion dresses -> dress,12.767633,13.119273,0,,,1,"substitution (12.62 - 12.92): ASR=''DRESSED'', Original=''DRESSES''"
+base,SA002,grandfather,substitution,substitution,phonemic substitution frock -> flock,16.046159,16.470195,0,,,1,"substitution (15.62 - 16.44): ASR=''CROC'', Original=''FROCK''"
+base,SA002,grandfather,substitution,substitution,word substitution coat -> clothes,16.392627,17.059709,0,,,0,"substitution (15.62 - 16.44): ASR=''CROC'', Original=''FROCK''"
+base,SA002,grandfather,substitution,insertion,"phonemic addition ""s""",22.629066,23.120327,,,,0,
+base,SA002,grandfather,substitution,repetition,prolonged vowel flowing -> flooowing,28.943071,30.08073,0,,,0,"substitution (28.38 - 29.6): ASR=''GROWING'', Original=''LONG''; substitution (29.6 - 30.4): ASR=''BEER'', Original=''FLOWING''"
+base,SA002,grandfather,substitution,substitution,phonemic substitution clings -> clangs,30.908118,31.725164,0,,,0,"substitution (30.96 - 31.4): ASR=''CLENTS'', Original=''BEARD''"
+base,SA002,grandfather,substitution,deletion,phonemic deletion pronounced -> pronounce,37.211781,38.002971,0,,,0,"substitution (37.06 - 37.56): ASR=''THE'', Original=''PRONOUNCED''"
+base,SA002,grandfather,prosodic,prosodic,prolonged break,38.427008,39.518126,,,,0,
+base,SA002,grandfather,repetition,repetition,"word repetition ""pronounce""",39.300937,40.474793,,,,0,
+base,SA002,grandfather,substitution,insertion,phonemic addition the -> there,41.969263,42.331246,0,,,1,"substitution (41.82 - 42.16): ASR=''THEIR'', Original=''THE''; substitution (42.16 - 42.86): ASR=''UPPER'', Original=''UTMOST''"
+base,SA002,grandfather,substitution,substitution,word replacement utmost -> uppermost,42.207137,43.427535,0,,,1,"substitution (42.16 - 42.86): ASR=''UPPER'', Original=''UTMOST''"
+base,SA002,grandfather,substitution,deletion,phonemic deletion speaks -> speak,45.366726,45.837303,,,,0,
+base,SA002,grandfather,prosodic,prosodic,prolonged break,49.844964,51.086046,2,2,0,0,"substitution (49.5 - 51.44): ASR=''SHE'', Original=''QUIVERS''"
+base,SA002,grandfather,substitution,substitution,phonemic substitution quivers -> shiver,51.008479,51.970317,0,,,1,"substitution (49.5 - 51.44): ASR=''SHE'', Original=''QUIVERS''"
+base,SA002,grandfather,prosodic,prosodic,prolonged break,52.64257,53.811256,2,2,0,0,"substitution (52.26 - 54.14): ASR=''THIEF'', Original=''TRIFLE''"
+base,SA002,grandfather,substitution,substitution,word replacement trifle -> twiff,54.018103,54.788608,0,,,1,"substitution (52.26 - 54.14): ASR=''THIEF'', Original=''TRIFLE''"
+base,SA002,grandfather,insertion,insertion,"word addition ""as""",56.913961,57.684467,,,,0,
+base,SA002,grandfather,repetition,repetition,"word repetition ""twice""",57.65344,58.129188,,,,0,
+base,SA002,grandfather,substitution,substitution,phonemic substitution zest -> vest,61.785209,62.540201,0,,,1,"substitution (61.72 - 61.98): ASR=''WERE'', Original=''ZEST''"
+base,SA002,grandfather,insertion,insertion,"word addition ""up""",62.803931,63.114201,,,,0,
+base,SA002,grandfather,insertion,insertion,"word addition ""as""",66.651286,67.096007,,,,0,
+base,SA002,grandfather,insertion,insertion,"additional word ""ar""",73.332445,73.989184,,,,0,
+base,SA002,grandfather,insertion,insertion,"word addition ""presented""",76.760934,78.301945,,,,0,
+base,SA002,grandfather,substitution,substitution,word replacement urge -> argue,84.321194,84.765915,0,,,1,"substitution (84.1 - 84.64): ASR=''ARGUED'', Original=''URGED''"
+base,SA002,grandfather,substitution,deletion,phonemic deletion answers -> answer,91.235056,91.834912,0,,,1,"substitution (91.02 - 91.4): ASR=''ANSWERED'', Original=''ANSWERS''"
+base,SA002,rainbow,substitution,deletion,phonemic deletion strikes -> strike,1.208856,1.658749,,,,0,
+base,SA002,rainbow,substitution,substitution,phonemic substitution rainbow -> wainbow,9.31726,10.118792,,,,0,
+base,SA002,rainbow,repetition,prosodic,"self corrected ""many beautiful colours""",15.977735,15.977735,,,,0,
+base,SA002,rainbow,substitution,substitution,phonemic substitution its -> his,23.703471,24.132679,0,,,0,"substitution (23.92 - 24.28): ASR=''PUFF'', Original=''PATH''"
+base,SA002,rainbow,substitution,deletion,phonemic deletion ends -> end,27.762844,28.595404,0,,,1,"substitution (27.54 - 28.04): ASR=''AND'', Original=''ENDS''; substitution (28.04 - 29.12): ASR=''APPEAR'', Original=''APPARENTLY''"
+base,SA002,rainbow,substitution,substitution,phonemic replacement apparently -> apparence,29.360738,30.079531,,,,0,
+base,SA002,rainbow,substitution,deletion,phonemic deletion friends -> friend,48.535458,49.021548,0,,,1,"substitution (48.34 - 48.62): ASR=''TRAIN'', Original=''FRIENDS''"
+base,SA003,grandfather,prosodic,prosodic,reduced breath control - grunting,1.462007,1.786572,,,,0,
+base,SA003,grandfather,substitution,substitution,phonemic substitution know -> row,3.058519,3.491273,,,,0,
+base,SA003,grandfather,insertion,insertion,"word addition ""accilar""",13.251631,14.178543,2,2,0,1,"insertion (13.16 - 13.86): ASR=''EXILED'', Original=''[NOT IN TRANSCRIPT]''"
+base,SA003,grandfather,substitution,substitution,phonemic substitution ooze -> oost,77.477595,78.711529,0,,,1,"substitution (77.24 - 77.86): ASR=''RUST'', Original=''OOZE''"
+base,SA003,rainbow,substitution,deletion,phonemic deletion prism -> pris,9.255756,10.282085,0,,,1,"substitution (9.14 - 9.68): ASR=''PRINCE'', Original=''PRISM''"
+base,SA004,grandfather,substitution,deletion,syllable deletion dresses -> dress ,7.733444,7.874453,0,,,0,"substitution (7.84 - 8.02): ASR=''THE'', Original=''AN''"
+base,SA004,grandfather,repetition,insertion,"Self correct - addition ""in an ancient"" ",9.388093,10.793773,,,,0,
+base,SA004,grandfather,substitution,substitution,Phonemic substitution frock -> flock ,12.787724,13.060928,0,,,1,"substitution (11.46 - 13.02): ASR=''CLOCK'', Original=''FROCK''"
+base,SA004,grandfather,substitution,insertion,phonemic addition coat -> cloak ,13.274644,13.827663,,,,0,
+base,SA004,grandfather,substitution,deletion,"phonemic deletion usually -> ulily (omitted ""s"") ",14.486438,15.143009,0,,,0,"substitution (14.54 - 14.7): ASR=''HE'', Original=''COAT''; substitution (14.7 - 14.9): ASR=''WAS'', Original=''USUALLY''"
+base,SA004,grandfather,insertion,insertion,"word addition ""to"" ",15.079115,15.22453,,,,0,
+base,SA004,grandfather,insertion,insertion,"additional words ""twenty"" ",15.878898,17.139163,2,2,0,0,"insertion (15.68 - 18.2): ASR=''SEVEN'', Original=''[NOT IN TRANSCRIPT]''"
+base,SA004,grandfather,substitution,deletion,syllable deletion several -> sevets ,18.0425,18.690259,0,,,1,"insertion (15.68 - 18.2): ASR=''SEVEN'', Original=''[NOT IN TRANSCRIPT]''"
+base,SA004,grandfather,substitution,substitution,phonemic substitution buttons -> praton ,19.716978,20.388973,0,,,0,"deletion (20.18 - 21.12): ASR='', Original=''YET''"
+base,SA004,grandfather,substitution,deletion,syllable deletion swiftly -> swift ,24.462801,24.903453,0,,,0,"substitution (23.28 - 25.94): ASR=''THREEYEAROLD'', Original=''AS''"
+base,SA004,grandfather,substitution,substitution,phonemic substitution flowing -> floor ,27.61787,27.94175,0,,,1,"substitution (27.44 - 27.8): ASR=''POOR'', Original=''FLOWING''"
+base,SA004,grandfather,substitution,substitution,phonemic substitution clings -> king ,28.593915,28.763566,0,,,0,"substitution (28.38 - 29.16): ASR=''DREAMTORISK'', Original=''CLINGS''"
+base,SA004,grandfather,prosodic,prosodic,prolonged break between words ,29.179982,30.907338,,,,0,
+base,SA004,grandfather,substitution,insertion,syllable addition pronounced -> pronounsation ,34.271717,34.932695,0,,,0,"substitution (34.16 - 34.64): ASR=''PRESENTATION'', Original=''FEELING''"
+base,SA004,grandfather,substitution,substitution,phonemic substitution feeling -> paving ,35.981447,36.444132,0,,,0,"substitution (35.94 - 36.28): ASR=''GIVING'', Original=''OF''; substitution (36.28 - 36.8): ASR=''AN'', Original=''THE''"
+base,SA004,grandfather,insertion,insertion,"additional word ""um"" ",39.081435,39.312777,,,,0,
+base,SA004,grandfather,substitution,deletion,phonemic deletion speaks -> speak ,41.002678,41.346386,,,,0,
+base,SA004,grandfather,substitution,deletion,phonemic deletion voice -> voy ,41.809071,42.04482,0,,,0,"substitution (41.78 - 41.92): ASR=''MORE'', Original=''VOICE''; substitution (41.92 - 42.38): ASR=''LIKE'', Original=''IS''"
+base,SA004,grandfather,substitution,substitution,word substitution quivers -> quail ,45.290223,45.548004,0,,,0,"substitution (44.72 - 45.46): ASR=''CURVE'', Original=''QUIVERS''"
+base,SA004,grandfather,prosodic,prosodic,prolonged break ,46.237625,48.178697,,,,0,
+base,SA004,grandfather,repetition,repetition,repetition (attempt to self correct) quivers a trifle -> krill a trill ,48.61274,49.626239,,,,0,
+base,SA004,grandfather,substitution,substitution,word replacement zest -> new ,54.061403,54.374266,0,,,1,"substitution (53.7 - 54.26): ASR=''YOU'', Original=''ZEST''"
+base,SA004,grandfather,substitution,substitution,phonemic replacement snow -> slow ,60.552208,61.069974,,,,0,
+base,SA004,grandfather,prosodic,prosodic,prolonged break ,61.109633,63.480341,,,,0,
+base,SA004,grandfather,repetition,repetition,"phrase repetition ""ooze or snow"" -> ooze or slow ",63.625757,64.718574,,,,0,
+base,SA004,grandfather,substitution,deletion,phonemic deletion prevent -> pevent ,65.513951,65.974432,0,,,0,"substitution (64.92 - 65.82): ASR=''ICEWEABED'', Original=''SNOW''"
+base,SA004,grandfather,substitution,deletion,phonemic deletion takes -> take ,67.455023,67.730431,0,,,1,"substitution (67.32 - 67.64): ASR=''PICKED'', Original=''TAKES''"
+base,SA004,grandfather,substitution,substitution,phonemic substitution often -> open ,71.16972,71.531055,0,,,0,"substitution (71.38 - 72.7): ASR=''ACHIEVE'', Original=''URGED''"
+base,SA004,grandfather,substitution,substitution,phonemic replacement answers -> answered ,76.360602,76.759392,,,,0,
+base,SA004,grandfather,substitution,deletion,phonemic deletion his -> is ,80.643741,81.027108,0,,,0,"substitution (80.84 - 81.12): ASR=''THE'', Original=''HIS''"
+base,SA004,rainbow,deletion,deletion,"word deletion ""the"" ",13.524145,13.98683,2,2,0,0,"substitution (13.14 - 13.64): ASR=''TAKES'', Original=''TAKE''"
+base,SA004,rainbow,substitution,substitution,phonemic substitution with -> which ,20.211041,20.54153,,,,0,
+base,SA004,rainbow,substitution,substitution,word replacement ends -> ear ,24.727725,25.124312,0,,,1,"insertion (24.64 - 24.9): ASR=''YEARS'', Original=''[NOT IN TRANSCRIPT]''"
+base,SA004,rainbow,substitution,substitution,phonemic substitution horizon -> holaizon ,30.416543,30.982781,,,,0,
+base,SA004,rainbow,substitution,deletion,phonemic deletion looks -> look ,42.668875,42.882591,0,,,1,"substitution (42.58 - 42.76): ASR=''LOOKED'', Original=''LOOKS''"
+base,SA005,grandfather,substitution,deletion,Phonemic deletion dresses -> dress ,7.581556,8.164774,0,,,1,"substitution (7.6 - 7.88): ASR=''DRESSED'', Original=''DRESSES''"
+base,SA005,grandfather,substitution,substitution,phonemic substition swiftly -> swifty ,16.422603,17.005821,0,,,1,"substitution (16.46 - 16.76): ASR=''WITH'', Original=''SWIFTLY''; substitution (16.76 - 17.16): ASR=''THIS'', Original=''AS''"
+base,SA005,grandfather,insertion,insertion,"additional word ""blob""? ",20.120732,20.593492,2,2,0,1,"substitution (20.18 - 21.1): ASR=''BRABBERED'', Original=''BEARD''"
+base,SA005,grandfather,substitution,substitution,phonemic substitution beard -> bear ,20.531635,20.999977,0,,,0,"substitution (20.18 - 21.1): ASR=''BRABBERED'', Original=''BEARD''"
+base,SA005,grandfather,substitution,deletion,phonemic deletion clings -> links ,22.970545,23.642129,,,,0,
+base,SA005,grandfather,substitution,substitution,phonemic substitution quivers -> quivis ,35.567159,36.287344,0,,,1,"substitution (35.58 - 36.12): ASR=''KIFFY'', Original=''QUIVERS''"
+base,SA005,grandfather,substitution,substitution,word replacement each -> a ,38.381625,38.752763,0,,,0,"deletion (38.52 - 38.52): ASR='', Original=''TRIFLE''; deletion (38.52 - 38.52): ASR='', Original=''TWICE''; deletion (38.52 - 38.52): ASR='', Original=''EACH''"
+base,SA005,grandfather,substitution,substitution,word replacement a -> his ,51.314031,51.742607,,,,0,
+base,SA005,grandfather,substitution,insertion,phonemic addition answers -> sayanswer ,60.588073,61.568938,,,,0,
+base,SA005,rainbow,substitution,substitution,phonemic substitution above ->debove ,19.796243,20.93175,0,,,0,"substitution (19.78 - 20.3): ASR=''HIGHLY'', Original=''HIGH''; substitution (20.3 - 20.86): ASR=''BUFF'', Original=''ABOVE''"
+base,SA005,rainbow,substitution,substitution,phonemic substitution at -> ant ,30.819937,31.319207,0,,,1,"substitution (30.74 - 31.18): ASR=''AND'', Original=''AT''"
+base,SA005,rainbow,substitution,insertion,phonemic addition one -> twan ,31.199912,31.579887,,,,0,
+base,SA006,grandfather,substitution,substitution,phonemic substitution nearly -> really ,4.537401,5.800936,0,,,0,"insertion (4.38 - 4.88): ASR=''NELLIE'', Original=''[NOT IN TRANSCRIPT]''"
+base,SA006,grandfather,insertion,insertion,phonemic addition zzz ,10.250143,10.859957,2,2,0,0,"substitution (10.22 - 10.44): ASR=''THE'', Original=''NEARLY''; substitution (10.44 - 11.1): ASR=''BEST'', Original=''NINETYTHREE''"
+base,SA006,grandfather,insertion,insertion,"word addition ""with"" ",21.163383,21.973217,2,2,0,0,"substitution (21.54 - 21.74): ASR=''WE'', Original=''YET''; substitution (21.74 - 22.16): ASR=''GET'', Original=''HE''"
+base,SA006,grandfather,substitution,substitution,phonemic substitution flowing -> plowing ,26.476088,27.134687,0,,,0,"substitution (26.24 - 26.84): ASR=''PULLING'', Original=''LONG''"
+base,SA006,grandfather,substitution,substitution,Phonemic substitution beard -> board ,27.622539,28.398223,0,,,0,"substitution (27.72 - 28.02): ASR=''BUT'', Original=''FLOWING''; substitution (28.02 - 29.52): ASR=''CLINGS'', Original=''BEARD''"
+base,SA006,grandfather,repetition,repetition,"repetition of phrase ""beard clings to his chin"" ",30.93993,32.530326,,,,0,
+base,SA006,grandfather,substitution,insertion,"phonemic addition ""fer"" ",37.672282,38.257704,2,2,0,0,"substitution (38.24 - 38.6): ASR=''RECEIVING'', Original=''FEELING''"
+base,SA006,grandfather,insertion,insertion,"word addition ""release' ",42.306872,42.887416,,,,0,
+base,SA006,grandfather,prosodic,prosodic,"insufficient pause speaks, his ",43.36551,44.209494,,,,0,
+base,SA006,grandfather,substitution,insertion,phonemic addition a -> an ,49.746609,50.136891,0,,,1,"substitution (49.44 - 49.9): ASR=''AND'', Original=''A''; substitution (49.9 - 50.46): ASR=''TRIPLED'', Original=''TRIFLE''"
+base,SA006,grandfather,substitution,insertion,phonemic addition zest -> zesium ,57.230253,57.89861,0,,,1,"substitution (57.14 - 57.48): ASR=''JUST'', Original=''ZEST''"
+base,SA006,grandfather,insertion,insertion,"word addition ""there's"" ",57.96203,58.508424,,,,0,
+base,SA006,grandfather,substitution,substitution,word replacement ooze -> colds ,66.918986,67.436109,0,,,1,"substitution (66.74 - 67.08): ASR=''CAUSE'', Original=''OOZE''; substitution (67.08 - 67.52): ASR=''OF'', Original=''OR''"
+base,SA006,rainbow,insertion,insertion,"word addition ""big"" ",12.596526,13.035593,,,,0,
+base,SA006,rainbow,substitution,insertion,phonemic addition its -> biz ,20.543629,21.041238,0,,,0,"substitution (20.64 - 20.92): ASR=''THIS'', Original=''WITH''; substitution (20.92 - 21.04): ASR=''IS'', Original=''ITS''; substitution (21.04 - 21.36): ASR=''TOP'', Original=''PATH''"
+base,SA006,rainbow,insertion,insertion,"word addition ""a"" ",29.583519,29.920137,,,,0,
+base,SA006,rainbow,substitution,substitution,phonemic substitution legend - regend ,30.120156,30.705578,,,,0,
+base,SA006,rainbow,repetition,repetition,repetition (self correct) to legend ,31.076345,31.993506,,,,0,
+base,SA006,rainbow,substitution,substitution,phonemic substitution at -> an ,34.486428,34.837681,0,,,1,"substitution (34.26 - 34.66): ASR=''AND'', Original=''AT''; substitution (34.66 - 35.38): ASR=''WHITE'', Original=''ONE''"
+base,SA006,rainbow,repetition,repetition,"word repetition ""look"" ",37.56965,38.398998,,,,0,
+base,SA006,rainbow,repetition,repetition,"repetition of ""even"" ",40.560181,41.043154,,,,0,
+base,SA006,rainbow,substitution,insertion,phonemic addition his -> this ,46.077782,46.990065,0,,,0,"substitution (45.86 - 46.16): ASR=''IT'', Original=''HIS''; substitution (46.16 - 46.48): ASR=''IS'', Original=''REACH''"

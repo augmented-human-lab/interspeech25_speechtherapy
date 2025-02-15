@@ -1,0 +1,6 @@
+,Substitution,Deletion,Insertion,Not Detected,Total Count
+Substitution Errors,52,0,2,16,70
+Deletion Errors,24,2,1,13,39
+Insertion Errors,18,0,7,29,54
+Repetition Errors,2,0,1,10,13
+Prosodic Errors,4,0,1,15,20
