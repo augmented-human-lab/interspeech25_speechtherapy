@@ -1,9 +1,12 @@
 # Towards Temporally Explainable Speech Clarity Assessment for Dysarthric Speech
-## Authors: Seohyun Park*, Chitralekha Gupta*, Michelle Kah Yian Kwan, Xinhui Fung, Alexander Wenjun Yip, Suranga Nanayakkara
-(*equal contributors)
+## Authors  
+**Seohyun Park\***, **Chitralekha Gupta\***, Michelle Kah Yian Kwan, Xinhui Fung, Alexander Wenjun Yip, Suranga Nanayakkara  
+*\*Equal contributors* 
 ### Accepted in Interspeech 2025
 
-## Table of Contents  
+Supplementary Material for the paper
+
+#### Table of Contents  
 1. [Examples from our dataset](#1-examples-from-our-dataset)  
 2. [Mispronunciation Classification](#2-section-45-mispronunciation-classification)
    - 2.1 [ASR-wise Class Confusion Matrices](#21-asr-wise-class-confusion-matrices)  
