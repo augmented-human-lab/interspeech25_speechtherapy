@@ -2,20 +2,23 @@
 ## Authors  
 **Seohyun Park\***, **Chitralekha Gupta\***, Michelle Kah Yian Kwan, Xinhui Fung, Alexander Wenjun Yip, Suranga Nanayakkara  
 *\*Equal contributors* 
-### Accepted in Interspeech 2025
+#### Accepted in Interspeech 2025
 
 
 ## Abstract
 Dysarthria, a motor speech disorder, affects intelligibility and requires targeted interventions for effective communication.  
 In this work, we investigate automated mispronunciation feedback by collecting a dysarthric speech dataset from six speakers reading two passages, annotated by a speech therapist with temporal markers and mispronunciation descriptions. We design a three-stage framework for explainable mispronunciation evaluation: (1) overall clarity scoring, (2) mispronunciation localization, and (3) mispronunciation type classification. We systematically analyze pretrained Automatic Speech Recognition (ASR) models in each stage, assessing their effectiveness in dysarthric speech evaluation. Our findings offer clinically relevant insights for automating actionable feedback for pronunciation assessment, which could enable independent practice for patients and help therapists deliver more effective interventions.
 
-<img src="framework.png" alt="Framework for Speech Clarity Assessment" width="300" />
+<p align="center"><img src="framework.png" alt="Framework for Speech Clarity Assessment" width="300" /></p>
 <!-- ![Framework for Speech Clarity Assessment](framework.png "Framework for Speech Clarity Assessment"){ width=300 } -->
 
+<a href="https://github.com/augmented-human-lab/interspeech25_speechtherapy">
+  <img src="https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repo">
+</a>
+
+[![PDF](https://img.shields.io/badge/Download-PDF-red?style=flat&logo=adobe-acrobat-reader)](./papers/paper.pdf)
 
 ## Supplementary Material for the paper
-
-
 
 #### Table of Contents  
 1. [Examples from our dataset](#1-examples-from-our-dataset)  
