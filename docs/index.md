@@ -4,6 +4,10 @@
 *\*Equal contributors* 
 #### Accepted in Interspeech 2025
 
+<a href="https://github.com/augmented-human-lab/interspeech25_speechtherapy" target="_blank">
+  <img src="https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repo">
+</a>
+[![PDF](https://img.shields.io/badge/Download-PDF-red?style=flat&logo=adobe-acrobat-reader)](./papers/paper.pdf)
 
 ## Abstract
 Dysarthria, a motor speech disorder, affects intelligibility and requires targeted interventions for effective communication.  
@@ -12,11 +16,6 @@ In this work, we investigate automated mispronunciation feedback by collecting a
 <p align="center"><img src="framework.png" alt="Framework for Speech Clarity Assessment" width="300" /></p>
 <!-- ![Framework for Speech Clarity Assessment](framework.png "Framework for Speech Clarity Assessment"){ width=300 } -->
 
-<a href="https://github.com/augmented-human-lab/interspeech25_speechtherapy">
-  <img src="https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repo">
-</a>
-
-[![PDF](https://img.shields.io/badge/Download-PDF-red?style=flat&logo=adobe-acrobat-reader)](./papers/paper.pdf)
 
 ## Supplementary Material for the paper
 
