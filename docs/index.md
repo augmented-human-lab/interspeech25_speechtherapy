@@ -4,7 +4,17 @@
 *\*Equal contributors* 
 ### Accepted in Interspeech 2025
 
-Supplementary Material for the paper
+
+## Abstract
+Dysarthria, a motor speech disorder, affects intelligibility and requires targeted interventions for effective communication.  
+In this work, we investigate automated mispronunciation feedback by collecting a dysarthric speech dataset from six speakers reading two passages, annotated by a speech therapist with temporal markers and mispronunciation descriptions. We design a three-stage framework for explainable mispronunciation evaluation: (1) overall clarity scoring, (2) mispronunciation localization, and (3) mispronunciation type classification. We systematically analyze pretrained Automatic Speech Recognition (ASR) models in each stage, assessing their effectiveness in dysarthric speech evaluation. Our findings offer clinically relevant insights for automating actionable feedback for pronunciation assessment, which could enable independent practice for patients and help therapists deliver more effective interventions.
+
+![Framework for Speech Clarity Assessment](framework.png "Framework for Speech Clarity Assessment")
+
+
+## Supplementary Material for the paper
+
+
 
 #### Table of Contents  
 1. [Examples from our dataset](#1-examples-from-our-dataset)  
