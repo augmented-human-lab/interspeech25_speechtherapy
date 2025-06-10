@@ -4,6 +4,9 @@
 
 This repository contains the implementation code for our paper "Towards Temporally Explainable Dysarthric Speech Clarity Assessment," which presents a three-stage framework for automated mispronunciation evaluation in dysarthric speech.
 
+[Paper](https://arxiv.org/abs/2506.00454)
+[Supplementary material](https://apps.ahlab.org/interspeech25_speechtherapy/)
+
 ## Overview
 
 Our framework provides:
