@@ -194,7 +194,7 @@ If you use this code in your research, please cite our paper:
 ```bibtex
 @inproceedings{your2025interspeech,
   title={Towards Temporally Explainable Dysarthric Speech Clarity Assessment},
-  author={[Author Names]},
+  author={Seohyun Park*, Chitralekha Gupta*, Michelle Kah Yian Kwan, Xinhui Fung, Alexander Wenjun Yip, Suranga Nanayakkara (*equal contributors)},
   booktitle={Proceedings of Interspeech 2025},
   year={2025}
 }
